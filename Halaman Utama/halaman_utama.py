@@ -177,6 +177,13 @@ elif menu == "About Us":
                 "fun_fact": "ga bisa coding tapi masuk data",
                 "motto_hidup": "jalanin dulu",
             },
+            {
+                "nama": "Efi Defiyati",
+                "sebagai": "Anggota",
+                "nim": "123450005",
+                "fun_fact": "mengarang cerita sebelum tidur",
+                "motto_hidup": "jalanin aja atau jalan-jalan",
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
 
