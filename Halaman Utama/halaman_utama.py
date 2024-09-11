@@ -191,6 +191,13 @@ elif menu == "About Us":
                 "fun_fact": "Panikan level akut",
                 "motto_hidup": "Terwujud tidak terwujud, tetaplah bersujud",
             },
+            {
+                "nama": "Lia Hana Ichisasmita",
+                "sebagai": "Anggota",
+                "nim": "123450089",
+                "fun_fact": "Pengamat yang baik",
+                "motto_hidup": "Ikuti alurnya, nikmati prosesnya",
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
 
