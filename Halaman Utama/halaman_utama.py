@@ -184,6 +184,13 @@ elif menu == "About Us":
                 "fun_fact": "mengarang cerita sebelum tidur",
                 "motto_hidup": "jalanin aja atau jalan-jalan",
             },
+            {
+                "nama": "Lutfia Aisyah Putri",
+                "sebagai": "Anggota",
+                "nim": "123450074",
+                "fun_fact": "Panikan level akut",
+                "motto_hidup": "Terwujud tidak terwujud, tetaplah bersujud",
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
 
