@@ -159,16 +159,16 @@ elif menu == "About Us":
             {
                 "nama": "Aliya Ammara Ananta",
                 "sebagai": "Anggota",
-                "nim": "122450075",
+                "nim": "123450075",
                 "fun_fact": "menghapal sangat cepat",
                 "motto_hidup": "semangat terus sampai mampus",
             },
             {
-                "nama": "D",
+                "nama": "Nadya Ratu Anjani",
                 "sebagai": "Anggota",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
+                "nim": "123450083",
+                "fun_fact": "tidak bisa mengendarai sepeda",
+                "motto_hidup": "just keep pushing, just keep pushing",
             },
             {
                 "nama": "Tesalonika Hutajulu",
