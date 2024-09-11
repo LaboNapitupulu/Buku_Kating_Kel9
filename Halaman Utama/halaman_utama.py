@@ -198,6 +198,13 @@ elif menu == "About Us":
                 "fun_fact": "Pengamat yang baik",
                 "motto_hidup": "Ikuti alurnya, nikmati prosesnya",
             },
+            {
+                "nama": "Rafi Diva Efangga",
+                "sebagai": "Anggota",
+                "nim": "123450001",
+                "fun_fact": "suka gabut tengah malam",
+                "motto_hidup": "selalu bersyukur apapun yang terjadi",
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
 
