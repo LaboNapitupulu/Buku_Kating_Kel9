@@ -171,11 +171,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu aja",
             },
             {
-                "nama": "E",
+                "nama": "Tesalonika Hutajulu",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450033",
+                "fun_fact": "ga bisa coding tapi masuk data",
+                "motto_hidup": "jalanin dulu",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
