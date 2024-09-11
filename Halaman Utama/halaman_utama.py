@@ -150,11 +150,11 @@ elif menu == "About Us":
                 "motto_hidup": "Jangan meninggal sebelum ke Banda Neira",
             },
             {
-                "nama": "B",
+                "nama": "Dea Amanda",
                 "sebagai": "Bu Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "123450006",
+                "fun_fact": "belibet ngomong E",
+                "motto_hidup": "hidup cuma sekali",
             },
             {
                 "nama": "Aliya Ammara Ananta",
@@ -205,6 +205,7 @@ elif menu == "About Us":
                 "fun_fact": "suka gabut tengah malam",
                 "motto_hidup": "selalu bersyukur apapun yang terjadi",
             },
+            
         ]
         display_images_with_data(gambar_urls, data_list)
 
