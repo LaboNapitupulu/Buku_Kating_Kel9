@@ -157,11 +157,11 @@ elif menu == "About Us":
                 "motto_hidup": "Ya apa ya",
             },
             {
-                "nama": "C",
+                "nama": "Aliya Ammara Ananta",
                 "sebagai": "Anggota",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
+                "nim": "122450075",
+                "fun_fact": "menghapal sangat cepat",
+                "motto_hidup": "semangat terus sampai mampus",
             },
             {
                 "nama": "D",
