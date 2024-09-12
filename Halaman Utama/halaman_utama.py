@@ -138,7 +138,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1QEBEvPJpvsnVDdIe7Vlxv8bhRKO6G9iP", #labo
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #dea
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Ale
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Nadya
+            "https://drive.google.com/uc?export=view&id=1hRD_DucFPJPTgZBscZNyNOxwaB1KTQ-I", #Nadya
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Tesa
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Efi
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Lutfia
