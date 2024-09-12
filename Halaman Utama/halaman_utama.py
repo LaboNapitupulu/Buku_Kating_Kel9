@@ -205,6 +205,13 @@ elif menu == "About Us":
                 "fun_fact": "suka gabut tengah malam",
                 "motto_hidup": "selalu bersyukur apapun yang terjadi",
             },
+            {
+                "nama": "Aisyah Musfirah",
+                "sebagai": "Anggota",
+                "nim": "123450084",
+                "fun_fact": "ENTJ tapi introvert",
+                "motto_hidup": "Focus on your study and make Joshua proud",
+            },
             
         ]
         display_images_with_data(gambar_urls, data_list)
