@@ -220,6 +220,13 @@ elif menu == "About Us":
                 "fun_fact": "ENTJ tapi introvert",
                 "motto_hidup": "Focus on your study and make Joshua proud",
             },
+            {
+                "nama": "Arielva Simon Siahaan",
+                "sebagai": "Anggota",
+                "nim": "123450105",
+                "fun_fact": "ujian ya sks",
+                "motto_hidup": "dengan sks dapatkan nilai a",
+            },
             
         ]
         display_images_with_data(gambar_urls, data_list)
