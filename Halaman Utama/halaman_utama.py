@@ -146,7 +146,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Rafi
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Aisyah
             "https://drive.google.com/uc?export=view&id=1gcAZp0gojhbMgs7bS-3bK6fOHsvZMMFC", #Ariel
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Fikri
+            "https://drive.google.com/uc?export=view&id=1yXw5sa22zovTeaO0fy5SJFRkXBM-IxT6", #Fikri
         ]
         
         data_list = [
@@ -227,7 +227,13 @@ elif menu == "About Us":
                 "fun_fact": "ujian ya sks",
                 "motto_hidup": "dengan sks dapatkan nilai a",
             },
-            
+            {
+                "nama": "Abdillah Fikri Al Pome",
+                "sebagai": "Anggota",
+                "nim": "123450062",
+                "fun_fact": "saya bisa berjalan",
+                "motto_hidup": "jangan sombong aee",
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
 
