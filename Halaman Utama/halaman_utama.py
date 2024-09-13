@@ -137,7 +137,7 @@ elif menu == "About Us":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1QEBEvPJpvsnVDdIe7Vlxv8bhRKO6G9iP", #labo
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #dea
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Ale
+            "https://drive.google.com/uc?export=view&id=1tVijdOoz6T6sC2hJWcE27zb4FO8pd0gO", #Ale
             "https://drive.google.com/uc?export=view&id=1hRD_DucFPJPTgZBscZNyNOxwaB1KTQ-I", #Nadya
             "https://drive.google.com/uc?export=view&id=17Q_PJzifqxHsLF5vr5TJNrf7O58mH20e", #Tesa
             "https://drive.google.com/uc?export=view&id=1S_FtbEO8iQGvyUZ9hp3M19aDvToLr9Zs", #Efi
