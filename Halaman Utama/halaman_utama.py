@@ -144,7 +144,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1wKuzDS0oQfb9GL6LBub7kKKp1LscBCPf", #Lutfia
             "https://drive.google.com/uc?export=view&id=1ih4tjMqUAhyA6wPibNUkhq_J_f7HJAfi", #Lia
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Rafi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Aisyah
+            "https://drive.google.com/uc?export=view&id=1GCl8uI-GB7tcHypdhEoBt5Y4ZxWxapGM", #Aisyah
             "https://drive.google.com/uc?export=view&id=1gcAZp0gojhbMgs7bS-3bK6fOHsvZMMFC", #Ariel
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Fikri
         ]
