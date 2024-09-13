@@ -143,7 +143,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1S_FtbEO8iQGvyUZ9hp3M19aDvToLr9Zs", #Efi
             "https://drive.google.com/uc?export=view&id=1wKuzDS0oQfb9GL6LBub7kKKp1LscBCPf", #Lutfia
             "https://drive.google.com/uc?export=view&id=1ih4tjMqUAhyA6wPibNUkhq_J_f7HJAfi", #Lia
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Rafi
+            "https://drive.google.com/uc?export=view&id=11AOkHOiJGBygAHvVPAYG8YM1R03Gbcl40", #Rafi
             "https://drive.google.com/uc?export=view&id=1XT52RYu9aha9H8UhsU0Qm8sI9-rQB39u", #Aisyah
             "https://drive.google.com/uc?export=view&id=1gcAZp0gojhbMgs7bS-3bK6fOHsvZMMFC", #Ariel
             "https://drive.google.com/uc?export=view&id=1yXw5sa22zovTeaO0fy5SJFRkXBM-IxT6", #Fikri
