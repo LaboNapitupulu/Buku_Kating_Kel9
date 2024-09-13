@@ -227,7 +227,13 @@ elif menu == "About Us":
                 "fun_fact": "ujian ya sks",
                 "motto_hidup": "dengan sks dapatkan nilai a",
             },
-            
+            {
+                "nama": "Abdillah Fikri Al Pome",
+                "sebagai": "Anggota",
+                "nim": "123450062",
+                "fun_fact": "saya bisa berjalan",
+                "motto_hidup": "jangan sombong aee",
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
 
