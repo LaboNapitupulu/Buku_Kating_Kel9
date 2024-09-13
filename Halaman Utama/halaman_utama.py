@@ -154,7 +154,7 @@ elif menu == "About Us":
                 "nama": "Labo Napitupulu",
                 "sebagai": "Pak Lurah",
                 "nim": "123450037",
-                "fun_fact": "Metabolimse tergolong cepat",
+                "fun_fact": "Metabolisme tergolong cepat",
                 "motto_hidup": "Jangan meninggal sebelum ke Banda Neira",
             },
             {
