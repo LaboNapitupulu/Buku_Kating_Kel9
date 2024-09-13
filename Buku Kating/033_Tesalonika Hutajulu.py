@@ -185,3 +185,4 @@ elif menu == "Baleg":
     baleg()
 
 # Tambahkan menu lainnya sesuai kebutuhan
+
