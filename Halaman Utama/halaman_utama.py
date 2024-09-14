@@ -99,7 +99,7 @@ if menu == "Home":
             unsafe_allow_html=True,
         )
         st.markdown(
-            "<h1 class='centered-title'>Deskripsi Kelompok</h1>", unsafe_allow_html=True
+            "<h1 class='centered-title'>This Is Uniform</h1>", unsafe_allow_html=True
         )
         st.markdown(
             """<div style="text-align: justify;">Uniform adalah kelompok kaderisasi HMSD Adyatama ke-9. Nama "Uniform" berasal dari distribusi seragam dalam statistika, 
@@ -114,7 +114,7 @@ if menu == "Home":
         st.markdown(
             """<div style="text-align: justify;">Meski setiap anggota memiliki peran yang berbeda, 
             semua bersatu dalam satu tujuan, seperti halnya distribusi seragam yang memberikan peluang yang sama untuk setiap nilai. Ini menekankan pentingnya kerja sama dan sinergi dalam mencapai hasil yang optimal dalam sebuah tim. Meskipun kami adalah kelompok terakhir, 
-            tapi kami percaya dengan kata=kata "Save the best for the last". This is Uniform. Unity of Many Form.</div>""",
+            tapi kami percaya dengan kata-kata "Save the best for the last". This is Uniform. Unity of Many Form.</div>""",
             unsafe_allow_html=True,
         )
         st.write(""" """)
