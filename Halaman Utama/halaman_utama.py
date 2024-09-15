@@ -118,6 +118,15 @@ if menu == "Home":
             unsafe_allow_html=True,
         )
         st.write(""" """)
+        foto_kelompok = "https://drive.google.com/uc?export=view&id=1Rnu9pJsPjzRTbWu901GfM0dxFFRp3os0"
+        layout(foto_kelompok)
+        st.markdown(
+            """<div style="text-align: justify;">Meski setiap anggota memiliki peran yang berbeda, 
+            semua bersatu dalam satu tujuan, seperti halnya distribusi seragam yang memberikan peluang yang sama untuk setiap nilai. Ini menekankan pentingnya kerja sama dan sinergi dalam mencapai hasil yang optimal dalam sebuah tim. Meskipun kami adalah kelompok terakhir, 
+            tapi kami percaya dengan kata-kata "Save the best for the last". This is Uniform. Unity of Many Form.</div>""",
+            unsafe_allow_html=True,
+        )
+        st.write(""" """)
 
     home_page()
 
