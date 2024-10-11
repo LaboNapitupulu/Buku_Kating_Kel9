@@ -187,37 +187,126 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama"	    : "Tri Murniya Ningsih",
+                "nim"		: "121450038",
+                "umur"	    : "21",
+                "asal"		: "Bogor",
+                "alamat"	: "Raden Saleh",
+                "hobi"		: "Searching di perpexcity",
+                "sosmed"	: "@trimurniaa_",
+                "kesan"	    : "Kak Niya good-vibes bangett",  
+                "pesan"	    : "Semangat ngasprak RA kak"# 1
+
             },
             {
-                "nama": "Kakak E",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"	    : "Claudhea Angeliani",
+                "nim"		: "121450124",
+                "umur"	    : "21",
+                "asal"		: "Salatiga",
+                "alamat"	: "Lampung Timur",
+                "hobi"		: "Baca jurnal",
+                "sosmed"	: "@dylebee",
+                "kesan"	    : "Possitive-vibes",
+                "pesan"	    : "Semangat kak"# 2
             },
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"	    : "Dhea Amelia Putri",
+                "nim"		: "122450004",
+                "umur"	    : "19",
+                "asal"		: "Buleleng",
+                "alamat"	: "Natar",
+                "hobi"		: "Bercocok tanam",
+                "sosmed"	: "@_.dheamelia",
+                "kesan"	    : "Possitive-vibes",
+                "pesan"	    : "Semangat kak" # 3
+            },
+             {
+                "nama"	    : "Jeremia Susanto",
+                "nim"		: "122450022",
+                "umur"	    : "20",
+                "asal"		: "Balam",
+                "alamat"	: "Balam",
+                "hobi"		: "Gangguin orang",
+                "sosmed"	: "@jeremia_s_",
+                "kesan"	    : "Possitive-vibes",
+                "pesan"	    : "Semangat kak"# 4
+            },
+            {
+                "nama"	    : "Feriyadi Yulius",
+                "nim"		: "122450087",
+                "umur"	    : "20",
+                "asal"		: "Sumatera Selatan",
+                "alamat"	: "Depan Koban",
+                "hobi"		: "Baca buku",
+                "sosmed"	: "@fer_yulius",
+                "kesan"	    : "Kakaknya pendiem",  
+                "pesan"	    : "Kutunggu debutnya kak"# 5
+            },
+            {
+                "nama"	    : "Mirza yusuf mirzani",
+                "nim"		: "1224500118",
+                "umur"	    : "20",
+                "asal"		: "Jakarta",
+                "alamat"	: "Korpri",
+                "hobi"		: "Membaca",
+                "sosmed"	: "@myrrinn",
+                "kesan"	    : "Kakak asprak strukdat RA",  
+                "pesan"	    : "Jangan kapok asprakin kita yaa kak"# 6
+            },
+            {
+                "nama"	    : "Muhammad Farul Aditya",
+                "nim"		: "121450156",
+                "umur"	    : "21",
+                "asal"		: "Surakarta",
+                "alamat"	: "Pahoman",
+                "hobi"		: "Ngopi",
+                "sosmed"	: "@fhrul.pdf",
+                "kesan"	    : "Kakak asprak strukdat RA",  
+                "pesan"	    : "Jangan kapok asprakin kita yaa kak"# 6
+            },
+              {
+                "nama"	    : "Annisa cahyani surya",
+                "nim"		: "121450114",
+                "umur"	    : "21",
+                "asal"		: "Tangerang",
+                "alamat"	: "Jatimulyo",
+                "hobi"		: "Baca dan nonton",
+                "sosmed"	: "@annisacahyanisurya",
+                "kesan"	    : "Kakak asprak strukdat RA",  
+                "pesan"	    : "Jangan kapok asprakin kita yaa kak"# 6
+            },
+              {
+                "nama"	    : "Berliana enda putri",
+                "nim"		: "122450065",
+                "umur"	    : "20",
+                "asal"		: "BSD, Tangerang Selatan",
+                "alamat"	: "Teluk",
+                "hobi"		: "Suka liat linked in, puasa senin kamis, ngerjain tugas di draw io",
+                "sosmed"	: "@berlyyanda",
+                "kesan"	    : "Kakak asprak strukdat RA",  
+                "pesan"	    : "Jangan kapok asprakin kita yaa kak"# 6
+            },
+            {
+                "nama"	    : "Anisa Dini Amalia",
+                "nim"		: "121450081",
+                "umur"	    : "21",
+                "asal"		: "Malang",
+                "alamat"	: "Jati Agung",
+                "hobi"		: "Baca Webtoon",
+                "sosmed"	: "@anisadini10",
+                "kesan"	    : "Kakak asprak strukdat RA",  
+                "pesan"	    : "Jangan kapok asprakin kita yaa kak"# 6
+            },
+            {
+                "nama"	    : "Anisa Dini Amalia",
+                "nim"		: "121450081",
+                "umur"	    : "21",
+                "asal"		: "Medan",
+                "alamat"	: "Raden Saleh",
+                "hobi"		: "Nonton drakor",
+                "sosmed"	: "@wlsbn0_",
+                "kesan"	    : "Kakak asprak strukdat RA",  
+                "pesan"	    : "Jangan kapok asprakin kita yaa kak"# 6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
