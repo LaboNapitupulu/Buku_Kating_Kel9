@@ -164,15 +164,15 @@ if menu == "Kesekjenan":
                 "pesan"	:"Semoga jadi penyanyi"# 5
             },
             {
-                "Nama"	: "Nadilla Andhara Putri",
-                "NIM"		: "121450003",
-                "Umur"	: "21",
-                "Asal"		:" Metro",
-                "Alamat"	: "Kota baru",
-                "Hobi"		: "Membaca",
-                "Sosmed"	: "@",
-                "Kesan"	: "Gayanya keren karena make kacamata gelap",  
-                "Pesan"	:"Semoga selalu murah senyum"# 6
+                "nama"	: "Nadilla Andhara Putri",
+                "nim"		: "121450003",
+                "umur"	: "21",
+                "asal"		:" Metro",
+                "alamat"	: "Kota baru",
+                "hobi"		: "Membaca",
+                "sosmed"	: "@nadillaandr26",
+                "kesan"	: "Gayanya keren karena make kacamata gelap",  
+                "pesan"	:"Semoga selalu murah senyum"# 6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
