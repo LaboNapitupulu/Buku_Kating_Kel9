@@ -82,15 +82,15 @@ def display_images_with_data(gambar_urls, data_list):
             st.image(img, use_column_width=True)
 
         if i < len(data_list):
-            st.write(f"Nama: {data_list[i]['nama']}")
-            st.write(f"NIM: {data_list[i]['nim']}")
-            st.write(f"Umur: {data_list[i]['umur']}")
-            st.write(f"Asal: {data_list[i]['asal']}")
-            st.write(f"Alamat: {data_list[i]['alamat']}")
-            st.write(f"Hobbi: {data_list[i]['hobbi']}")
+            st.write(f"Nama        : {data_list[i]['nama']}")
+            st.write(f"NIM         : {data_list[i]['nim']}")
+            st.write(f"Umur        : {data_list[i]['umur']}")
+            st.write(f"Asal        : {data_list[i]['asal']}")
+            st.write(f"Alamat      : {data_list[i]['alamat']}")
+            st.write(f"Hobbi       : {data_list[i]['hobbi']}")
             st.write(f"Sosial Media: {data_list[i]['sosmed']}")
-            st.write(f"Kesan: {data_list[i]['kesan']}")
-            st.write(f"Pesan: {data_list[i]['pesan']}")
+            st.write(f"Kesan       : {data_list[i]['kesan']}")
+            st.write(f"Pesan       : {data_list[i]['pesan']}")
             st.write("  ")
     st.write("Semua gambar telah dimuat!")
 menu = streamlit_menu()
@@ -105,15 +105,15 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Kharisma Gumilang",
+                "nim": "121450142",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pulau Damar",
+                "hobbi": "Dengar Musik",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "abangnya sangat berkharisma sebagai kahim, sama seperti namanya",  
+                "pesan":"semangat sukses terus kuliahnya bang semoga lulus tepat waktu!!!"# 1
             },
             {
                 "nama": "Kakak B",
