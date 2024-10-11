@@ -100,8 +100,11 @@ if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1yTQ3IwaEddPzuRQQrWvlhkZISQb_75vc", #1
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1y8nGSOHoCsbn82pq3Ksd5kpXwBILfl4y", #2
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #3
+            "https://drive.google.com/uc?export=view&id=1yCBcCRjAzL3tK9A56GZ7ipv46UxPetdO", #4
+            "https://drive.google.com/uc?export=view&id=1y9ca2O072noal3KhxDbPr1JhkuhuD8I6", #5
+            "https://drive.google.com/uc?export=view&id=1y9XJgvfzHk9O1qdc9kEuj5ynfHqBTdmv", #6
         ]
         data_list = [
             {
@@ -117,26 +120,59 @@ if menu == "Kesekjenan":
 
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"	: "Pandra Insani Putra Azwar",
+                "nim"		: "121450137",
+                "umur"	: "21",
+                "asal"		:" Lampung Utara",
+                "alamat"	: "Jl. Bawean 2, Sukarame",
+                "hobi"		: "Main Gitar",
+                "sosmed"	: "@pndrinsni27",
+                "kesan"	: "Ada aja gebrakannya kalau ngomong",  
+                "pesan"	: "Semoga jadi konco abadinya Bang Gumi"# 2
             },
             {
-                "nama": "Kakak C",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"	: "Meliza Wulandari",
+                "nim"		: "121450065",
+                "umur"	: "20",
+                "asal"		:" Pagar Alam",
+                "alamat"	: "Kota baru",
+                "hobi"		: "Drakoran",
+                "sosmed"	: "@wulandarimeliza",
+                "kesan"	: "Kalau ngomong tuh kalem tapi singkat dan padat",  
+                "pesan"	:"Semoga kuat sampai tamat"# 3
+            },
+            {
+                "nama"	: "Putri Maulida Chairani",
+                "nim"		: "121450050",
+                "umur"	: "21",
+                "asal"		:" Payakumbuh",
+                "alamat"	: "JL. Nangka IV",
+                "hobi"		: "Dengarin Bang Pandra gitaran",
+                "sosmed"	: "@ptrimaulidaaa_",
+                "kesan"	: "Jago ngjelasin dan keliatannya jago multi-tasking ",  
+                "pesan"	:"Semoga jangan jadi sekre abadi(gapapa kalau mau)"# 4
+            },
+            {
+                "nama"	: "Hartiti Fadilah",
+                "nim"		: "121450031",
+                "umur"	: "21",
+                "asal"		:" Palembang",
+                "alamat"	: "Pemda",
+                "hobi"		: "Nyanyi",
+                "sosmed"	: "@hrtfdlh",
+                "kesan"	: "Kalo ngomong berasa melayunya",  
+                "pesan"	:"Semoga jadi penyanyi"# 5
+            },
+            {
+                "Nama"	: "Nadilla Andhara Putri",
+                "NIM"		: "121450003",
+                "Umur"	: "21",
+                "Asal"		:" Metro",
+                "Alamat"	: "Kota baru",
+                "Hobi"		: "Membaca",
+                "Sosmed"	: "@",
+                "Kesan"	: "Gayanya keren karena make kacamata gelap",  
+                "Pesan"	:"Semoga selalu murah senyum"# 6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
