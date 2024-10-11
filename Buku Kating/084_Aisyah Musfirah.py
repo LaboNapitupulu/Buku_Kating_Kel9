@@ -33,7 +33,7 @@ def streamlit_menu():
             "people-fill",
             "people-fill",
         ],
-        default_index=0,
+         default_index=0,
         orientation="horizontal",
         styles={
             "container": {"padding": "0!important", "background-color": "#fafafa"},
@@ -82,7 +82,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.image(img, use_column_width=True)
 
         if i < len(data_list):
-             st.write(f"Nama          : {data_list[i]['nama']}")
+            st.write(f"Nama          : {data_list[i]['nama']}")
             st.write(f"NIM           : {data_list[i]['nim']}")
             st.write(f"Umur          : {data_list[i]['umur']}")
             st.write(f"Asal          : {data_list[i]['asal']}")
@@ -220,7 +220,7 @@ elif menu == "Baleg":
                 "kesan"	    : "Possitive-vibes",
                 "pesan"	    : "Semangat kak" # 3
             },
-             {
+            {
                 "nama"	    : "Jeremia Susanto",
                 "nim"		: "122450022",
                 "umur"	    : "20",
@@ -275,7 +275,7 @@ elif menu == "Baleg":
                 "kesan"	    : "Kakak asprak strukdat RA",  
                 "pesan"	    : "Jangan kapok asprakin kita yaa kak"# 6
             },
-              {
+            {
                 "nama"	    : "Berliana enda putri",
                 "nim"		: "122450065",
                 "umur"	    : "20",
