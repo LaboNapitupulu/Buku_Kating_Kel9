@@ -112,11 +112,11 @@ if menu == "Kesekjenan":
                 "nim"		: "121450142",
                 "umur"	: "21",
                 "asal"		:" Palembang",
-                "alamat"	: "Pulau Damar",
+                "alamat"	: "Jl. Pulau Damar",
                 "hobi"		: "Dengar musik",
                 "sosmed"	: "@gumilangkhasirma",
                 "kesan"	: "Abang ini tegas dan berwibawa",  
-                "pesan"	:" Semoga memiliki karis sukses setelah berhasil magang di Telkom"# 1
+                "pesan"	:" Semoga memiliki karir yang sukses setelah berhasil magang di Telkom"# 1
 
             },
             {
@@ -187,37 +187,126 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Tri Murniya Ningsih",
+                "nim": "121450038",
+                "umur": "21",
+                "asal":"Bogor",
+                "alamat": "Jl. Raden Saleh",
+                "hobi": "Searching di perpexcity",
+                "sosmed": "@trimurniaa_",
+                "kesan": "",  
+                "pesan":""
             },
             {
-                "nama": "Kakak E",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Anisa Dini Amalia",
+                "nim": "121450081",
+                "umur": "21",
+                "asal":"Malang",
+                "alamat": "Jati agung",
+                "hobi": "Baca webtoon",
+                "sosmed": "@anisadini10",
+                "kesan": "",  
+                "pesan":""
             },
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Wulan Sabina",
+                "nim": "121450150",
+                "umur": "21",
+                "asal":"Medan",
+                "alamat": "Raden Saleh",
+                "hobi": "Nonton drakor",
+                "sosmed": "@wlsbn0_",
+                "kesan": "",  
+                "pesan":""#
+            },
+            {
+                "nama": "Claudhea Angeliani",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Salatiga",
+                "alamat": "Lampung Timur",
+                "hobi": "Baca jurnal",
+                "sosmed": "@dylebee",
+                "kesan": "",  
+                "pesan":""#
+            },
+            {
+                "nama": "Muhammad Farul Aditya",
+                "nim": "121450156",
+                "umur": "22",
+                "asal":"Srakarta, Jawa Timur",
+                "alamat": "Pahoman",
+                "hobi": "Ngopi",
+                "sosmed": "@fhrul.pdf",
+                "kesan": "",  
+                "pesan":""#
+            },
+
+            {
+                "nama": "",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":""#
+            },
+            {
+                "nama": "",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":""#
+            },
+            {
+                "nama": "",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":""#
+            },
+            {
+                "nama": "",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":""#
+            },
+            {
+                "nama": "",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":""#
+            },
+            {
+                "nama": "",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":""#
             },
         ]
         display_images_with_data(gambar_urls, data_list)
