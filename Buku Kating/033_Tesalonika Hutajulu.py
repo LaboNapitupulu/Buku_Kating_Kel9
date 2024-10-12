@@ -194,103 +194,92 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Tri Murniya Ningsih",
+                "nim": "121450038",
+                "umur": "21",
+                "asal":"Bogor",
+                "alamat": "Raden Saleh",
+                "hobbi": "Searching di perplexity",
+                "sosmed": "@trimurniaa_",
+                "kesan": "Kakak nya imut dan baik",  
+                "pesan":"semangat yaww kak !!!"#1
             },
             {
-                "nama": "Kakak E",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Annisa cahyani surya",
+                "nim": "121450114",
+                "umur": "21",
+                "asal":"tangerang",
+                "alamat": "jatimulyo",
+                "hobbi": "baca dan nonton",
+                "sosmed": "@annisacahyanisurya",
+                "kesan": "kakaknya ramah dan cerdas",  
+                "pesan":"semoga cepat tercapai impiannya !!!"#2
             },
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Wulan Sabina",
+                "nim": "121450150",
+                "umur": "21",
+                "asal":"Medan",
+                "alamat": "Raden saleh",
+                "hobbi": "Nonton drakor",
+                "sosmed": "@wlsbn0_",
+                "kesan": "kakaknya pintarr banget",  
+                "pesan":"sukses selalu kak !!!"#3
             },
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Anisa Dini Amalia",
+                "nim": "121450081",
+                "umur": "21",
+                "asal":"malang",
+                "alamat": "jati agung",
+                "hobbi": "baca webtoon",
+                "sosmed": "@anisadini10",
+                "kesan": "Kakak nya sangat baik dan pintar",  
+                "pesan":"sukses dan jaya terus kak !!!"#4
             },
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Claudhea Angeliani",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Salatiga",
+                "alamat": "Lampung Timur",
+                "hobbi": "Baca jurnal",
+                "sosmed": "@dylebee",
+                "kesan": "kakaknya ramah",  
+                "pesan":"ramah dan manis terus ya kak!!!"#5
             },
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Dhea Amelia Putri",
+                "nim": "122450004",
+                "umur": "19",
+                "asal":"Buleleng",
+                "alamat": "Natar",
+                "hobbi": "Bercocok tanam",
+                "sosmed": "@_.dheamelia",
+                "kesan": "kakaknya baikkk bangett",  
+                "pesan":"baikk teruss ya kakk !!!"#6
             },
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Muhammad Farul Aditya",
+                "nim": "121450156",
+                "umur": "22",
+                "asal":"surakarta jatim",
+                "alamat": "pahoman",
+                "hobbi": "ngopi",
+                "sosmed": "@fhrul.pdf",
+                "kesan": "abangnya baik dan ganteng",  
+                "pesan":"jaya terus bang !!!"#7
             },
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-            {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Feriyadi Yulius",
+                "nim": "122450087",
+                "umur": "20",
+                "asal":"sumsel",
+                "alamat": "depan koban",
+                "hobbi": "baca buku",
+                "sosmed": "@fer_yulius",
+                "kesan": "abangnya sangat supportif",  
+                "pesan":"semoga dapat nilai sempurna semester ini !!!"#8
             },
             {
                 "nama": "Kakak D",
@@ -301,7 +290,7 @@ elif menu == "Baleg":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"#9
             },
             {
                 "nama": "Kakak D",
@@ -312,7 +301,7 @@ elif menu == "Baleg":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"#10
             },
             {
                 "nama": "Kakak D",
@@ -323,7 +312,18 @@ elif menu == "Baleg":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"#11
+            },
+            {
+                "nama": "Kakak D",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"#12
             },
             
         ]
