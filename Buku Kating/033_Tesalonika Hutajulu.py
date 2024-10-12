@@ -97,9 +97,9 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",# 1
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",# 2
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",# 3
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             
         data_list = [
             {
@@ -111,7 +111,7 @@ if menu == "Kesekjenan":
                 "hobbi"   : "Dengar Musik",
                 "sosmed"  : "@gumilangkhasirma",
                 "kesan"   : "Bang gumilang begitu berwibawa",  
-                "pesan"   :"semangat selalu ya bang !!!"# 1
+                "pesan"   :"semangat selalu ya bang !!!"
             },
             {
                 "nama"    : "Pandra Insani Putra Azwar",
@@ -122,8 +122,9 @@ if menu == "Kesekjenan":
                 "hobbi"   : "Main Gitar",
                 "sosmed"  : "@pndrinsni27",
                 "kesan"   : "abangnya sangat asik",  
-                "pesan"   :"semoga dapat A terus !!!"# 2
+                "pesan"   :"semoga dapat A terus !!!"
             },
+            {
                 "nama"    : "Putri Maulida Chairani",
                 "nim"     : "121450050",
                 "umur"    : "21",
@@ -132,7 +133,7 @@ if menu == "Kesekjenan":
                 "hobbi"   : "Dengarin Bang Pandra gitaran",
                 "sosmed   : "@ptrimaulidaaa_",
                 "kesan"   : "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan"   :"semangat terus kuliahnya kakak !!!"# 3
+                "pesan"   :"semangat terus kuliahnya kakak !!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
