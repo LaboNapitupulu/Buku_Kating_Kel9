@@ -100,8 +100,9 @@ if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1Z_8hFGkASmVVtQheA5C_uYdHoq152yIM",#1
-            "https://drive.google.com/uc?export=view&id=16f3FM4fVkA5rXSlItLBFQq3qVN4_nIkH",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=16f3FM4fVkA5rXSlItLBFQq3qVN4_nIkH",#2
+            "https://drive.google.com/uc?export=view&id=1JlUx1qvykOYKZtVBlgzGDXampO9-brw0",#3
+            "https://drive.google.com/uc?export=view&id=1-0c7DbD84urcdTtS1c5_QitobMkbvF7V",#4
         ]
         data_list = [
             {
@@ -128,7 +129,29 @@ if menu == "Kesekjenan":
                 "pesan"    	: "Semoga jadi konco abadinya Bang Gumi"# 2
             },
             {
-                "nama": "Kakak C",
+                "nama": "Meliza Wulandari",
+                "nim": "121450065",
+                "umur": "20",
+                "asal":"Pagar Alam",
+                "alamat": "Kota Baru",
+                "hobi": "Drakoran ",
+                "sosmed": "@wulandarimeliza",
+                "kesan": "Kalau ngomong tuh kalem tapi singkat dan padat",  
+                "pesan":"Semoga Kuat Sampai Tamat"# 3
+            },
+                        {
+                "nama": "Putri Maulidia Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal":"Payakumbuh",
+                "alamat": "JL. Nangka IV",
+                "hobi": "Dengerin bang pandra gitaran ",
+                "sosmed": "@ptrimaulidia_",
+                "kesan": "jago ngjelasin dan keliatannya jago multi-tasking",  
+                "pesan":"Semoga jangan jadi sekre abadi(gapapa kalau mau)"# 4
+            },
+                        {
+                "nama": "Kakak D",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
