@@ -115,8 +115,8 @@ if menu == "Kesekjenan":
                 "alamat"	: "Pulau Damar",
                 "hobi"		: "Dengar musik",
                 "sosmed"	: "@gumilangkhasirma",
-                "kesan"	: "Abang nya sangat keren",  
-                "pesan"	:" Semga sukses dikarirnya "#1
+                "kesan"	: "Abangnya sangat keren",  
+                "pesan"	:" Semga sukses dikarirnya  "#1
 
             },
             {
