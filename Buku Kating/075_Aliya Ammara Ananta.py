@@ -20,8 +20,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "Departemen MEDKRAF",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -179,8 +181,17 @@ elif menu == "Baleg":
     def baleg():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=13ovlGzJPmi9bvBaj6BcCnhW6Wpg9cRQq",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1YzF3JZt-S0qn0Rrv4Dq_VeOkNJiPK1gI",
+            "https://drive.google.com/uc?export=view&id=19maXZ10_EaUndwbn7ujYWkYCRmhCriRK",
+            "https://drive.google.com/uc?export=view&id=1El2pUbsZQrgU3hwiGZNFeVe3Rgmcfaoe",
+            "https://drive.google.com/uc?export=view&id=1jhYEpoZI-8hkTahVGZNVc5Xj7iwxTFG8",
+            "https://drive.google.com/uc?export=view&id=1Unt7j4PEtTAhhJndMShHqFGGQSWrpMgp",
+            "https://drive.google.com/uc?export=view&id=17lxAVHTnbAsVefxatOGfqke1E5I-GRV7",
+            "https://drive.google.com/uc?export=view&id=1NJxOiGekvPK6eCKwlEEoMqr9ev8oqeza",
+            "https://drive.google.com/uc?export=view&id=1TorP-oZ_8BEFwNtK9eCVbGu7sXoqoMvI",
+            "https://drive.google.com/uc?export=view&id=1-AFPDiy1gn68c99u-yU-hUNoFzi0T1K8",
+            "https://drive.google.com/uc?export=view&id=1owENVS5cdiofDK0Nrnc4bLN3qSEuyOeX",
+
         ]
         data_list = [
             {
@@ -203,7 +214,7 @@ elif menu == "Baleg":
                 "hobbi": "Baca jurnal",
                 "sosmed": "@dylebee",
                 "kesan": "Kakak nya cantik banget",  
-                "pesan":"Semangat terus kakak cantik"# 1
+                "pesan":"Semangat terus kakak cantik"
             },
             {
                 "nama": "Dhea Amelia Putri",
@@ -214,7 +225,7 @@ elif menu == "Baleg":
                 "hobbi": "Bercocok tanam",
                 "sosmed": "@_.dheamelia",
                 "kesan": "Kakak nya asik banget",  
-                "pesan":"Semangat kakak kuliahnya"# 1
+                "pesan":"Semangat kakak kuliahnya"
             },
               {
                 "nama": "Jeremia Susanto",
@@ -236,7 +247,7 @@ elif menu == "Baleg":
                 "hobbi": "baca buku",
                 "sosmed": "@fer_yulius",
                 "kesan": "Abangnya keren",  
-                "pesan":"Semangat terus abang!"# 1
+                "pesan":"Semangat terus abang!"
             },
             {
                 "nama": "Mirza yusuf mirzani",
@@ -247,7 +258,7 @@ elif menu == "Baleg":
                 "hobbi": "main kucing",
                 "sosmed": "@myrrinn",
                 "kesan": "Abangnya asik",  
-                "pesan":"Semangat abang kuliahnya"# 1
+                "pesan":"Semangat abang kuliahnya"
             },
              {
                 "nama": "Muhammad Farul Aditya",
@@ -269,7 +280,7 @@ elif menu == "Baleg":
                 "hobbi": "baca dan nonton",
                 "sosmed": "@annisacahyanisurya",
                 "kesan": "Kakak nya skena abis",  
-                "pesan":"Semangat kakak kuliahnya"# 1
+                "pesan":"Semangat kakak kuliahnya"
             },
             {
                 "nama": "Berliana enda putri",
@@ -280,7 +291,7 @@ elif menu == "Baleg":
                 "hobbi": "suka liat linked in, puasa senin kamis, ngerjain tugas di draw io",
                 "sosmed": "@berlyyanda",
                 "kesan": "Kakaknya cantik banget",  
-                "pesan":"Semangat kuliahnya kak"# 1
+                "pesan":"Semangat kuliahnya kak"
             },
               {
                 "nama": "Anisa Dini Amalia",
@@ -302,7 +313,7 @@ elif menu == "Baleg":
                 "hobbi": "Nonton drakor",
                 "sosmed": "@wlsbn0_",
                 "kesan": "Kakaknya baik",  
-                "pesan":"Semangat terus kakak kuliahnya"# 1
+                "pesan":"Semangat terus kakak kuliahnya"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
