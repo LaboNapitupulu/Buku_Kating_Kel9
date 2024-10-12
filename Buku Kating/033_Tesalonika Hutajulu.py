@@ -161,13 +161,13 @@ if menu == "Kesekjenan":
                 "pesan"   :"Lancar terus kerjaanya ya kak !!!"#5
             },
             {
-                "nama"    : "Hartiti Fadilah",
-                "nim"     : "121450031",
+                "nama"    : "Nadilla Andhara Putri",
+                "nim"     : "121450003",
                 "umur"    : "21",
-                "asal"    :"Palembang",
-                "alamat"  : "Pemda",
-                "hobbi"   : "Nyanyi",
-                "sosmed"  : "@hrtfdlh",
+                "asal"    :"Metro",
+                "alamat"  : "Kota baru",
+                "hobbi"   : "Membaca",
+                "sosmed"  : "@nadillaandr26",
                 "kesan"   : "Kakak nya manis",  
                 "pesan"   :"semoga nailainya baguss terus jugaa !!!"#6
             },
