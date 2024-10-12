@@ -137,7 +137,7 @@ if menu == "Kesekjenan":
                 "umur"      : "20",
                 "asal"      : "Pagar Alam",
                 "alamat"    : "Kota Baru",
-                "hbbi"     : "Drakoran",
+                "hobi"     : "Drakoran",
                 "sosmed"    : "@wulandarimeliza",
                 "kesan"     : "kakaknya lucu dan baik.",  
                 "pesan"     : "selalu semangat kak menjalani hari dengan drakoran."# 3
