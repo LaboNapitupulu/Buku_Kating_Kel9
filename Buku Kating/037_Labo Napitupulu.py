@@ -228,7 +228,7 @@ elif menu == "Baleg":
                 "pesan":""
             },
             {
-                "nama"	    : "Anisa Dini Amalia",
+                "nama"	    : "Annisa Cahyani Surya",
                 "nim"		: "121450081",
                 "umur"	    : "21",
                 "asal"		: "Medan",
