@@ -100,10 +100,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",# 1
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",# 2
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",# 3
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",# 4
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",# 5
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",# 6
-        ]
+            
         data_list = [
             {
                 "nama"    : "Kharisma Gumilang",
@@ -127,18 +124,6 @@ if menu == "Kesekjenan":
                 "kesan"   : "abangnya sangat asik",  
                 "pesan"   :"semoga dapat A terus !!!"# 2
             },
-            {
-                "nama"    : "Meliza Wulandari",
-                "nim"     : "121450065",
-                "umur"    : "20",
-                "asal"    :"Pagar Alam",
-                "alamat"  : "Kota baru",
-                "hobbi"   : "Drakoran",
-                "sosmed"  : "@wulandarimeliza",
-                "kesan"   : "kakaknya cantikk dan baik",  
-                "pesan"   :"semoga kuliahnya berjalan lancar !!!"# 3
-            },
-            {
                 "nama"    : "Putri Maulida Chairani",
                 "nim"     : "121450050",
                 "umur"    : "21",
@@ -147,29 +132,7 @@ if menu == "Kesekjenan":
                 "hobbi"   : "Dengarin Bang Pandra gitaran",
                 "sosmed   : "@ptrimaulidaaa_",
                 "kesan"   : "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan"   :"semangat terus kuliahnya kakak !!!"# 4
-            },
-            {
-                "nama"    : "Hartiti Fadilah",
-                "nim"     : "121450031",
-                "umur"    : "21",
-                "asal"    :"Palembang",
-                "alamat"  : "Pemda",
-                "hobbi"   : "Nyanyi",
-                "sosmed"  : "@hrtfdlh",
-                "kesan"   : "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan"   :"semangat terus kuliahnya kakak !!!"# 5
-            },
-            {
-                "nama"    : "Nadilla Andhara Putri",
-                "nim"     : "121450003",
-                "umur"    : "21",
-                "asal"    :"Metro",
-                "alamat"  : "Kota baru",
-                "hobbi"   : "Membaca",
-                "sosmed"  : "@nadillaandr26",
-                "kesan"   : "kakanya manis",  
-                "pesan"   :"semoga dapat nilai bagus terus !!!"# 6
+                "pesan"   :"semangat terus kuliahnya kakak !!!"# 3
             },
         ]
         display_images_with_data(gambar_urls, data_list)
