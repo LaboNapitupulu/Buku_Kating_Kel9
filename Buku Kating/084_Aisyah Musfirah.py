@@ -269,8 +269,8 @@ elif menu == "Baleg":
                 "alamat"	: "Pahoman",
                 "hobi"		: "Ngopi",
                 "sosmed"	: "@fhrul.pdf",
-                "kesan"	    : "Kakak asprak strukdat RA",  
-                "pesan"	    : "Jangan kapok asprakin kita yaa kak"# 6
+                "kesan"	    : "Kayak sering ngeliat abang tapi dimana yak",  
+                "pesan"	    : "Semangat bangggg"# 6
             },
             {
                 "nama"	    : "Feriyadi Yulius",
