@@ -313,7 +313,7 @@ elif menu == "Baleg":
                 "hobi": "Nonton drakor",
                 "sosmed": "@wlsbn0_",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "pesan":"semangat terus kuliahnya kakak !!"
             },
            
         ]
