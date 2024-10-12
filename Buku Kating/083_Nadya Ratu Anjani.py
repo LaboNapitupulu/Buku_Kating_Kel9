@@ -102,6 +102,10 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+
         ]
         data_list = [
             {
@@ -110,7 +114,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Palembang",
                 "alamat": "Pulau Damar ",
-                "hobbi": "Main Bola, Belajar",
+                "hobi": "Main Bola, Belajar",
                 "sosmed": "@gumilsngkharisma",
                 "kesan": "Abang ini tegas banget",  
                 "pesan":"Semangat ya bang"# 1
@@ -121,7 +125,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Lampung Utara",
                 "alamat": "Jalan Bawean 2, Sukarame",
-                "hobbi": "Main gitar",
+                "hobi": "Main gitar",
                 "sosmed": "@pndrinsni27",
                 "kesan": "Wah tetangga saya",  
                 "pesan":"Semangat ya bang"# 1
@@ -132,7 +136,7 @@ if menu == "Kesekjenan":
                 "umur": "20",
                 "asal":"Pagar Alam",
                 "alamat": "Kotabaru",
-                "hobbi": "Drakoran",
+                "hobi": "Drakoran",
                 "sosmed": "@wulandarimeliza",
                 "kesan": "Cantik euy",  
                 "pesan":"Semangat nyekre nya"# 1
@@ -143,7 +147,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Payakumbuh",
                 "alamat": "Jalan Nangka IV",
-                "hobbi": "Dengarin Bang Pandra gitaran",
+                "hobi": "Dengarin Bang Pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "-",  
                 "pesan":"-"# 1
@@ -154,7 +158,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Palembang",
                 "alamat": "Pemda",
-                "hobbi": "Nyanyi",
+                "hobi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
                 "kesan": "-",  
                 "pesan":"-"# 1
@@ -165,7 +169,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Metro",
                 "alamat": "Kotabaru",
-                "hobbi": "Membaca",
+                "hobi": "Membaca",
                 "sosmed": "nadillaandr26",
                 "kesan": "-",  
                 "pesan":"-"# 1
