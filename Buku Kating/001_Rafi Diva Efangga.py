@@ -181,9 +181,17 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1NjXqIQvqBCfAlQob6-AjZgrxtI0V-HyE",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1NjXqIQvqBCfAlQob6-AjZgrxtI0V-HyE",#1
+            "https://drive.google.com/uc?export=view&id=1n9h8VScFm9GhzP0-0ZpwqBNDSIPj_NZn",#2
+            "https://drive.google.com/uc?export=view&id=1t9paUlTPguIJQ1jOxZdWWoAGduSyBQFl",#3
+            "https://drive.google.com/uc?export=view&id=1xLkgHVfSNgHUb2HBYa67YSOiZ6ZssVsy",#4
+            "https://drive.google.com/uc?export=view&id=1xE787bte8aXoRLTikxPljyArmNoakue8",#5
+            "https://drive.google.com/uc?export=view&id=1Ewq0Z8e9WqmsmMfADVwsBLivyGtWjYx7",#6
+            "https://drive.google.com/uc?export=view&id=1xZ6FhtT0KcTs5GmpUD5P8tr3Lbi7gqhw",#7
+            "https://drive.google.com/uc?export=view&id=1bT6HdnkqwMQlwMTVGby_rBnqMk85YL4G",#8
+            "https://drive.google.com/uc?export=view&id=1WrdA0fQi5ysEgp-NSTYxzWYdPDdcwzVs",#9
+            "https://drive.google.com/uc?export=view&id=1aBGbnM8n2_HFZl475cTpSmOh996kYtwc",#10
+            "https://drive.google.com/uc?export=view&id=1M4kfw1ISsZqp0s-9eDtPKa6x4-wAqJ9Z",#11
         ]
         data_list = [
             {
@@ -217,7 +225,7 @@ elif menu == "Baleg":
                 "hobi": "Nonton Drakor",
                 "sosmed": "@wlsbn0_",
                 "kesan": "orangnya dapat dilihat pinter dalam semua matkul",  
-                "pesan":"cepat lulus dan sukses kakak"# 1
+                "pesan":"cepat lulus dan sukses kakak"# 3
             },
             {
                 "nama": "Anisa Dini Amalia",
@@ -228,7 +236,7 @@ elif menu == "Baleg":
                 "hobi": "Nonton Drakor",
                 "sosmed": "@anisadini",
                 "kesan": "Orang yang seru asikk",  
-                "pesan":"Cepat suksess kak"# 1
+                "pesan":"Cepat suksess kak"# 4
             },
             {
                 "nama": "Claudhea Angeliani",
@@ -239,7 +247,7 @@ elif menu == "Baleg":
                 "hobi": "Baca Jurnal",
                 "sosmed": "@dylebee",
                 "kesan": "kakaknya terlihat kece",  
-                "pesan":"kakaknya lucu seruu"# 1
+                "pesan":"kakaknya lucu seruu"# 5
             },
             {
                 "nama": "Dhea Amelia Putri",
@@ -250,7 +258,7 @@ elif menu == "Baleg":
                 "hobi": "Bercocok Tanam",
                 "sosmed": "@_.dheamelia",
                 "kesan": "kakaknya lucuu terus kek random",  
-                "pesan":"semangatt kuliah kak "# 1
+                "pesan":"semangatt kuliah kak "# 6
             },
             {
                 "nama": "Muhammad Fahrul Aditya",
@@ -261,7 +269,7 @@ elif menu == "Baleg":
                 "hobi": "Ngopi",
                 "sosmed": "@fhrul",
                 "kesan": "abangnya kecee seruuu",  
-                "pesan":"semangat terus kuliahnya bang"# 1
+                "pesan":"semangat terus kuliahnya bang"# 7
             },
             {
                 "nama": "Feriyadi Yulius",
@@ -272,7 +280,7 @@ elif menu == "Baleg":
                 "hobi": "Baca Buku",
                 "sosmed": "@fer_yulius",
                 "kesan": "Abangg nya kalem tapi kece",  
-                "pesan":"semangatt kuliah bangg"# 1
+                "pesan":"semangatt kuliah bangg"# 8
             },
             {
                 "nama": "Mirzan Yusuf Rabbani",
@@ -283,7 +291,7 @@ elif menu == "Baleg":
                 "hobi": "Membaca",
                 "sosmed": "@myrrinn",
                 "kesan": "Abangnya terlihat kalem tapi keren",  
-                "pesan":"semangat bang kuliahnnya"# 1
+                "pesan":"semangat bang kuliahnnya"# 9
             },
             {
                 "nama": "Jeremie Susanto",
@@ -294,7 +302,7 @@ elif menu == "Baleg":
                 "hobi": "Gangguin Orang",
                 "sosmed": "@jeremia_s_",
                 "kesan": "Orangnya asikk seruu",  
-                "pesan":"semangat terus bang kuliahnya "# 1
+                "pesan":"semangat terus bang kuliahnya "# 10
             },
             {
                 "nama": "Berliana Enda Putri",
@@ -305,7 +313,7 @@ elif menu == "Baleg":
                 "hobi": "Suka liat linkedln , puasa senin kamis dan ngerjaiin tugas",
                 "sosmed": "@berlyyanda",
                 "kesan": "Kakaknya kalem sekali",  
-                "pesan":"semangat terus kuliahnya kakak"# 1
+                "pesan":"semangat terus kuliahnya kakak"# 11
             },
             
         ]
