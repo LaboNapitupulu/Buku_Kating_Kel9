@@ -115,8 +115,8 @@ if menu == "Kesekjenan":
                 "alamat"	: "Pulau Damar",
                 "hobi"		: "Dengar musik",
                 "sosmed"	: "@gumilangkhasirma",
-                "kesan"	: "Abang ini tegas dan berwibawa",  
-                "pesan"	:" Semga memiliki karir sukses setelah berhasil magang di Telkom"#1
+                "kesan"	: "Abang nya sangat keren",  
+                "pesan"	:" Semga sukses dikarirnya "#1
 
             },
             {
@@ -127,8 +127,8 @@ if menu == "Kesekjenan":
                 "alamat"	: "Jl. Bawean 2, Sukarame",
                 "hobi"		: "Main Gitar",
                 "sosmed"	: "@pndrinsni27",
-                "kesan"	    : "Ada aja gebrakannya kalau ngomong",  
-                "pesan"    	: "Semoga jadi konco abadinya Bang Gumi"# 2
+                "kesan"	    : "kadang suka lucu",  
+                "pesan"    	: "Semoga jadi orang sukses"# 2
             },
             {
                 "nama": "Meliza Wulandari",
@@ -138,8 +138,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobi": "Drakoran ",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "Kalau ngomong tuh kalem tapi singkat dan padat",  
-                "pesan":"Semoga Kuat Sampai Tamat"# 3
+                "kesan": "suaranya terlalu lembut",  
+                "pesan":"Semoga bertahan sampe akhir"# 3
             },
             {
                 "nama": "Putri Maulidia Chairani",
@@ -149,8 +149,8 @@ if menu == "Kesekjenan":
                 "alamat": "JL. Nangka IV",
                 "hobi": "Dengerin bang pandra gitaran ",
                 "sosmed": "@ptrimaulidia_",
-                "kesan": "jago ngjelasin dan keliatannya jago multi-tasking",  
-                "pesan":"Semoga jangan jadi sekre abadi(gapapa kalau mau)"# 4
+                "kesan": "jago berbicara ",  
+                "pesan":"semoga menjadi orang yang sukses"# 4
             },
             {
                 "nama": "Hartiti Fadilah",
@@ -160,8 +160,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
-                "kesan": "Kalo ngomong berasa melayunya",  
-                "pesan":"Semoga jadi penyanyi"# 5
+                "kesan": "suara yang merdu",  
+                "pesan":"Semoga jadi artis "# 5
             },
             {
                 "nama": "Nadila Andhara Putri",
@@ -171,8 +171,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobi": "Membaca",
                 "sosmed": "@nadilaaandr26",
-                "kesan": "Gayanya keren karena make kacamata gelap",  
-                "pesan":"Semoga selalu murah senyum"# 6
+                "kesan": "orang yang seru asikk",  
+                "pesan":"Semoga jadi orang yang selalu sukses dimasa depan"# 6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
