@@ -202,7 +202,7 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobi": "Searching di perplexcity",
                 "sosmed": "@trimuniaa_",
-                "kesan": "Orangnya seruu",  
+                "kesan": "kakaknya seruu , assikk suka bicara",  
                 "pesan":"Tetap semangat sampai akhir "#1
             },
             {
@@ -213,7 +213,7 @@ elif menu == "Baleg":
                 "alamat": "Jatimulyo",
                 "hobi": "Baca dan Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "orangnya baik terus keliatanya asikk",  
+                "kesan": "kakaknya baik terus keliatanya asikk",  
                 "pesan":"semangat terus kuliahnya kakak "#2
             },
             {
@@ -224,7 +224,7 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobi": "Nonton Drakor",
                 "sosmed": "@wlsbn0_",
-                "kesan": "orangnya dapat dilihat pinter dalam semua matkul",  
+                "kesan": "kakaknya dapat dilihat pinter dalam semua matkul",  
                 "pesan":"cepat lulus dan sukses kakak"# 3
             },
             {
@@ -235,7 +235,7 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobi": "Nonton Drakor",
                 "sosmed": "@anisadini",
-                "kesan": "Orang yang seru asikk",  
+                "kesan": "kakaknya yang seru asikk",  
                 "pesan":"Cepat suksess kak"# 4
             },
             {
