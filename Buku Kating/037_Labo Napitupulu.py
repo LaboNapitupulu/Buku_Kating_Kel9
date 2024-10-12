@@ -181,9 +181,9 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1kh-lyef9moCoZRR87FTar60F8fNE7T0B", #Kak Tri
-            "https://drive.google.com/uc?export=view&id=1lQlSq-UhKE3v_HuJZ4PgAOIE8F--F3h", #Kak Anisa
-            "https://drive.google.com/uc?export=view&id=143ozXy1GiNC6ip1TDKU2p08PFGMU5GI7", #Kak Wulan
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
