@@ -184,6 +184,14 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
@@ -217,7 +225,18 @@ elif menu == "Baleg":
                 "hobi": "Nonton drakor",
                 "sosmed": "@wlsbn0_",
                 "kesan": "",  
-                "pesan":""#
+                "pesan":""
+            },
+            {
+                "nama"	    : "Anisa Dini Amalia",
+                "nim"		: "121450081",
+                "umur"	    : "21",
+                "asal"		: "Medan",
+                "alamat"	: "Raden Saleh",
+                "hobi"		: "Nonton drakor",
+                "sosmed"	: "@anisadini10",
+                "kesan"	    : "",  
+                "pesan"	    : ""#
             },
             {
                 "nama": "Claudhea Angeliani",
@@ -239,75 +258,64 @@ elif menu == "Baleg":
                 "hobi": "Ngopi",
                 "sosmed": "@fhrul.pdf",
                 "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama"	    : "Feriyadi Yulius",
+                "nim"		: "122450087",
+                "umur"	    : "20",
+                "asal"		: "Sumatera Selatan",
+                "alamat"	: "Depan Koban",
+                "hobi"		: "Baca buku",
+                "sosmed"	: "@fer_yulius",
+                "kesan"	    : "",  
+                "pesan"	    : ""
+            },
+            {
+                "nama"	    : "Mirza Yusuf Rabbani",
+                "nim"		: "1224500118",
+                "umur"	    : "20",
+                "asal"		: "Jakarta",
+                "alamat"	: "Korpri",
+                "hobi"		: "Membaca",
+                "sosmed"	: "@myrrinn",
+                "kesan"	    : "",  
+                "pesan"	    : ""
+            },
+            {
+                "nama"	    : "Dhea Amelia Putri",
+                "nim"		: "122450004",
+                "umur"	    : "19",
+                "asal"		: "Buleleng",
+                "alamat"	: "Natar",
+                "hobi"		: "Bercocok tanam",
+                "sosmed"	: "@_.dheamelia",
+                "kesan"	    : "",
+                "pesan"	    : "" 
+            },
+            {
+                "nama"	    : "Berliana Enda Putri",
+                "nim"		: "122450065",
+                "umur"	    : "20",
+                "asal"		: "BSD, Tangerang Selatan",
+                "alamat"	: "Teluk",
+                "hobi"		: "Suka liat linked in, puasa senin kamis, ngerjain tugas di draw io",
+                "sosmed"	: "@berlyyanda",
+                "kesan": "",  
+                "pesan":""#
+            },
+            {
+                "nama"	    : "Jeremia Susanto",
+                "nim"		: "122450022",
+                "umur"	    : "20",
+                "asal"		: "Balam",
+                "alamat"	: "Balam",
+                "hobi"		: "Gangguin orang",
+                "sosmed"	: "@jeremia_s_",
+                "kesan": "",  
                 "pesan":""#
             },
 
-            {
-                "nama": "",
-                "nim": "",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "",
-                "kesan": "",  
-                "pesan":""#
-            },
-            {
-                "nama": "",
-                "nim": "",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "",
-                "kesan": "",  
-                "pesan":""#
-            },
-            {
-                "nama": "",
-                "nim": "",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "",
-                "kesan": "",  
-                "pesan":""#
-            },
-            {
-                "nama": "",
-                "nim": "",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "",
-                "kesan": "",  
-                "pesan":""#
-            },
-            {
-                "nama": "",
-                "nim": "",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "",
-                "kesan": "",  
-                "pesan":""#
-            },
-            {
-                "nama": "",
-                "nim": "",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "",
-                "kesan": "",  
-                "pesan":""#
-            },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
