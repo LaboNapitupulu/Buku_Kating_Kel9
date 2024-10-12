@@ -87,7 +87,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Umur: {data_list[i]['umur']}")
             st.write(f"Asal: {data_list[i]['asal']}")
             st.write(f"Alamat: {data_list[i]['alamat']}")
-            st.write(f"Hobbi: {data_list[i]['hobbi']}")
+            st.write(f"Hobi: {data_list[i]['hobi']}")
             st.write(f"Sosial Media: {data_list[i]['sosmed']}")
             st.write(f"Kesan: {data_list[i]['kesan']}")
             st.write(f"Pesan: {data_list[i]['pesan']}")
@@ -99,43 +99,79 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=138YG1WnVXAiNZSzrTrFdEXoYh1ryNSkN",
+            "https://drive.google.com/uc?export=view&id=1L2CDQakXGiDLW1otx7P3QzqzXtfc2uwX",
+            "https://drive.google.com/uc?export=view&id=1VtH6gtYMZmP4X1NckmZ7IS5hrrLd18dB",
+            "https://drive.google.com/uc?export=view&id=1htFol76dNLMmOXWlSyenJkSbdNs0MOiP",
+            "https://drive.google.com/uc?export=view&id=1HXfkNlixI7zd7ei8LUr1TvQdz_R6WOpZ",
+            "https://drive.google.com/uc?export=view&id=1VTYjQi5uXt02NkTFl_gLFim77JObhWSc",
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Kharisma Gumilang",
+                "nim": "121450142",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pulau Damar",
+                "hobi": "Dengar musik",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "Abang ini berkarisma dan asik untuk ngobrol",  
+                "pesan": "Semoga lulus tepat waktu"# 1
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Pandra Insani Putra Azwar",
+                "nim": "121450137",
+                "umur": "21",
+                "asal": "Lampung Utara",
+                "alamat": "Jl. Bawean 2, Sukarame",
+                "hobi": "Main Gitar",
+                "sosmed": "@pndrinsni27",
+                "kesan": "Asik dan informatif",  
+                "pesan": "Semangat kuliah dan ngaspraknya !!!"# 1
             },
             {
-                "nama": "Kakak C",
+                "nama": "Meliza Wulandari",
+                "nim": "121450056",
+                "umur": "20",
+                "asal":"Pagar Alam",
+                "alamat": "Kota baru",
+                "hobi": "Drakoran",
+                "sosmed": "@wulandarimeliza",
+                "kesan": "Kakak baik banget, informatif jawab pertanyaan",  
+                "pesan": "Semangat nerusin surat menyuratnya kak !!!"# 1
+            },
+            {
+                "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal": "Payakumbuh",
+                "alamat": "Jl. Nangka IV",
+                "hobi": "Dengerin Bang Pandra gitar",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "Kakaknya lucu, baik juga",  
+                "pesan": "Semangat kuliah dan tugas sekretarisnya kak !!!"# 1
+            },
+            {
+                "nama": "Hartiti Fadilah",
+                "nim": "121450031",
+                "umur": "21",
+                "asal": "Palembang",
+                "alamat": "Pemda",
+                "hobi": "Nyanyi",
+                "sosmed": "@hrtfdlh",
+                "kesan": "Kakak ini agak pendiam",  
+                "pesan": "Semangat kuliah dan ngurus bendaharanya kak !!!"# 1
+            },
+            {
+                "nama": "Nadilla Andhara Putri",
                 "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "umur": "21",
+                "asal": "Metro",
+                "alamat": "Kota Baru",
+                "hobi": "Membaca",
+                "sosmed": "@nadillaandr26",
+                "kesan": "Kakak ini baik, seru juga",  
+                "pesan": "Semangat ngurus keuangan himpunan kak !!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -155,7 +191,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
@@ -166,7 +202,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -177,7 +213,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
