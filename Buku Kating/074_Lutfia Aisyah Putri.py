@@ -118,8 +118,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pulau Damar",
                 "hobi": "Dengar Musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan": "abangnya sangat berkharisma sebagai kahim, sama seperti namanya",  
-                "pesan":"semangat sukses terus kuliahnya bang semoga lulus tepat waktu!!!"# 1
+                "kesan": "Abangnya sangat berkharisma sebagai kahim, sama seperti namanya",  
+                "pesan":"Semangat sukses terus kuliahnya bang semoga lulus tepat waktu!!!"# 1
             },
             {
                 "nama"	    : "Pandra Insani Putra Azwar",
@@ -205,8 +205,8 @@ elif menu == "Baleg":
                 "alamat"	: "Raden Saleh",
                 "hobi"		: "Searching di perpexcity",
                 "sosmed"	: "@trimurniaa_",
-                "kesan"	    : "Kak Niya good-vibes bangett",  
-                "pesan"	    : "Semangat ngasprak RA kak"# 1
+                "kesan"	    : "Kak Niya orangnya asiik bangett",  
+                "pesan"	    : "Semangat menjelani semester tua kakk"# 1
 
             },
             {
@@ -217,8 +217,8 @@ elif menu == "Baleg":
                 "alamat"	: "Jatimulyo",
                 "hobi"		: "Baca dan nonton",
                 "sosmed"	: "@annisacahyanisurya",
-                "kesan"	    : "Kak Annisa kece hehe",  
-                "pesan"	    : "Semangat nyekre kak"# 6
+                "kesan"	    : "Kak Annisa style nya kece abis",  
+                "pesan"	    : "Minta rekom-rekom style dong kak hehe"# 6
             },
             {
                 "nama"	    : "Wulan Sabina",
@@ -228,8 +228,8 @@ elif menu == "Baleg":
                 "alamat"	: "Raden Saleh",
                 "hobi"		: "Nonton drakor",
                 "sosmed"	: "@wlsbn0_",
-                "kesan"	    : "Pengen ketularan possitive vibesnya Kak Wulan^^",  
-                "pesan"	    : "Keep your vibes kak!",
+                "kesan"	    : "Kak Wulan ternyata yang ngisi materi di acara Sains Data Mengabdi^^",  
+                "pesan"	    : "Sukses selalu kak, semoga magang di telkomnya bisa nular ke saya!",
             },
             {
                 "nama"	    : "Anisa Dini Amalia",
@@ -239,8 +239,8 @@ elif menu == "Baleg":
                 "alamat"	: "Raden Saleh",
                 "hobi"		: "Nonton drakor",
                 "sosmed"	: "@anisadini10",
-                "kesan"	    : "Kak Anisa mirip Shakira CoC",  
-                "pesan"	    : "Semangat nge-stan Svt kak!"# 6
+                "kesan"	    : "Kakanya mirip Shakira CoC, apalagi kalo lagi nyengir",  
+                "pesan"	    : "Semangat selalu kak menjalani tugas baleg dan semester 7"# 6
             },
             {
                 "nama"	    : "Claudhea Angeliani",
@@ -250,8 +250,8 @@ elif menu == "Baleg":
                 "alamat"	: "Lampung Timur",
                 "hobi"		: "Baca jurnal",
                 "sosmed"	: "@dylebee",
-                "kesan"	    : "Vibes kak Claudhea girly bangett",
-                "pesan"	    : "Semoga kubisa girly kayak kakak^^"# 2
+                "kesan"	    : "Kak Claudhea auranya feminim girl banget ",
+                "pesan"	    : "Semangat selalu kak"# 2
             },
             {
                 "nama"	    : "Dhea Amelia Putri",
@@ -261,7 +261,7 @@ elif menu == "Baleg":
                 "alamat"	: "Natar",
                 "hobi"		: "Bercocok tanam",
                 "sosmed"	: "@_.dheamelia",
-                "kesan"	    : "Kak Dhea lucu",
+                "kesan"	    : "Ternysts kak Dhea orsngnya lucu",
                 "pesan"	    : "Semangat nugasnya kak" # 3
             },
             {
@@ -272,8 +272,8 @@ elif menu == "Baleg":
                 "alamat"	: "Pahoman",
                 "hobi"		: "Ngopi",
                 "sosmed"	: "@fhrul.pdf",
-                "kesan"	    : "Kakak asprak strukdat RA",  
-                "pesan"	    : "Jangan kapok asprakin kita yaa kak"# 6
+                "kesan"	    : "Bang Fahrul asik orangnya",  
+                "pesan"	    : "Semangat terus menjalani semester tuanya kk"# 6
             },
             {
                 "nama"	    : "Feriyadi Yulius",
@@ -283,8 +283,8 @@ elif menu == "Baleg":
                 "alamat"	: "Depan Koban",
                 "hobi"		: "Baca buku",
                 "sosmed"	: "@fer_yulius",
-                "kesan"	    : "Ternyata kita mutualan di LinkedIn bang",  
-                "pesan"	    : "Semangat bang"# 5
+                "kesan"	    : "Asik banget diasprakin alpro sama bg Feri",  
+                "pesan"	    : "Jangan kapok bantuin error alpro saya ya bg, tolong juga nilai praktikum alpro saya bang hehe "# 5
             },
             {
                 "nama"	    : "Mirzan Yusuf Rabbani",
@@ -294,8 +294,8 @@ elif menu == "Baleg":
                 "alamat"	: "Korpri",
                 "hobi"		: "Membaca",
                 "sosmed"	: "@myrrinn",
-                "kesan"	    : "Abang ini lucu",  
-                "pesan"	    : "Semangat otw semester akhir bang"# 6
+                "kesan"	    : "Abangnya kalem",  
+                "pesan"	    : "Semangat terus bang Mirzan"# 6
             },
             {
                 "nama"	    : "Jeremia Susanto",
@@ -305,8 +305,8 @@ elif menu == "Baleg":
                 "alamat"	: "Balam",
                 "hobi"		: "Gangguin orang",
                 "sosmed"	: "@jeremia_s_",
-                "kesan"	    : "Bang Jere suka random datengin kelas anak 23",
-                "pesan"	    : "Semangat panitnya bang"# 4
+                "kesan"	    : "Bang Jere orangnya asik random banget apalagi kalo jadi asprak alpro di kelas RB",
+                "pesan"	    : "Jangan panik-panikin kalo lagi ngerjain tugas alpro bg, tolong banget amanin nilai pratikum alpro saya ya bg hehe, semoga nilai bg jere juga jadi aman semua dapat A"# 4
             },
             {
                 "nama"	    : "Berliana Enda Putri",
@@ -316,8 +316,8 @@ elif menu == "Baleg":
                 "alamat"	: "Teluk",
                 "hobi"		: "Suka liat linked in, puasa senin kamis, ngerjain tugas di draw io",
                 "sosmed"	: "@berlyyanda",
-                "kesan"	    : "Kak Berlin pendiem",  
-                "pesan"	    : "Semangat kakk"# 6
+                "kesan"	    : "Ternyata kak Berlin asik diajak ngobrol",  
+                "pesan"	    : "Semangat selalu kakk"# 6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
