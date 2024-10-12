@@ -101,8 +101,8 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=14QBFjd1tiMuNYys5FqIQppx4VPdnXWaJ",#2
             "https://drive.google.com/uc?export=view&id=18yEvp-IlXURqIrqbMFCir2wZxI_cWnRp",#3
             "https://drive.google.com/uc?export=view&id=1QTqYfHsNDSx6s-HrwvhoYi9Ce7oFoEcE",#4
-            "https://drive.google.com/uc?export=view&id=1cFmuGqperuTRHJ7cMD6ooo9x2I83Pp0L",#5
-            "https://drive.google.com/uc?export=view&id=1cFmuGqperuTRHJ7cMD6ooo9x2I83Pp0L",#6
+            "https://drive.google.com/uc?export=view&id=1UtEQpAc9SydjSSndhxjBCaxF6rH9-of8",#5
+            "https://drive.google.com/uc?export=view&id=1jbfoGRMKjPqMtSyRZe6JWX988QoNo11N",#6
         ]
         data_list = [
             {
@@ -146,8 +146,30 @@ if menu == "Kesekjenan":
                 "alamat"  : "Pemda",
                 "hobbi"   : "Nyanyi",
                 "sosmed"  : "@hrtfdlh",
+                "kesan"   : "Kakak nya imut",  
+                "pesan"   :"semangat kakk !!!"#4
+            },
+            {
+                "nama"    : "Putri Maulida Chairani",
+                "nim"     : "121450050",
+                "umur"    : "21",
+                "asal"    :"Payakumbuh",
+                "alamat"  : "JL. Nangka IV",
+                "hobbi"   : "Dengarin Bang Pandra gitaran",
+                "sosmed"  : "@ptrimaulidaaa_",
                 "kesan"   : "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan"   :"semangat terus kuliahnya kakak !!!"#4
+                "pesan"   :"Lancar terus kerjaanya ya kak !!!"#5
+            },
+            {
+                "nama"    : "Nadilla Andhara Putri",
+                "nim"     : "121450003",
+                "umur"    : "21",
+                "asal"    :"Metro",
+                "alamat"  : "Kota baru",
+                "hobbi"   : "Membaca",
+                "sosmed"  : "@nadillaandr26",
+                "kesan"   : "Kakak nya manis",  
+                "pesan"   :"semoga nailainya baguss terus jugaa !!!"#6
             },
             
         ]
