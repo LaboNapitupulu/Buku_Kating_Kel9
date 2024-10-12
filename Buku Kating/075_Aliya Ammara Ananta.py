@@ -20,8 +20,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "Departemen MEDKRAF",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -179,8 +181,17 @@ elif menu == "Baleg":
     def baleg():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=13ovlGzJPmi9bvBaj6BcCnhW6Wpg9cRQq",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1YzF3JZt-S0qn0Rrv4Dq_VeOkNJiPK1gI",
+            "https://drive.google.com/uc?export=view&id=19maXZ10_EaUndwbn7ujYWkYCRmhCriRK",
+            "https://drive.google.com/uc?export=view&id=1El2pUbsZQrgU3hwiGZNFeVe3Rgmcfaoe",
+            "https://drive.google.com/uc?export=view&id=1jhYEpoZI-8hkTahVGZNVc5Xj7iwxTFG8",
+            "https://drive.google.com/uc?export=view&id=1Unt7j4PEtTAhhJndMShHqFGGQSWrpMgp",
+            "https://drive.google.com/uc?export=view&id=17lxAVHTnbAsVefxatOGfqke1E5I-GRV7",
+            "https://drive.google.com/uc?export=view&id=1NJxOiGekvPK6eCKwlEEoMqr9ev8oqeza",
+            "https://drive.google.com/uc?export=view&id=1TorP-oZ_8BEFwNtK9eCVbGu7sXoqoMvI",
+            "https://drive.google.com/uc?export=view&id=1-AFPDiy1gn68c99u-yU-hUNoFzi0T1K8",
+            "https://drive.google.com/uc?export=view&id=1owENVS5cdiofDK0Nrnc4bLN3qSEuyOeX",
+            
         ]
         data_list = [
             {
@@ -239,7 +250,7 @@ elif menu == "Baleg":
                 "pesan":"Semangat terus abang!"# 1
             },
             {
-                "nama": "Mirza yusuf mirzani",
+                "nama": "Mirzan yusuf mirzani",
                 "nim": "122450118",
                 "umur": "21",
                 "asal":"jakarta",
