@@ -282,48 +282,37 @@ elif menu == "Baleg":
                 "pesan":"semoga dapat nilai sempurna semester ini !!!"#8
             },
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"#9
+                "nama": "Mirza yusuf mirzani",
+                "nim": "122450118",
+                "umur": "20",
+                "asal":"jakarta",
+                "alamat": "korpri ",
+                "hobbi": "main kucing",
+                "sosmed": "@myrrinn",
+                "kesan": "Abangnya baik dan ganteng juga",  
+                "pesan":"semoga cepat lulus nantinya !!!"#9
             },
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"#10
+                "nama": "Jeremia Susanto",
+                "nim": "122450022",
+                "umur": "20",
+                "asal":"Balam",
+                "alamat": "Balam",
+                "hobbi": "Gangguin orang",
+                "sosmed": "@jeremia_s_",
+                "kesan": "Abangnya sangat rajin",  
+                "pesan":"semoga rajinnya nular ya bang !!!"#10
             },
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"#11
-            },
-            {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"#12
+                "nama": "Berliana enda putri",
+                "nim": "122450065",
+                "umur": "20",
+                "asal":"BSD",
+                "alamat": "teluk",
+                "hobbi": "suka liat linked in, puasa senin kamis, ngerjain tugas di draw io",
+                "sosmed": "@berlyyanda",
+                "kesan": "Kakak nya cantikk ",  
+                "pesan":"semoga cepatt sukses ya kak !!!"#11
             },
             
         ]
