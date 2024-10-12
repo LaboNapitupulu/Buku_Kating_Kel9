@@ -97,32 +97,32 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=1cFmuGqperuTRHJ7cMD6ooo9x2I83Pp0L",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"    : "Kharisma Gumilang",
+                "nim"     : "121450142",
+                "umur"    : "21",
+                "asal"    :"Palembang",
+                "alamat"  : "Pulau Damar",
+                "hobbi"   : "Dengar Musik",
+                "sosmed"  : "@gumilangkhasirma",
+                "kesan"   : "Bang gumilang begitu berwibawa",  
+                "pesan"   :"semangat selalu ya bang !!!"# 1
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"    : "Kakak B",
+                "nim"     : "122450000",
+                "umur"    : "18",
+                "asal"    :"Bekasi",
+                "alamat"  : "Gg.sakum",
+                "hobbi"   : "Mainn Bola, Belajar",
+                "sosmed"  : "@i",
+                "kesan"   : "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan"   :"semangat terus kuliahnya kakak !!!"# 2
             },
             {
                 "nama": "Kakak C",
@@ -133,7 +133,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"# 3
             },
         ]
         display_images_with_data(gambar_urls, data_list)
