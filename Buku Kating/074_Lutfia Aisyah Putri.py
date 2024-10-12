@@ -185,14 +185,14 @@ elif menu == "Baleg":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1J_uZRi1DHw8CDGgs4zO3HSiuBOoc2CLy",
             "https://drive.google.com/uc?export=view&id=1NJxOiGekvPK6eCKwlEEoMqr9ev8oqeza",
-            "https://drive.google.com/uc?export=view&id=16y74UbfdiCnzk6Ae205KEDuwzJzHZ_aa",
+            "https://drive.google.com/uc?export=view&id=1Oi39BhNnLrQ4U1ki3l2R5wUrGILi9o--",
             "https://drive.google.com/uc?export=view&id=1ez55hjj5HG-xO7RpCI2RRKGMVq6hbwod",
-            "https://drive.google.com/uc?export=view&id=1224NqUDJAoC34mWLNHZS4zHH9ZJdWRZh",
+            "https://drive.google.com/uc?export=view&id=11JefDCzF88qhAcBTspu4S9LYWPjFLhFv",
             "https://drive.google.com/uc?export=view&id=1c4MeWGulX6Yzo1rnZ_gDPT43RTNaraKn",
             "https://drive.google.com/uc?export=view&id=1v0-7p4N4Anu6nnrlrh9pzxrCpnhkWUVc",
             "https://drive.google.com/uc?export=view&id=1Kj_fSB5Iei36zWbEHkuL676O0_IhVeub",
             "https://drive.google.com/uc?export=view&id=16nkNwEHyS5k-Wop-IQ8ZEso1IH92b4pP",
-            "https://drive.google.com/uc?export=view&id=1NrYOi_3M6c93ntTqLe0_43ZAxWvGAZUs",
+            "https://drive.google.com/uc?export=view&id=1asy6c7dfYN0oTFUXGPOZHkyNpJlFVWVX",
             "https://drive.google.com/uc?export=view&id=1asy6c7dfYN0oTFUXGPOZHkyNpJlFVWVX",
     
         ]
