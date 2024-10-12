@@ -99,7 +99,6 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1c4vPah1Xk96YFEEP7WWAYdlH3lxi_mR7", #1
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -138,7 +137,7 @@ if menu == "Kesekjenan":
                 "umur"      : "20",
                 "asal"      : "Pagar Alam",
                 "alamat"    : "Kota Baru",
-                "hobbi"     : "Drakoran",
+                "hbbi"     : "Drakoran",
                 "sosmed"    : "@wulandarimeliza",
                 "kesan"     : "kakaknya lucu dan baik.",  
                 "pesan"     : "selalu semangat kak menjalani hari dengan drakoran."# 3
@@ -149,7 +148,7 @@ if menu == "Kesekjenan":
                 "umur"      : "21",
                 "asal"      : "Payakumbuh",
                 "alamat"    : "JL. Nangka IV",
-                "hobbi"     : "Dengarin Bang Pandra gitaran",
+                "hobi"     : "Dengarin Bang Pandra gitaran",
                 "sosmed"    : "@ptrimaulidaaa_",
                 "kesan"     : "asik banget cara ngomongnya",  
                 "pesan"     : "semangat trus belajarnya sambil dengerin bang pandra dengerin gitar"# 4
@@ -160,7 +159,7 @@ if menu == "Kesekjenan":
                 "umur"      : "21",
                 "asal"      : "Palembang",
                 "alamat"    : "pemda",
-                "hobbi"     : "nyanyi",
+                "hobi"     : "nyanyi",
                 "sosmed"    : "@hrtfdlh",
                 "kesan"     : "wong kito galo",  
                 "pesan"     : "semoga bisa karaukean bareng kakaknya."# 5
@@ -171,7 +170,7 @@ if menu == "Kesekjenan":
                 "umur"      : "21",
                 "asal"      : "Metro",
                 "alamat"    : "Kota baru",
-                "hobbi"     : "membaca",
+                "hobi"     : "membaca",
                 "sosmed"    : "@nadillaandr26",
                 "kesan"     : "kalem",  
                 "pesan"     : "sukses selalu kak."# 6
