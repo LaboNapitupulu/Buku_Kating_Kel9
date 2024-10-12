@@ -181,7 +181,7 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1NjXqIQvqBCfAlQob6-AjZgrxtI0V-HyE",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
@@ -217,7 +217,7 @@ elif menu == "Baleg":
                 "hobi": "Nonton Drakor",
                 "sosmed": "@wlsbn0_",
                 "kesan": "orangnya dapat dilihat pinter dalam semua matkul",  
-                "pesan":"cepat lulus dan sukses kakal"# 1
+                "pesan":"cepat lulus dan sukses kakak"# 1
             },
             {
                 "nama": "Anisa Dini Amalia",
