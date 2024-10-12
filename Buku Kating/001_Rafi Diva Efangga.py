@@ -103,6 +103,8 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=16f3FM4fVkA5rXSlItLBFQq3qVN4_nIkH",#2
             "https://drive.google.com/uc?export=view&id=1JlUx1qvykOYKZtVBlgzGDXampO9-brw0",#3
             "https://drive.google.com/uc?export=view&id=1-0c7DbD84urcdTtS1c5_QitobMkbvF7V",#4
+            "https://drive.google.com/uc?export=view&id=1LN8mGq1-Nr3dYJoVd4KWQycmETiTG7fy",#5
+            "https://drive.google.com/uc?export=view&id=1d9PrTJPI1wzr6raN9EeJnbdfczzq4QFE",#6
         ]
         data_list = [
             {
@@ -139,7 +141,7 @@ if menu == "Kesekjenan":
                 "kesan": "Kalau ngomong tuh kalem tapi singkat dan padat",  
                 "pesan":"Semoga Kuat Sampai Tamat"# 3
             },
-                        {
+            {
                 "nama": "Putri Maulidia Chairani",
                 "nim": "121450050",
                 "umur": "21",
@@ -150,16 +152,27 @@ if menu == "Kesekjenan":
                 "kesan": "jago ngjelasin dan keliatannya jago multi-tasking",  
                 "pesan":"Semoga jangan jadi sekre abadi(gapapa kalau mau)"# 4
             },
-                        {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            {
+                "nama": "Hartiti Fadilah",
+                "nim": "121450031",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pemda",
+                "hobi": "Nyanyi",
+                "sosmed": "@hrtfdlh",
+                "kesan": "Kalo ngomong berasa melayunya",  
+                "pesan":"Semoga jadi penyanyi"# 5
+            },
+            {
+                "nama": "Nadila Andhara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal":"Metro",
+                "alamat": "Kota Baru",
+                "hobi": "Membaca",
+                "sosmed": "@nadilaaandr26",
+                "kesan": "Gayanya keren karena make kacamata gelap",  
+                "pesan":"Semoga selalu murah senyum"# 6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
