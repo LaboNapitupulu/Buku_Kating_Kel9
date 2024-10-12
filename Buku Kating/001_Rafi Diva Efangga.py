@@ -20,8 +20,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "Dapartemen MEDKRAF",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -105,7 +107,7 @@ if menu == "Kesekjenan":
             {
                "nama"	    : "Kharisma Gumilang",
                 "nim"		: "121450142",
-                "umur"	: "21",
+                "umur"	    : "21",
                 "asal"		:" Palembang",
                 "alamat"	: "Pulau Damar",
                 "hobi"		: "Dengar musik",
@@ -115,15 +117,15 @@ if menu == "Kesekjenan":
 
             },
             {
-                "nama"	: "Pandra Insani Putra Azwar",
+                "nama"	    : "Pandra Insani Putra Azwar",
                 "nim"		: "121450137",
-                "umur"	: "21",
+                "umur"	    : "21",
                 "asal"		:" Lampung Utara",
                 "alamat"	: "Jl. Bawean 2, Sukarame",
                 "hobi"		: "Main Gitar",
                 "sosmed"	: "@pndrinsni27",
-                "kesan"	: "Ada aja gebrakannya kalau ngomong",  
-                "pesan"	: "Semoga jadi konco abadinya Bang Gumi"# 2
+                "kesan"	    : "Ada aja gebrakannya kalau ngomong",  
+                "pesan"    	: "Semoga jadi konco abadinya Bang Gumi"# 2
             },
             {
                 "nama": "Kakak C",
