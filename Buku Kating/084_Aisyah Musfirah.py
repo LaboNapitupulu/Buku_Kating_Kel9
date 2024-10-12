@@ -185,13 +185,13 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1VTuAEnH9u1IZeHdTwwGjufHW8I-KD46t",
             "https://drive.google.com/uc?export=view&id=1HZDc5mPndEWZd-C-oP4ETp2WQO0kLcet",
             "https://drive.google.com/uc?export=view&id=1853QyVYGjQsZmXuG7XLeKSrmvq4tGuLP",
-            "https://drive.google.com/uc?export=view&id=11bOHc0wOybjtxEh9GwFptxZ8weZAjrAE",
             "https://drive.google.com/uc?export=view&id=1hezfODhirAMNZTGZls72f7LnAEptt9z8",
             "https://drive.google.com/uc?export=view&id=1YydouQ6hNqFaifn2x_VXNWVzBu3I521P", 
             "https://drive.google.com/uc?export=view&id=1HnTYHGxHErVMltYfSm3ma-X0AHW4yWLu",
             "https://drive.google.com/uc?export=view&id=1dviUKg6LYiWdRZBrsYxxNQc2vCHKtuwX",
             "https://drive.google.com/uc?export=view&id=178FvUg8q57WEmkZr0a1a3YeE_G0IUXJK", 
-            "https://drive.google.com/uc?export=view&id=1jTRBttbxVyTobK09JEYt6EpSy8NI6JVs"
+            "https://drive.google.com/uc?export=view&id=1jTRBttbxVyTobK09JEYt6EpSy8NI6JVs",
+            "https://drive.google.com/uc?export=view&id=11bOHc0wOybjtxEh9GwFptxZ8weZAjrAE"
         ]
         data_list = [
             {
@@ -284,7 +284,7 @@ elif menu == "Baleg":
                 "pesan"	    : "Semangat bang"# 5
             },
             {
-                "nama"	    : "Mirza Yusuf Mirzani",
+                "nama"	    : "Mirzan Yusuf Rabbani",
                 "nim"		: "1224500118",
                 "umur"	    : "20",
                 "asal"		: "Jakarta",
