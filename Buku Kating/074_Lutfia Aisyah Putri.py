@@ -116,7 +116,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Palembang",
                 "alamat": "Pulau Damar",
-                "hobbi": "Dengar Musik",
+                "hobi": "Dengar Musik",
                 "sosmed": "@gumilangkharisma",
                 "kesan": "abangnya sangat berkharisma sebagai kahim, sama seperti namanya",  
                 "pesan":"semangat sukses terus kuliahnya bang semoga lulus tepat waktu!!!"# 1
