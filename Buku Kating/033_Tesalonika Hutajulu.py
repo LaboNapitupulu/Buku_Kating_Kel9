@@ -100,40 +100,18 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            
+        ]
         data_list = [
             {
-                "nama"    : "Kharisma Gumilang",
-                "nim"     : "121450142",
-                "umur"    : "21",
-                "asal"    :"Palembang",
-                "alamat"  : "Pulau Damar",
-                "hobbi"   : "Dengar Musik",
-                "sosmed"  : "@gumilangkhasirma",
-                "kesan"   : "Bang gumilang begitu berwibawa",  
-                "pesan"   :"semangat selalu ya bang !!!"
-            },
-            {
-                "nama"    : "Pandra Insani Putra Azwar",
-                "nim"     : "121450137",
-                "umur"    : "21",
-                "asal"    :"Lampung Utara",
-                "alamat"  : "GJl. Bawean 2, Sukarame",
-                "hobbi"   : "Main Gitar",
-                "sosmed"  : "@pndrinsni27",
-                "kesan"   : "abangnya sangat asik",  
-                "pesan"   :"semoga dapat A terus !!!"
-            },
-            {
-                "nama"    : "Putri Maulida Chairani",
-                "nim"     : "121450050",
-                "umur"    : "21",
-                "asal"    :"Payakumbuh",
-                "alamat"  : "JL. Nangka IV",
-                "hobbi"   : "Dengarin Bang Pandra gitaran",
-                "sosmed   : "@ptrimaulidaaa_",
-                "kesan"   : "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan"   :"semangat terus kuliahnya kakak !!!"
+                "nama": "Kakak A",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
