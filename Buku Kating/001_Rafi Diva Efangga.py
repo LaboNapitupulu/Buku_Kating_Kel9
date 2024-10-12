@@ -187,26 +187,26 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Tri Murniya Ningsih",
+                "nim": "121450038",
+                "umur": "21",
+                "asal":"Bogor",
+                "alamat": "Raden Saleh",
+                "hobi": "Searching di perplexcity",
+                "sosmed": "@trimuniaa_",
+                "kesan": "Orangnya seruu",  
+                "pesan":"Tetap semangat sampai akhir "#1
             },
             {
-                "nama": "Kakak E",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Annisa Cahyani Surya",
+                "nim": "121450114",
+                "umur": "22",
+                "asal":"Tanggerang",
+                "alamat": "Jatimulyo",
+                "hobi": "Baca dan Nonton",
+                "sosmed": "@annisacahyanisurya",
+                "kesan": "orangnya baik ",  
+                "pesan":"semangat terus kuliahnya kakak "#2
             },
             {
                 "nama": "Kakak D",
