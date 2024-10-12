@@ -205,20 +205,109 @@ elif menu == "Baleg":
                 "alamat": "Jatimulyo",
                 "hobi": "Baca dan Nonton",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "orangnya baik ",  
+                "kesan": "orangnya baik terus keliatanya asikk",  
                 "pesan":"semangat terus kuliahnya kakak "#2
             },
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Wulan Sabina",
+                "nim": "1221450150",
+                "umur": "21",
+                "asal":"Medan",
+                "alamat": "Raden Saleh",
+                "hobi": "Nonton Drakor",
+                "sosmed": "@wlsbn0_",
+                "kesan": "orangnya dapat dilihat pinter dalam semua matkul",  
+                "pesan":"cepat lulus dan sukses kakal"# 1
             },
+            {
+                "nama": "Anisa Dini Amalia",
+                "nim": "121450081",
+                "umur": "21",
+                "asal":"Medan",
+                "alamat": "Raden Saleh",
+                "hobi": "Nonton Drakor",
+                "sosmed": "@anisadini",
+                "kesan": "Orang yang seru asikk",  
+                "pesan":"Cepat suksess kak"# 1
+            },
+            {
+                "nama": "Claudhea Angeliani",
+                "nim": "1221450124",
+                "umur": "21",
+                "asal":"Saltiga",
+                "alamat": "Lampung Timur",
+                "hobi": "Baca Jurnal",
+                "sosmed": "@dylebee",
+                "kesan": "kakaknya terlihat kece",  
+                "pesan":"kakaknya lucu seruu"# 1
+            },
+            {
+                "nama": "Dhea Amelia Putri",
+                "nim": "122450004",
+                "umur": "19",
+                "asal":"Buleleng",
+                "alamat": "Natar",
+                "hobi": "Bercocok Tanam",
+                "sosmed": "@_.dheamelia",
+                "kesan": "kakaknya lucuu terus kek random",  
+                "pesan":"semangatt kuliah kak "# 1
+            },
+            {
+                "nama": "Muhammad Fahrul Aditya",
+                "nim": "121450156",
+                "umur": "21",
+                "asal":"Surakarta",
+                "alamat": "Pahoman",
+                "hobi": "Ngopi",
+                "sosmed": "@fhrul",
+                "kesan": "abangnya kecee seruuu",  
+                "pesan":"semangat terus kuliahnya bang"# 1
+            },
+            {
+                "nama": "Feriyadi Yulius",
+                "nim": "122450087",
+                "umur": "20",
+                "asal":"Sumatera Selatan",
+                "alamat": "Depan Koban",
+                "hobi": "Baca Buku",
+                "sosmed": "@fer_yulius",
+                "kesan": "Abangg nya kalem tapi kece",  
+                "pesan":"semangatt kuliah bangg"# 1
+            },
+            {
+                "nama": "Mirzan Yusuf Rabbani",
+                "nim": "122450118",
+                "umur": "20",
+                "asal":"Jakarta",
+                "alamat": "Korpri",
+                "hobi": "Membaca",
+                "sosmed": "@myrrinn",
+                "kesan": "Abangnya terlihat kalem tapi keren",  
+                "pesan":"semangat bang kuliahnnya"# 1
+            },
+            {
+                "nama": "Jeremie Susanto",
+                "nim": "122450022",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Bandar Lampung",
+                "hobi": "Gangguin Orang",
+                "sosmed": "@jeremia_s_",
+                "kesan": "Orangnya asikk seruu",  
+                "pesan":"semangat terus bang kuliahnya "# 1
+            },
+            {
+                "nama": "Berliana Enda Putri",
+                "nim": "122450065",
+                "umur": "20",
+                "asal":"BSD Tanggerang Selatan",
+                "alamat": "Teluk",
+                "hobi": "Suka liat linkedln , puasa senin kamis dan ngerjaiin tugas",
+                "sosmed": "@berlyyanda",
+                "kesan": "Kakaknya kalem sekali",  
+                "pesan":"semangat terus kuliahnya kakak"# 1
+            },
+            
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
