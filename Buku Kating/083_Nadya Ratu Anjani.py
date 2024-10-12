@@ -110,7 +110,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Palembang",
                 "alamat": "Pulau Damar ",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobbi": "Main Bola, Belajar",
                 "sosmed": "@gumilsngkharisma",
                 "kesan": "Abang ini tegas banget",  
                 "pesan":"Semangat ya bang"# 1
@@ -137,7 +137,7 @@ if menu == "Kesekjenan":
                 "kesan": "Cantik euy",  
                 "pesan":"Semangat nyekre nya"# 1
             },
-             {
+            {
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
                 "umur": "21",
@@ -159,7 +159,7 @@ if menu == "Kesekjenan":
                 "kesan": "-",  
                 "pesan":"-"# 1
             },
-             {
+            {
                 "nama": "Nadilla Andhara Putri",
                 "nim": "121450003",
                 "umur": "21",
