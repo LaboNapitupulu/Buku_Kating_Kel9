@@ -108,7 +108,7 @@ if menu == "Kesekjenan":
                 "umur"    : "21",
                 "asal"    :"Palembang",
                 "alamat"  : "Pulau Damar",
-                "hobbi"   : "Dengar Musik",
+                "hobi"    : "Dengar Musik",
                 "sosmed"  : "@gumilangkhasirma",
                 "kesan"   : "Bang gumilang begitu berwibawa",  
                 "pesan"   :"semangat selalu ya bang !!!"# 1
@@ -119,7 +119,7 @@ if menu == "Kesekjenan":
                 "umur"    : "18",
                 "asal"    :"Bekasi",
                 "alamat"  : "Gg.sakum",
-                "hobbi"   : "Mainn Bola, Belajar",
+                "hobi"   : "Mainn Bola, Belajar",
                 "sosmed"  : "@i",
                 "kesan"   : "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan"   :"semangat terus kuliahnya kakak !!!"# 2
@@ -130,7 +130,7 @@ if menu == "Kesekjenan":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 3
@@ -153,7 +153,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
@@ -164,7 +164,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -175,7 +175,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
