@@ -111,15 +111,15 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kharisma Gumilang",
-                "nim": "121450142",
-                "umur": "21",
-                "asal":"Palembang",
-                "alamat": "Pulau Damar",
-                "hobi": "Dengar Musik",
-                "sosmed": "@gumilangkharisma",
-                "kesan": "Abangnya sangat berkharisma sebagai kahim, sama seperti namanya",  
-                "pesan":"Semangat sukses terus kuliahnya bang semoga lulus tepat waktu!!!"# 1
+                "nama"     : "Kharisma Gumilang",
+                "nim"      : "121450142",
+                "umur"     : "21",
+                "asal"     :"Palembang",
+                "alamat"   : "Pulau Damar",
+                "hobi"     : "Dengar Musik",
+                "sosmed"   : "@gumilangkharisma",
+                "kesan"    : "Abangnya sangat berkharisma sebagai kahim, sama seperti namanya",  
+                "pesan"    :"Semangat sukses terus kuliahnya bang semoga lulus tepat waktu!!!"# 1
             },
             {
                 "nama"	    : "Pandra Insani Putra Azwar",
@@ -129,7 +129,7 @@ if menu == "Kesekjenan":
                 "alamat"	: "Jl. Bawean 2, Sukarame",
                 "hobi"		: "Main Gitar",
                 "sosmed"	: "@pndrinsni27",
-                "kesan"	    : "saya kira bang Pandra angkatan 22",  
+                "kesan"	    : "Saya kira bang Pandra angkatan 22",  
                 "pesan"	    : "Semangat dan sukses selalu bang"# 2
             },
             {
