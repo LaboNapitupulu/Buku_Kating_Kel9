@@ -181,9 +181,16 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=12X592X0iyyY5tUFgtpuAR_Qal0aZb0pu",
+            "https://drive.google.com/uc?export=view&id=1VTuAEnH9u1IZeHdTwwGjufHW8I-KD46t",
+            "https://drive.google.com/uc?export=view&id=11bOHc0wOybjtxEh9GwFptxZ8weZAjrAE",
+            "https://drive.google.com/uc?export=view&id=1HZDc5mPndEWZd-C-oP4ETp2WQO0kLcet",
+            "https://drive.google.com/uc?export=view&id=1hezfODhirAMNZTGZls72f7LnAEptt9z8",
+            "https://drive.google.com/uc?export=view&id=1YydouQ6hNqFaifn2x_VXNWVzBu3I521P", 
+            "https://drive.google.com/uc?export=view&id=1HnTYHGxHErVMltYfSm3ma-X0AHW4yWLu",
+            "https://drive.google.com/uc?export=view&id=1dviUKg6LYiWdRZBrsYxxNQc2vCHKtuwX",
+            "https://drive.google.com/uc?export=view&id=178FvUg8q57WEmkZr0a1a3YeE_G0IUXJK", 
+            "https://drive.google.com/uc?export=view&id=1jTRBttbxVyTobK09JEYt6EpSy8NI6JVs"
         ]
         data_list = [
             {
@@ -199,6 +206,39 @@ elif menu == "Baleg":
 
             },
             {
+                "nama"	    : "Annisa Cahyani Surya",
+                "nim"		: "121450114",
+                "umur"	    : "21",
+                "asal"		: "Tangerang",
+                "alamat"	: "Jatimulyo",
+                "hobi"		: "Baca dan nonton",
+                "sosmed"	: "@annisacahyanisurya",
+                "kesan"	    : "Kak Annisa kece hehe",  
+                "pesan"	    : "Semangat nyekre kak"# 6
+            },
+            {
+                "nama"	    : "Wulan Sabina",
+                "nim"		: "121450150",
+                "umur"	    : "21",
+                "asal"		: "Medan",
+                "alamat"	: "Raden Saleh",
+                "hobi"		: "Nonton drakor",
+                "sosmed"	: "@wlsbn0_",
+                "kesan"	    : "Pengen ketularan possitive vibesnya Kak Wulan^^",  
+                "pesan"	    : "Keep your vibes kak!",
+            },
+            {
+                "nama"	    : "Anisa Dini Amalia",
+                "nim"		: "121450081",
+                "umur"	    : "21",
+                "asal"		: "Medan",
+                "alamat"	: "Raden Saleh",
+                "hobi"		: "Nonton drakor",
+                "sosmed"	: "@anisadini10",
+                "kesan"	    : "Kak Anisa mirip Shakira CoC",  
+                "pesan"	    : "Semangat nge-stan Svt kak!"# 6
+            },
+            {
                 "nama"	    : "Claudhea Angeliani",
                 "nim"		: "121450124",
                 "umur"	    : "21",
@@ -206,8 +246,8 @@ elif menu == "Baleg":
                 "alamat"	: "Lampung Timur",
                 "hobi"		: "Baca jurnal",
                 "sosmed"	: "@dylebee",
-                "kesan"	    : "Possitive-vibes",
-                "pesan"	    : "Semangat kak"# 2
+                "kesan"	    : "Vibes kak Claudhea girly bangett",
+                "pesan"	    : "Semoga kubisa girly kayak kakak^^"# 2
             },
             {
                 "nama"	    : "Dhea Amelia Putri",
@@ -217,44 +257,11 @@ elif menu == "Baleg":
                 "alamat"	: "Natar",
                 "hobi"		: "Bercocok tanam",
                 "sosmed"	: "@_.dheamelia",
-                "kesan"	    : "Possitive-vibes",
-                "pesan"	    : "Semangat kak" # 3
+                "kesan"	    : "Kak Dhea lucu",
+                "pesan"	    : "Semangat nugasnya kak" # 3
             },
             {
-                "nama"	    : "Jeremia Susanto",
-                "nim"		: "122450022",
-                "umur"	    : "20",
-                "asal"		: "Balam",
-                "alamat"	: "Balam",
-                "hobi"		: "Gangguin orang",
-                "sosmed"	: "@jeremia_s_",
-                "kesan"	    : "Possitive-vibes",
-                "pesan"	    : "Semangat kak"# 4
-            },
-            {
-                "nama"	    : "Feriyadi Yulius",
-                "nim"		: "122450087",
-                "umur"	    : "20",
-                "asal"		: "Sumatera Selatan",
-                "alamat"	: "Depan Koban",
-                "hobi"		: "Baca buku",
-                "sosmed"	: "@fer_yulius",
-                "kesan"	    : "Kakaknya pendiem",  
-                "pesan"	    : "Kutunggu debutnya kak"# 5
-            },
-            {
-                "nama"	    : "Mirza yusuf mirzani",
-                "nim"		: "1224500118",
-                "umur"	    : "20",
-                "asal"		: "Jakarta",
-                "alamat"	: "Korpri",
-                "hobi"		: "Membaca",
-                "sosmed"	: "@myrrinn",
-                "kesan"	    : "Kakak asprak strukdat RA",  
-                "pesan"	    : "Jangan kapok asprakin kita yaa kak"# 6
-            },
-            {
-                "nama"	    : "Muhammad Farul Aditya",
+                "nama"	    : "Muhammad Fahrul Aditya",
                 "nim"		: "121450156",
                 "umur"	    : "21",
                 "asal"		: "Surakarta",
@@ -264,49 +271,49 @@ elif menu == "Baleg":
                 "kesan"	    : "Kakak asprak strukdat RA",  
                 "pesan"	    : "Jangan kapok asprakin kita yaa kak"# 6
             },
-              {
-                "nama"	    : "Annisa cahyani surya",
-                "nim"		: "121450114",
-                "umur"	    : "21",
-                "asal"		: "Tangerang",
-                "alamat"	: "Jatimulyo",
-                "hobi"		: "Baca dan nonton",
-                "sosmed"	: "@annisacahyanisurya",
-                "kesan"	    : "Kakak asprak strukdat RA",  
-                "pesan"	    : "Jangan kapok asprakin kita yaa kak"# 6
+            {
+                "nama"	    : "Feriyadi Yulius",
+                "nim"		: "122450087",
+                "umur"	    : "20",
+                "asal"		: "Sumatera Selatan",
+                "alamat"	: "Depan Koban",
+                "hobi"		: "Baca buku",
+                "sosmed"	: "@fer_yulius",
+                "kesan"	    : "Ternyata kita mutualan di LinkedIn bang",  
+                "pesan"	    : "Semangat bang"# 5
             },
             {
-                "nama"	    : "Berliana enda putri",
+                "nama"	    : "Mirza Yusuf Mirzani",
+                "nim"		: "1224500118",
+                "umur"	    : "20",
+                "asal"		: "Jakarta",
+                "alamat"	: "Korpri",
+                "hobi"		: "Membaca",
+                "sosmed"	: "@myrrinn",
+                "kesan"	    : "Abang ini lucu",  
+                "pesan"	    : "Semangat otw semester akhir bang"# 6
+            },
+            {
+                "nama"	    : "Jeremia Susanto",
+                "nim"		: "122450022",
+                "umur"	    : "20",
+                "asal"		: "Balam",
+                "alamat"	: "Balam",
+                "hobi"		: "Gangguin orang",
+                "sosmed"	: "@jeremia_s_",
+                "kesan"	    : "Bang Jere suka random datengin kelas anak 23",
+                "pesan"	    : "Semangat panitnya bang"# 4
+            },
+            {
+                "nama"	    : "Berliana Enda Putri",
                 "nim"		: "122450065",
                 "umur"	    : "20",
                 "asal"		: "BSD, Tangerang Selatan",
                 "alamat"	: "Teluk",
                 "hobi"		: "Suka liat linked in, puasa senin kamis, ngerjain tugas di draw io",
                 "sosmed"	: "@berlyyanda",
-                "kesan"	    : "Kakak asprak strukdat RA",  
-                "pesan"	    : "Jangan kapok asprakin kita yaa kak"# 6
-            },
-            {
-                "nama"	    : "Anisa Dini Amalia",
-                "nim"		: "121450081",
-                "umur"	    : "21",
-                "asal"		: "Malang",
-                "alamat"	: "Jati Agung",
-                "hobi"		: "Baca Webtoon",
-                "sosmed"	: "@anisadini10",
-                "kesan"	    : "Kakak asprak strukdat RA",  
-                "pesan"	    : "Jangan kapok asprakin kita yaa kak"# 6
-            },
-            {
-                "nama"	    : "Anisa Dini Amalia",
-                "nim"		: "121450081",
-                "umur"	    : "21",
-                "asal"		: "Medan",
-                "alamat"	: "Raden Saleh",
-                "hobi"		: "Nonton drakor",
-                "sosmed"	: "@wlsbn0_",
-                "kesan"	    : "Kakak asprak strukdat RA",  
-                "pesan"	    : "Jangan kapok asprakin kita yaa kak"# 6
+                "kesan"	    : "Kak Berlin pendiem",  
+                "pesan"	    : "Semangat kakk"# 6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
