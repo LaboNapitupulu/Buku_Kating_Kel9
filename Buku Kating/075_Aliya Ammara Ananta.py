@@ -102,7 +102,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1p9bqnoPZAB0sIcKZNbkdZfPuDqFAFMzo",
             "https://drive.google.com/uc?export=view&id=174nbVwlPFLrmplDVuN1m0lBtE51IINyO",
             "https://drive.google.com/uc?export=view&id=1p08cx8e2txF94QYSdvRuHhgkXn5wFaqe",
-            "https://drive.google.com/uc?export=view&id=1B2Eacl7t6YIGkbqDHljKwdBBzPi6h8In_",
+            "https://drive.google.com/uc?export=view&id=1B2Eacl7t6YIGkbqDHljKwdBBzPi6h8In",
         ]
         data_list = [
             {
