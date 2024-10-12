@@ -99,7 +99,7 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1pp_pUIWJRFaU0QTpmnk7WCOsIvXuPZ7w",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
@@ -116,26 +116,59 @@ if menu == "Kesekjenan":
                 "pesan":"semangat sukses terus kuliahnya bang semoga lulus tepat waktu!!!"# 1
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"	    : "Pandra Insani Putra Azwar",
+                "nim"		: "121450137",
+                "umur"	    : "21",
+                "asal"		:" Lampung Utara",
+                "alamat"	: "Jl. Bawean 2, Sukarame",
+                "hobi"		: "Main Gitar",
+                "sosmed"	: "@pndrinsni27",
+                "kesan"	    : "saya kira bang Pandra angkatan 22",  
+                "pesan"	    : "Semangat dan sukses selalu bang"# 2
             },
             {
-                "nama": "Kakak C",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"	    : "Meliza Wulandari",
+                "nim"		: "121450065",
+                "umur"	    : "20",
+                "asal"		:" Pagar Alam",
+                "alamat"	: "Kota baru",
+                "hobi"		: "Drakoran",
+                "sosmed"	: "@wulandarimeliza",
+                "kesan"	    : "Ternyata kak Meliza asprak Strukdat RB kelas saya",  
+                "pesan"	    : "Jangan kapok ngajarin error saya yaa kak, tolong dibantu nilai praktikum strukdat saya ya kak hehe :) "# 3
+            },
+             {
+                "nama"	    : "Putri Maulida Chairani",
+                "nim"		: "121450050",
+                "umur"	    : "21",
+                "asal"		:" Payakumbuh",
+                "alamat"	: "JL. Nangka IV",
+                "hobi"		: "Dengarin Bang Pandra gitaran",
+                "sosmed"	: "@ptrimaulidaaa_",
+                "kesan"	    : "Ternyatat kakanya urak awak juo",  
+                "pesan"	    : "Semangat selalu kak"# 4
+            },
+            {
+                "nama"	    : "Hartiti Fadilah",
+                "nim"		: "121450031",
+                "umur"	    : "21",
+                "asal"		:" Palembang",
+                "alamat"	: "Pemda",
+                "hobi"		: "Nyanyi",
+                "sosmed"	: "@hrtfdlh",
+                "kesan"	    : "Kakaknya sedikit pendiem",  
+                "pesan"	    : "Semoga selalu bahagia kak"# 5
+            },
+            {
+                "nama"	    : "Nadilla Andhara Putri",
+                "nim"		: "121450003",
+                "umur"	    : "21",
+                "asal"		:" Metro",
+                "alamat"	: "Kota baru",
+                "hobi"		: "Membaca",
+                "sosmed"	: "@nadillaandr26",
+                "kesan"	    : "Kakaknyaa asik banget",  
+                "pesan"	    : "Semangat selalu kak, semoga lulus tepat waktu kak"# 6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
