@@ -103,37 +103,37 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"    : "Kharisma Gumilang",
+                "nim"     : "121450142",
+                "umur"    : "21",
+                "asal"    :"Palembang",
+                "alamat"  : "Pulau Damar",
+                "hobbi"   : "Dengar Musik",
+                "sosmed"  : "@gumilangkhasirma",
+                "kesan"   : "Bang gumilang begitu berwibawa",  
+                "pesan"   :"semangat selalu ya bang !!!"#1
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"    : "Pandra Insani Putra Azwar",
+                "nim"     : "121450137",
+                "umur"    : "21",
+                "asal"    :"Lampung Utara",
+                "alamat"  : "GJl. Bawean 2, Sukarame",
+                "hobbi"   : "Main Gitar",
+                "sosmed"  : "@pndrinsni27",
+                "kesan"   : "abangnya sangat asik",  
+                "pesan"   :"semoga dapat A terus !!!"#2
             },
             {
-                  "nama": "Kakak C",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"    : "Meliza Wulandari",
+                "nim"     : "121450065",
+                "umur"    : "20",
+                "asal"    :"Pagar Alam",
+                "alamat"  : "Kota baru",
+                "hobbi"   : "Drakoran",
+                "sosmed"  : "@wulandarimeliza",
+                "kesan"   : "kakaknya cantikk dan baik",  
+                "pesan"   :"semoga kuliahnya berjalan lancar !!!"#3
             },
         ]
         display_images_with_data(gambar_urls, data_list)
