@@ -100,6 +100,9 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1cFmuGqperuTRHJ7cMD6ooo9x2I83Pp0L",#1
             "https://drive.google.com/uc?export=view&id=14QBFjd1tiMuNYys5FqIQppx4VPdnXWaJ",#2
             "https://drive.google.com/uc?export=view&id=18yEvp-IlXURqIrqbMFCir2wZxI_cWnRp",#3
+            "https://drive.google.com/uc?export=view&id=1QTqYfHsNDSx6s-HrwvhoYi9Ce7oFoEcE",#4
+            "https://drive.google.com/uc?export=view&id=1cFmuGqperuTRHJ7cMD6ooo9x2I83Pp0L",#5
+            "https://drive.google.com/uc?export=view&id=1cFmuGqperuTRHJ7cMD6ooo9x2I83Pp0L",#6
         ]
         data_list = [
             {
@@ -134,6 +137,17 @@ if menu == "Kesekjenan":
                 "sosmed"  : "@wulandarimeliza",
                 "kesan"   : "kakaknya cantikk dan baik",  
                 "pesan"   :"semoga kuliahnya berjalan lancar !!!"#3
+            },
+            {
+                "nama"    : "Hartiti Fadilah",
+                "nim"     : "121450031",
+                "umur"    : "21",
+                "asal"    :"Palembang",
+                "alamat"  : "Pemda",
+                "hobbi"   : "Nyanyi",
+                "sosmed"  : "@hrtfdlh",
+                "kesan"   : "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan"   :"semangat terus kuliahnya kakak !!!"#4
             },
             
         ]
