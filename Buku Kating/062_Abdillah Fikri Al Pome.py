@@ -99,11 +99,9 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
+           "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-     
         ]
         data_list = [
             {
@@ -191,7 +189,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
@@ -202,7 +200,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -213,7 +211,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
