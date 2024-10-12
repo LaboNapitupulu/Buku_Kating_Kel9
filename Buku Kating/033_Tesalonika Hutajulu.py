@@ -179,17 +179,17 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1nTkyZ6bCyQBs7ctpFDALzktQR9R7F2iK",#1
-            "https://drive.google.com/uc?export=view&id=1oUeaMBvlwrQkJP2CqiB9XJPK2y_J9NKK",#2
+            "https://drive.google.com/uc?export=view&id=1fti-1_bOFAahEPNRcUteFut9ady_oGS5",#1
+            "https://drive.google.com/uc?export=view&id=1fkmYmpuVnwN7EeRUqHdTchfGyXS1fmQG",#2
             "https://drive.google.com/uc?export=view&id=1fH5dxUi8eBhIYJFM8Y577vHRRH9lC6jj",#3
-            "https://drive.google.com/uc?export=view&id=1nPhOiZJdvgQbcrW8pjmSEQFnt4HFcEIN",#4
-            "https://drive.google.com/uc?export=view&id=1mxKBggEQbDG4LYK1O0-VS210Liwj-U5q",#5
-            "https://drive.google.com/uc?export=view&id=1nBLzcvh41A5cEWE4FcLcmBsBj-wBEXcM",#6
-            "https://drive.google.com/uc?export=view&id=1oG4FpV82boYJ-tLn_9KhDenpt0j22NzA",#7
-            "https://drive.google.com/uc?export=view&id=1mq-3O13GFQb3TUGe-P298hNgfvfUJGxZ",#8
-            "https://drive.google.com/uc?export=view&id=1niRhh0MTgxaSjeS5hqDczwFo_RTxZY5g",#9
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#10
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#11
+            "https://drive.google.com/uc?export=view&id=1fmfjpD30ac4YisaP3f7lVnUCwMTXMf0c",#4
+            "https://drive.google.com/uc?export=view&id=1fnP8iw6POjmCnCc1UQNR1tpU0UKlb9_x",#5
+            "https://drive.google.com/uc?export=view&id=1ftxUlVtUGDH1XsiYVhWapZ3o-bQeemMK",#6
+            "https://drive.google.com/uc?export=view&id=1faaP_9HiI87BQ3ZlB8QIiF5zV7k-Sgw9",#7
+            "https://drive.google.com/uc?export=view&id=1fruR889t4X1PcSp3hUYbKlvySQsZJ5nN",#8
+            "https://drive.google.com/uc?export=view&id=1flUxAQuW0X0D1gifhIrzqMF_qM1tQKAh",#9
+            "https://drive.google.com/uc?export=view&id=1fpev7CULyljGO1odDn2w05Bg1NE1XjzN",#10
+            "https://drive.google.com/uc?export=view&id=1fcKxt1QOwRxvYRmaKYbLIxa9dbqMK-Vo",#11
             
         ]
         data_list = [
