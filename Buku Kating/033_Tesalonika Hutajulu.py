@@ -97,8 +97,8 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=1cFmuGqperuTRHJ7cMD6ooo9x2I83Pp0L",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=1cFmuGqperuTRHJ7cMD6ooo9x2I83Pp0L",# 1
+            "https://drive.google.com/uc?export=14QBFjd1tiMuNYys5FqIQppx4VPdnXWaJ",# 2
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
@@ -114,15 +114,15 @@ if menu == "Kesekjenan":
                 "pesan"   :"semangat selalu ya bang !!!"# 1
             },
             {
-                "nama"    : "Kakak B",
-                "nim"     : "122450000",
-                "umur"    : "18",
-                "asal"    :"Bekasi",
-                "alamat"  : "Gg.sakum",
-                "hobbi"   : "Mainn Bola, Belajar",
-                "sosmed"  : "@i",
-                "kesan"   : "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan"   :"semangat terus kuliahnya kakak !!!"# 2
+                "nama"    : "Pandra Insani Putra Azwar",
+                "nim"     : "121450137",
+                "umur"    : "21",
+                "asal"    :"Lampung Utara",
+                "alamat"  : "GJl. Bawean 2, Sukarame",
+                "hobbi"   : "Main Gitar",
+                "sosmed"  : "@pndrinsni27",
+                "kesan"   : "abangnya sangat asik",  
+                "pesan"   :"semoga dapat A terus !!!"# 2
             },
             {
                 "nama": "Kakak C",
