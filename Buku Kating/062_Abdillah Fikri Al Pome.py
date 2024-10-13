@@ -102,9 +102,9 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1ryigRnSEND3brcwM86xJbKZWzX4fCUnL",
             "https://drive.google.com/uc?export=view&id=16lb8PjqAHI5nATgKmGR74gqxtEL_mRzr",
             "https://drive.google.com/uc?export=view&id=1oezSa8bQLpBzAToVGJw96zS_gnHtDEtn",
-            "https://drive.google.com/uc?export=view&id=1jml24USid6KLJZJA7Ijz1YMg9_KaVycO",
-            "https://drive.google.com/uc?export=view&id=16pCo3MQuL1k9RTefjuFXqtKAK-yDzXfT",
-            "https://drive.google.com/uc?export=view&id=17cXKBnrVH-HCM2qHaYHlK_366LP9IN-C",
+            "https://drive.google.com/uc?export=view&id=1cJqwr6RQozuprih1imte0uL4wJcCtcei",
+            "https://drive.google.com/uc?export=view&id=1oNP7arlzDJvGlZpbfolSFUMHvFKDHGKJ",
+            "https://drive.google.com/uc?export=view&id=1oNP7arlzDJvGlZpbfolSFUMHvFKDHGKJ",
 
         ]
         data_list = [
