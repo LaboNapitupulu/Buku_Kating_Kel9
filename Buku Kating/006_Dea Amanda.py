@@ -313,6 +313,7 @@ elif menu == "Baleg":
                 "sosmed": "@anisadini10",
                 "kesan": "kakanya asyiik dan tenang liatnya",  
                 "pesan":"semangat semester ganjil nya kakak"# 11
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
