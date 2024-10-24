@@ -334,19 +334,19 @@ elif menu == "Senator":
                 "alamat": "Kost Putri Rahayu Indomaret",
                 "hobi": "Nyanyi",
                 "sosmed": "@anissaluthfi_",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "kakaknya rajin dan inspiratif",  
+                "pesan":"semogaa lancar tugas akhirnya kak"
             },
             {
                 "nama": "Rian Bintang Wijaya",
-                "nim": "121450098",
-                "umur": "22",
-                "asal":"Lampung Tengah",
-                "alamat": "Kost Putri Rahayu Indomaret",
-                "hobi": "Nyanyi",
-                "sosmed": "@anissaluthfi_",
-                "kesan": "",  
-                "pesan":""
+                "nim": "122450094",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "kota baru",
+                "hobi": "Mendengar Lagu",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "abangnya kerennn",  
+                "pesan":"semogaa sukses selalu"
             },
 
         ]
