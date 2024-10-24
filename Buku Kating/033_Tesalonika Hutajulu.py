@@ -322,8 +322,8 @@ elif menu == "Baleg":
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1YfH3GzFhIUqXhOXb-S6KIDSMy7Pym40M", 
-            "https://drive.google.com/uc?export=view&id=17EQI3v7U1_jatAhjcvUQ01-SfC1IiDdh", 
+            "https://drive.google.com/uc?export=view&id=1YfH3GzFhIUqXhOXb-S6KIDSMy7Pym40M",#1
+            "https://drive.google.com/uc?export=view&id=17EQI3v7U1_jatAhjcvUQ01-SfC1IiDdh",#2
         ]
         data_list = [
             {
@@ -342,11 +342,11 @@ elif menu == "Senator":
                 "nim": "122450094",
                 "umur": "21",
                 "asal":"Palembang",
-                "alamat": "kota baru",
-                "hobi": "Mendengar Lagu",
+                "alamat": "Kota Baru",
+                "hobi": "Mendengarkan Lagu",
                 "sosmed": "@bintangtwinkle",
-                "kesan": "abangnya kerennn",  
-                "pesan":"semogaa sukses selalu"
+                "kesan": "bang Bintang keren",  
+                "pesan":"semogaa pekerjaanyaa di kampus lancar terus"
             },
 
         ]
