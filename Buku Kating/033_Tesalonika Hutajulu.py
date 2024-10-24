@@ -591,37 +591,37 @@ elif menu == "Departemen MIKFES":
         ]
         data_list = [
             {
-                "nama": "Ericson Chandra Sihombing",
-                "nim": "121450026",
+                "nama": "Rafi Fadhlillah",
+                "nim": "121450143",
                 "umur": "21",
-                "asal":"Bekasi",
-                "alamat": "Kobam",
-                "hobbi": "Travelling",
-                "sosmed": "@ericsonchandra99",
-                "kesan": "Abangnya tegas dan baik",  
-                "pesan":"Semoga setiap step yang diambil berjalan lancaar !!!"#1
+                "asal":"Lubuk Linggau",
+                "alamat": "Jl. Nangka 4",
+                "hobbi": "Olahraga",
+                "sosmed": "@rafadhlillahh13",
+                "kesan": "Abangnyaa care dan baikk banget",  
+                "pesan":"semogaa lancar terus urusannya ya bang !!!"#1
             },
             {
-                "nama": "Elisabeth Claudia Simanjuntak",
-                "nim": "122450023",
-                "umur": "22",
-                "asal":"Palembang",
-                "alamat": "Kota Baru",
-                "hobbi": "Mendengarkan Lagu",
-                "sosmed": "@bintangtwinkle",
-                "kesan": "Abangnya kerenn",  
-                "pesan":"Semoga kerjaannya lancar terus ya bang !!!"#2
+                "nama": "Annisa Novantika",
+                "nim": "121450005",
+                "umur": "21",
+                "asal":"Lampung Utara",
+                "alamat": "Jl. Pulau Sebesi",
+                "hobbi": "Memasak",
+                "sosmed": "@anovavona",
+                "kesan": "kakakknyaa pintarrr bett",  
+                "pesan":"Semogaa hobbi nyaa berjalan terus !!!"#2
             },
             {
-                "nama": "Ericson Chandra Sihombing",
-                "nim": "121450026",
-                "umur": "21",
-                "asal":"Bekasi",
-                "alamat": "Kobam",
-                "hobbi": "Travelling",
-                "sosmed": "@ericsonchandra99",
-                "kesan": "Abangnya tegas dan baik",  
-                "pesan":"Semoga setiap step yang diambil berjalan lancaar !!!"#3
+                "nama": "Ahmad Sahidin Akbar",
+                "nim": "122450044",
+                "umur": "20",
+                "asal":"Tulang Bawang",
+                "alamat": "Sukarame",
+                "hobbi": "Olahraga",
+                "sosmed": "@sahid22__",
+                "kesan": "Abangnya baik sekali mengajari",  
+                "pesan":"baik teruss ya bangg !!!"#3
             },
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
