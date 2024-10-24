@@ -354,8 +354,8 @@ elif menu == "Senator":
         display_images_with_data(gambar_urls, data_list)
     senator()
 
-elif menu == "Senator":
-    def senator():
+elif menu == "DEPARTEMEN PSDA":
+    def psda():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1UyCryMD5T7uSHZAnWWSW9PsECZ881ys6", #Bg Ericson
             "https://drive.google.com/uc?export=view&id=1VFR2MR-cdzWkkieqiKq8hX8nC5Dh2yRk", #Kak Abet
@@ -577,6 +577,6 @@ elif menu == "Senator":
             },       
         ]
         display_images_with_data(gambar_urls, data_list)
-    senator()
+    psda()
 
 # Tambahkan menu lainnya sesuai kebutuhan
