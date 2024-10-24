@@ -321,7 +321,7 @@ elif menu == "Baleg":
     baleg()
 
 elif menu == "Senator":
-    def baleg():
+    def senator():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1L3hGnPMAEELYata4I876szTYQUFigZXg", #Kak Tri
             "https://drive.google.com/uc?export=view&id=1zrGtT5bJ9W9KZy14_FxRhZbVK4vaUdMR", #Kak Anisa
