@@ -378,10 +378,10 @@ elif menu == "Senator":
         ]
         data_list = [
             {
-                "nama": "Ericson Chandra Sihombing,
+                "nama": "Ericson Chandra Sihombing",
                 "nim": "121450026",
                 "umur": "21",
-                "asal":"Bekasi,
+                "asal":"Bekasi",
                 "alamat": "Kobam",
                 "hobi": "ericsonchandra99",
                 "sosmed": "@anissaluthfi_",
