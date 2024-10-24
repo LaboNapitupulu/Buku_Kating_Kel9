@@ -736,7 +736,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"",
                 "alamat": "Sukarame",
                 "hobi": "Tidur",
-                "sosmed": "@randaandriana_,
+                "sosmed": "@randaandriana_",
                 "kesan": "",  
                 "pesan":""
             },
