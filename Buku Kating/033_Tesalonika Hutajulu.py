@@ -328,26 +328,26 @@ elif menu == "Senator":
         ]
         data_list = [
             {
-                "nama": "Tri Murniya Ningsih",
-                "nim": "121450038",
-                "umur": "21",
-                "asal":"Bogor",
-                "alamat": "Raden Saleh",
-                "hobbi": "Searching di perplexity",
-                "sosmed": "@trimurniaa_",
-                "kesan": "Kakak nya imut dan baik",  
-                "pesan":"semangat yaww kak !!!"#1
+                "nama": "Anissa Luthfi Alifia",
+                "nim": "121450098",
+                "umur": "22",
+                "asal":"Lampung Tengah",
+                "alamat": "Kost Putri Rahayu Indomaret",
+                "hobbi": "Nyanyi",
+                "sosmed": "@anissaluthfi_",
+                "kesan": "Kakaknya sangat inspiratif",  
+                "pesan":"semoga tugas akhirnya lancar terus ya kak !!!"#1
             },
             {
-                "nama": "Annisa cahyani surya",
-                "nim": "121450114",
+                "nama": "Rian Bintang Wijaya",
+                "nim": "122450094",
                 "umur": "21",
-                "asal":"tangerang",
-                "alamat": "jatimulyo",
-                "hobbi": "baca dan nonton",
-                "sosmed": "@annisacahyanisurya",
-                "kesan": "kakaknya ramah dan cerdas",  
-                "pesan":"semoga cepat tercapai impiannya !!!"#2
+                "asal":"Palembang",
+                "alamat": "Kota Baru",
+                "hobbi": "Mendengarkan Lagu",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "Abangnya kerenn",  
+                "pesan":"Semoga kerjaannya lancar terus ya bang !!!"#2
             },        
             
         ]
