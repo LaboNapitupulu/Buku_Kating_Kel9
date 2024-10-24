@@ -322,8 +322,8 @@ elif menu == "Baleg":
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1YfH3GzFhIUqXhOXb-S6KIDSMy7Pym40M",#1
-            "https://drive.google.com/uc?export=view&id=17EQI3v7U1_jatAhjcvUQ01-SfC1IiDdh",#2
+            "https://drive.google.com/uc?export=view&id=1L3hGnPMAEELYata4I876szTYQUFigZXg", 
+            "https://drive.google.com/uc?export=view&id=1zrGtT5bJ9W9KZy14_FxRhZbVK4vaUdMR", 
         ]
         data_list = [
             {
@@ -334,8 +334,8 @@ elif menu == "Senator":
                 "alamat": "Kost Putri Rahayu Indomaret",
                 "hobi": "Nyanyi",
                 "sosmed": "@anissaluthfi_",
-                "kesan": "kakaknya rajin dan inspiratif",  
-                "pesan":"semogaa lancar tugas akhirnya kak"
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Rian Bintang Wijaya",
@@ -345,8 +345,8 @@ elif menu == "Senator":
                 "alamat": "Kota Baru",
                 "hobi": "Mendengarkan Lagu",
                 "sosmed": "@bintangtwinkle",
-                "kesan": "bang Bintang keren",  
-                "pesan":"semogaa pekerjaanyaa di kampus lancar terus"
+                "kesan": "",  
+                "pesan":""
             },
 
         ]
