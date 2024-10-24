@@ -380,27 +380,192 @@ elif menu == "Departemen PSDA":
         ]
         data_list = [
             {
-                "nama": "Anissa Luthfi Alifia",
-                "nim": "121450098",
-                "umur": "22",
-                "asal":"Lampung Tengah",
-                "alamat": "Kost Putri Rahayu Indomaret",
-                "hobbi": "Nyanyi",
-                "sosmed": "@anissaluthfi_",
-                "kesan": "Kakaknya sangat inspiratif",  
-                "pesan":"semoga tugas akhirnya lancar terus ya kak !!!"#1
+                "nama": "Ericson Chandra Sihombing",
+                "nim": "121450026",
+                "umur": "21",
+                "asal":"Bekasi",
+                "alamat": "Kobam",
+                "hobbi": "Travelling",
+                "sosmed": "@ericsonchandra99",
+                "kesan": "Abangnya tegas dan baik",  
+                "pesan":"Semoga setiap step yang diambil berjalan lancaar !!!"#1
             },
             {
-                "nama": "Rian Bintang Wijaya",
-                "nim": "122450094",
-                "umur": "21",
+                "nama": "Elisabeth Claudia Simanjuntak",
+                "nim": "122450023",
+                "umur": "22",
                 "asal":"Palembang",
                 "alamat": "Kota Baru",
                 "hobbi": "Mendengarkan Lagu",
                 "sosmed": "@bintangtwinkle",
                 "kesan": "Abangnya kerenn",  
                 "pesan":"Semoga kerjaannya lancar terus ya bang !!!"#2
-            },        
+            },
+            {
+                "nama": "Ericson Chandra Sihombing",
+                "nim": "121450026",
+                "umur": "21",
+                "asal":"Bekasi",
+                "alamat": "Kobam",
+                "hobbi": "Travelling",
+                "sosmed": "@ericsonchandra99",
+                "kesan": "Abangnya tegas dan baik",  
+                "pesan":"Semoga setiap step yang diambil berjalan lancaar !!!"#3
+            },
+            {
+                "nama": "Elisabeth Claudia Simanjuntak",
+                "nim": "122450023",
+                "umur": "22",
+                "asal":"Palembang",
+                "alamat": "Kota Baru",
+                "hobbi": "Mendengarkan Lagu",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "Abangnya kerenn",  
+                "pesan":"Semoga kerjaannya lancar terus ya bang !!!"#4
+            },
+            {
+                "nama": "Ericson Chandra Sihombing",
+                "nim": "121450026",
+                "umur": "21",
+                "asal":"Bekasi",
+                "alamat": "Kobam",
+                "hobbi": "Travelling",
+                "sosmed": "@ericsonchandra99",
+                "kesan": "Abangnya tegas dan baik",  
+                "pesan":"Semoga setiap step yang diambil berjalan lancaar !!!"#5
+            },
+            {
+                "nama": "Elisabeth Claudia Simanjuntak",
+                "nim": "122450023",
+                "umur": "22",
+                "asal":"Palembang",
+                "alamat": "Kota Baru",
+                "hobbi": "Mendengarkan Lagu",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "Abangnya kerenn",  
+                "pesan":"Semoga kerjaannya lancar terus ya bang !!!"#6
+            },
+            {
+                "nama": "Ericson Chandra Sihombing",
+                "nim": "121450026",
+                "umur": "21",
+                "asal":"Bekasi",
+                "alamat": "Kobam",
+                "hobbi": "Travelling",
+                "sosmed": "@ericsonchandra99",
+                "kesan": "Abangnya tegas dan baik",  
+                "pesan":"Semoga setiap step yang diambil berjalan lancaar !!!"#7
+            },
+            {
+                "nama": "Elisabeth Claudia Simanjuntak",
+                "nim": "122450023",
+                "umur": "22",
+                "asal":"Palembang",
+                "alamat": "Kota Baru",
+                "hobbi": "Mendengarkan Lagu",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "Abangnya kerenn",  
+                "pesan":"Semoga kerjaannya lancar terus ya bang !!!"#8
+            },
+                        {
+                "nama": "Ericson Chandra Sihombing",
+                "nim": "121450026",
+                "umur": "21",
+                "asal":"Bekasi",
+                "alamat": "Kobam",
+                "hobbi": "Travelling",
+                "sosmed": "@ericsonchandra99",
+                "kesan": "Abangnya tegas dan baik",  
+                "pesan":"Semoga setiap step yang diambil berjalan lancaar !!!"#9
+            },
+            {
+                "nama": "Elisabeth Claudia Simanjuntak",
+                "nim": "122450023",
+                "umur": "22",
+                "asal":"Palembang",
+                "alamat": "Kota Baru",
+                "hobbi": "Mendengarkan Lagu",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "Abangnya kerenn",  
+                "pesan":"Semoga kerjaannya lancar terus ya bang !!!"#10
+            },
+            {
+                "nama": "Ericson Chandra Sihombing",
+                "nim": "121450026",
+                "umur": "21",
+                "asal":"Bekasi",
+                "alamat": "Kobam",
+                "hobbi": "Travelling",
+                "sosmed": "@ericsonchandra99",
+                "kesan": "Abangnya tegas dan baik",  
+                "pesan":"Semoga setiap step yang diambil berjalan lancaar !!!"#11
+            },
+            {
+                "nama": "Elisabeth Claudia Simanjuntak",
+                "nim": "122450023",
+                "umur": "22",
+                "asal":"Palembang",
+                "alamat": "Kota Baru",
+                "hobbi": "Mendengarkan Lagu",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "Abangnya kerenn",  
+                "pesan":"Semoga kerjaannya lancar terus ya bang !!!"#12
+            },
+            {
+                "nama": "Ericson Chandra Sihombing",
+                "nim": "121450026",
+                "umur": "21",
+                "asal":"Bekasi",
+                "alamat": "Kobam",
+                "hobbi": "Travelling",
+                "sosmed": "@ericsonchandra99",
+                "kesan": "Abangnya tegas dan baik",  
+                "pesan":"Semoga setiap step yang diambil berjalan lancaar !!!"#13
+            },
+            {
+                "nama": "Elisabeth Claudia Simanjuntak",
+                "nim": "122450023",
+                "umur": "22",
+                "asal":"Palembang",
+                "alamat": "Kota Baru",
+                "hobbi": "Mendengarkan Lagu",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "Abangnya kerenn",  
+                "pesan":"Semoga kerjaannya lancar terus ya bang !!!"#14
+            },
+            {
+                "nama": "Ericson Chandra Sihombing",
+                "nim": "121450026",
+                "umur": "21",
+                "asal":"Bekasi",
+                "alamat": "Kobam",
+                "hobbi": "Travelling",
+                "sosmed": "@ericsonchandra99",
+                "kesan": "Abangnya tegas dan baik",  
+                "pesan":"Semoga setiap step yang diambil berjalan lancaar !!!"#15
+            },
+            {
+                "nama": "Elisabeth Claudia Simanjuntak",
+                "nim": "122450023",
+                "umur": "22",
+                "asal":"Palembang",
+                "alamat": "Kota Baru",
+                "hobbi": "Mendengarkan Lagu",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "Abangnya kerenn",  
+                "pesan":"Semoga kerjaannya lancar terus ya bang !!!"#16
+            },
+            {
+                "nama": "Elisabeth Claudia Simanjuntak",
+                "nim": "122450023",
+                "umur": "22",
+                "asal":"Palembang",
+                "alamat": "Kota Baru",
+                "hobbi": "Mendengarkan Lagu",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "Abangnya kerenn",  
+                "pesan":"Semoga kerjaannya lancar terus ya bang !!!"#17
+            },
             
         ]
         display_images_with_data(gambar_urls, data_list)
