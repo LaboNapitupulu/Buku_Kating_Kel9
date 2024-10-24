@@ -339,12 +339,12 @@ elif menu == "Senator":
             },
             {
                 "nama": "Rian Bintang Wijaya",
-                "nim": "122450094",
-                "umur": "21",
-                "asal":"Palembang",
-                "alamat": "Kota Baru",
-                "hobi": "Mendengarkan Lagu",
-                "sosmed": "@bintangtwinkle",
+                "nim": "121450098",
+                "umur": "22",
+                "asal":"Lampung Tengah",
+                "alamat": "Kost Putri Rahayu Indomaret",
+                "hobi": "Nyanyi",
+                "sosmed": "@anissaluthfi_",
                 "kesan": "",  
                 "pesan":""
             },
