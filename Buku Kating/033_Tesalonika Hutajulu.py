@@ -337,6 +337,7 @@ elif menu == "Senator":
                 "kesan": "",  
                 "pesan":"",
             },
+        ]
         display_images_with_data(gambar_urls, data_list)
     senator()
 
