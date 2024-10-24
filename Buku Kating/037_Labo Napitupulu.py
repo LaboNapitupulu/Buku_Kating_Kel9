@@ -681,7 +681,7 @@ elif menu == "Departemen MIKFES":
                 "asal":"Kep. Riau",
                 "alamat": "Gang Nangka 3",
                 "hobi": "Review Jurnal",
-                "sosmed": "@junitaa_0406,
+                "sosmed": "@junitaa_0406",
                 "kesan": "",  
                 "pesan":""
             },
