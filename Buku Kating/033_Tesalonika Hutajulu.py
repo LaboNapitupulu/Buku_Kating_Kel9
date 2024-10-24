@@ -352,5 +352,6 @@ elif menu == "Senator":
         ]
         display_images_with_data(gambar_urls, data_list)
     senator()
+
 # Tambahkan menu lainnya sesuai kebutuhan
 
