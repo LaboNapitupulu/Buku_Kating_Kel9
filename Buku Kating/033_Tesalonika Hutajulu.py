@@ -335,21 +335,8 @@ elif menu == "Senator":
                 "hobi": "Nyanyi",
                 "sosmed": "@anissaluthfi_",
                 "kesan": "",  
-                "pesan":""
+                "pesan":"",
             },
-            {
-                "nama": "Rian Bintang Wijaya",
-                "nim": "122450094",
-                "umur": "21",
-                "asal":"Palembang",
-                "alamat": "Kota Baru",
-                "hobi": "Mendengarkan Lagu",
-                "sosmed": "@bintangtwinkle",
-                "kesan": "",  
-                "pesan":""
-            },
-
-        ]
         display_images_with_data(gambar_urls, data_list)
     senator()
 
