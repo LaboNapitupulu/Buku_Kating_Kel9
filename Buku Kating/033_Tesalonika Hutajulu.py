@@ -337,6 +337,17 @@ elif menu == "Senator":
                 "kesan": "",  
                 "pesan":"",
             },
+            {
+                "nama": "Jeremia Susanto",
+                "nim": "122450022",
+                "umur": "20",
+                "asal":"Balam",
+                "alamat": "Balam",
+                "hobbi": "Gangguin orang",
+                "sosmed": "@jeremia_s_",
+                "kesan": "Abangnya sangat rajin",  
+                "pesan":"semoga rajinnya nular ya bang !!!"#10
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     senator()
