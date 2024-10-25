@@ -392,11 +392,11 @@ elif menu == "Departemen PSDA":
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
                 "nim": "122450023",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
+                "umur": "20",
+                "asal":"Tangerang",
+                "alamat": "Owen Kost, Sukarame",
                 "hobi": "",
-                "sosmed": "",
+                "sosmed": "@elisabethh_",
                 "kesan": "",  
                 "pesan":""
             },
@@ -535,48 +535,213 @@ elif menu == "Departemen PSDA":
                         {
                 "nama": "M. Farhan Athaulloh",
                 "nim": "121450117",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "",
+                "umur": "21",
+                "asal":"Lampung",
+                "alamat": "Kotabaru",
+                "hobi": "menolong",
+                "sosmed": "@mfarhan.ath",
                 "kesan": "",  
                 "pesan":""
             },
                         {
                 "nama": "Jaclin Alcavella",
                 "nim": "122450015",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "",
+                "umur": "19",
+                "asal":"Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobi": "berenang",
+                "sosmed": "@jaclinalcv_",
                 "kesan": "",  
                 "pesan":""
             },
             {
                 "nama": "Rafly Prabu Darmawan",
                 "nim": "122450140",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "",
+                "umur": "20",
+                "asal":"Bangka Belitung",
+                "alamat": "Sukarame",
+                "hobi": "main game",
+                "sosmed": "@raflyy_pd",
                 "kesan": "",  
                 "pesan":""
             },
             {
                 "nama": "Syalaisha Andini Putriansyah",
                 "nim": "122450111",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "",
+                "umur": "21",
+                "asal":"Tangerang",
+                "alamat": "Sukarame",
+                "hobi": "membaca",
+                "sosmed": "@syalaisha.i__",
                 "kesan": "",  
                 "pesan":""
             },       
         ]
         display_images_with_data(gambar_urls, data_list)
     psda()
+
+elif menu == "Departemen MIKFES":
+    def mikfes():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1lf5hlzRlH9j0zXy9YqmBntxpDUbAQXRW", #Bg Rafi ok
+            "https://drive.google.com/uc?export=view&id=1lUCc8h9bOCGHdwdXdBfvfEPjXzqjRxxp", #Kak Anova ok
+            "https://drive.google.com/uc?export=view&id=1lhjaS-DQa-OqalSihs1O50jXwkV5Zfmz", #Bg Ahmad Akbar ok
+            "https://drive.google.com/uc?export=view&id=1ljHT8wZGXQ87_7-XXxpdr5DxsU21xrY1", #Bg Fadhil ok
+            "https://drive.google.com/uc?export=view&id=1lUI-CV9fz8d_oChi3v-8Nxw2eBzXGlak", #Kak Dina ok
+            "https://drive.google.com/uc?export=view&id=1lN96ljjn1VbsOwxmQOOIVwiioD8H0uh8", #Kak Dinda ok
+            "https://drive.google.com/uc?export=view&id=1lSc5OoQA2EzPp9T24liOMVJwCLEFm_5t", #Kak Eta ok
+            "https://drive.google.com/uc?export=view&id=1lLr_O81effpIzdqzTPx5yF0fU1WqPisA", #Kak Rut ok 
+            "https://drive.google.com/uc?export=view&id=1lLlnmulx9SHwT4WXLm3dXEE0deD-5DEM", #Kak Puspa ok
+            "https://drive.google.com/uc?export=view&id=1lhhswIiciDj4X9c8IUflD9YoJo_gqMW0", #Bg Eggi _
+            "https://drive.google.com/uc?export=view&id=1lST0yP46SEtHhcRT-ATbrvvFuASYJ4ua", #Kak Febiya _
+            "https://drive.google.com/uc?export=view&id=1lcwlYlH7w8t4DG6wPsfUb_7gZ3YP586f", #Bang Happy ok
+            "https://drive.google.com/uc?export=view&id=1lXhPxYaEQkdTEdEZ7qJotm4qLR9hg2PM", #Bang Randa ok
+        ]
+        data_list = [
+            {
+                "nama": "Rafi Fadhlillah",
+                "nim": "121450143",
+                "umur": "21",
+                "asal":"Lubuk Linggau",
+                "alamat": "Jl. Nangka 4",
+                "hobi": "Olahraga",
+                "sosmed": "@rafadhlillahh13",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Annisa Novantika",
+                "nim": "121450005",
+                "umur": "21",
+                "asal":"Lampung Utara",
+                "alamat": "Jl. Pulau Sebesi",
+                "hobi": "Memasak",
+                "sosmed": "@anovavona",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Ahmad Sahidin Akbar",
+                "nim": "122450044",
+                "umur": "20",
+                "asal":"Tulang Bawang",
+                "alamat": "Sukarame",
+                "hobi": "Olahraga",
+                "sosmed": "@sahid22__",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Fadhil Fitra Wijaya",
+                "nim": "122450082",
+                "umur": "20",
+                "asal":"Bekasi",
+                "alamat": "Teluk Betung",
+                "hobi": "Main Game",
+                "sosmed": "@fadhilfwee",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Syalaisha Andina Putriansyah",
+                "nim": "122450121",
+                "umur": "21",
+                "asal":"Tangerang",
+                "alamat": "Gang Yudistira",
+                "hobi": "Baca Jurnal",
+                "sosmed": "@dkselsd_31",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Dinda Nababan",
+                "nim": "122450120",
+                "umur": "20",
+                "asal":"Medan",
+                "alamat": "Jl. Lapas",
+                "hobi": "Belajar",
+                "sosmed": "@dindanababan_",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Marleta Cornelia Leander",
+                "nim": "122450092",
+                "umur": "20",
+                "asal":"Depok",
+                "alamat": "Gang Nangka 3",
+                "hobi": "Review Jurnal",
+                "sosmed": "@marletacornelia",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Rut Junita Sari Siburian",
+                "nim": "122450103",
+                "umur": "20",
+                "asal":"Kep. Riau",
+                "alamat": "Gang Nangka 3",
+                "hobi": "Review Jurnal",
+                "sosmed": "@junitaa_0406",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Syadza Puspadari Azhar",
+                "nim": "122450072",
+                "umur": "20",
+                "asal":"Palembang",
+                "alamat": "Belwis",
+                "hobi": "Resume SG",
+                "sosmed": "@puspadrr",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Eggi satria",
+                "nim": "122450032",
+                "umur": "20",
+                "asal":"Sukabumi",
+                "alamat": "Korpri Raya",
+                "hobi": "Ngoding Wisata",
+                "sosmed": "@_egistr",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Febiya Jomy Pratiwi",
+                "nim": "122450074",
+                "umur": "20",
+                "asal":"Tulang Bawang",
+                "alamat": "Jl. Kelengkeng Raya",
+                "hobi": "Review Jurnal",
+                "sosmed": "@pratiwifebiya",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Happy Syahrul Ramadhan",
+                "nim": "122450013",
+                "umur": "20",
+                "asal":"Lampung Timur",
+                "alamat": "Karang Anyar",
+                "hobi": "Main Game",
+                "sosmed": "@sudo.syahrulramadhannn",
+                "kesan": "",  
+                "pesan":""
+            },
+            {
+                "nama": "Randa Andriana Putra",
+                "nim": "122450083",
+                "umur": "21",
+                "asal":"",
+                "alamat": "Sukarame",
+                "hobi": "Tidur",
+                "sosmed": "@randaandriana_",
+                "kesan": "",  
+                "pesan":""
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    mikfes()
 # Tambahkan menu lainnya sesuai kebutuhan
