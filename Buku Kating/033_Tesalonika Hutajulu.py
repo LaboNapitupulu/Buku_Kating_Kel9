@@ -858,5 +858,159 @@ elif menu == "Departemen Eksternal":
         display_images_with_data(gambar_urls, data_list)
     eksternal()
 
+elif menu == "Departemen Internal":
+    def internal():
+        gambar_urls = [
+        "https://drive.google.com/uc?export=view&id=1iVuDUFlBquoQlM5lAcQuLBRSA-wuIBYq",
+        "https://drive.google.com/uc?export=view&id=1iEEgrMCtj5SPxGzIfAbH_F0q0yETMT_i",
+        "https://drive.google.com/uc?export=view&id=1i6Ao1wwRhzB-d1FuITZu2OWXPQB3_Kai",
+        "https://drive.google.com/uc?export=view&id=1i417gpTDMzxj5S-OJ_9NUTBhy7MZsTev", 
+        "https://drive.google.com/uc?export=view&id=1iB9ywwYOq6CNvFzG0pQ_8a5dwgzzl1VJ",
+        "https://drive.google.com/uc?export=view&id=1i1d_ZSe1xDo9vyMlsZZDJIBLoYcjobLe",
+        "https://drive.google.com/uc?export=view&id=1idgmpSiec9Bq26eXBsUz_JxSAGYc-8az", 
+        "https://drive.google.com/uc?export=view&id=1iNBb7xAUXc1eB06tcn6-RxBUNKpcdsvu",
+        "https://drive.google.com/uc?export=view&id=1iaCqQHCSLvk_Cg3_saxdRn7DXp3NoiAr",
+        "https://drive.google.com/uc?export=view&id=1iCL_6yb9p4RjQdlalWgtB_yto3CFC78Y", 
+        "https://drive.google.com/uc?export=view&id=1iONWXKyD0Q8QX6E2qrrklPGhHc0PmdUU",
+        "https://drive.google.com/uc?export=view&id=1iDNHrs1tNr3860gZOKc9Zl5itb5MdZdf", 
+
+        ]
+        data_list = [
+            {
+            "nama": "Dimas Rizky Ramadhani",
+            "nim": "121450027",
+            "umur": "20",
+            "asal": "Pamulang, Tangsel",
+            "alamat": "Way Kandis (Kobam)",
+            "hobi": "Manjat Tower Sutet",
+            "sosmed": "@dimzrky_",
+            "kesan": "Keren banget dan asik",
+            "pesan": "Sehat dan semangat kuliahnya bang"
+        },
+        {
+            "nama": "Catherine Firdhasari Maulina Sinaga",
+            "nim": "121450072",
+            "umur": "20",
+            "asal": "Medan",
+            "alamat": "Airan",
+            "hobi": "Baca Novel",
+            "sosmed": "@catherine.sinagaa",
+            "kesan": "Lucu dan cantik",
+            "pesan": "Semangat kuliahnya kak"
+        },
+        {
+            "nama": "M. Akbar Resdika",
+            "nim": "12145006",
+            "umur": "20",
+            "asal": "Lampung Barat",
+            "alamat": "Labuhan Dalam",
+            "hobi": "Ngoding",
+            "sosmed": "@akbar_resdika",
+            "kesan": "Keren dan asik orangnya",
+            "pesan": "Semangat kuliah abang"
+        },
+        {
+            "nama": "Rani Puspita Sari",
+            "nim": "122450030",
+            "umur": "20",
+            "asal": "Metro",
+            "alamat": "Rajabasa",
+            "hobi": "Denger musik",
+            "sosmed": "@ranniu",
+            "kesan": "Keren dan seru banget",
+            "pesan": "Semangat dan sehat selalu kak"
+        },
+        {
+            "nama": "Rendra Eka Prayoga",
+            "nim": "122450112",
+            "umur": "20",
+            "asal": "Bekasi",
+            "alamat": "Belwis",
+            "hobi": "Ngaji",
+            "sosmed": "@rednraepr",
+            "kesan": "Lucu dan keren",
+            "pesan": "Semangat kuliah dan ngaspraknya bang"
+        },
+        {
+            "nama": "Salwa Farhanatussaidah",
+            "nim": "122450055",
+            "umur": "20",
+            "asal": "Pesawaran",
+            "alamat": "Jl. Airan",
+            "hobi": "Renang Tapi Gabisa Renang",
+            "sosmed": "@slwfhn_694",
+            "kesan": "Asik kakaknya",
+            "pesan": "Semangat dan semoga keren selalu"
+        },
+        {
+            "nama": "Ari Sigit",
+            "nim": "121450069",
+            "umur": "23",
+            "asal": "Lampung Barat",
+            "alamat": "Labuhan Ratu",
+            "hobi": "Olahraga",
+            "sosmed": "@ari.sigit17",
+            "kesan": "Asik abangnya",
+            "pesan": "Semoga cepat lulus dan semangat abang"
+        },
+        {
+            "nama": "Azizah Kusumah Putri",
+            "nim": "122450068",
+            "umur": "21",
+            "asal": "Lampung Selatan",
+            "alamat": "Natar",
+            "hobi": "Berkebun",
+            "sosmed": "@azizahksmh15",
+            "kesan": "Lucu dan asik",
+            "pesan": "Semangat kakak buat kuliahnya"
+        },
+        {
+            "nama": "Josua Panggabean",
+            "nim": "12145001",
+            "umur": "21",
+            "asal": "Pematang Siantar",
+            "alamat": "Gya Kos",
+            "hobi": "Nonton Film",
+            "sosmed": "@josuapanggabean16_",
+            "kesan": "Asik dan informatif",
+            "pesan": "Semangat bang buat kuliahnya"
+        },
+        {
+            "nama": "Meira Listyaningrum",
+            "nim": "122450011",
+            "umur": "20",
+            "asal": "Pesawaran",
+            "alamat": "Airan",
+            "hobi": "Membaca",
+            "sosmed": "@meiralsty_",
+            "kesan": "Keren dan asik",
+            "pesan": "Semangat kuliah"
+        },
+        {
+            "nama": "Rendi Alexander Hutagalung",
+            "nim": "122450057",
+            "umur": "20",
+            "asal": "Tangerang",
+            "alamat": "Kos Benawang",
+            "hobi": "Nyanyi",
+            "sosmed": "@rexanderr",
+            "kesan": "Asik dan keren",
+            "pesan": "Semangat ya bang kuliahnya"
+        },
+        {
+            "nama": "Renta Siahaan",
+            "nim": "122450070",
+            "umur": "21",
+            "asal": "Sumatera Utara",
+            "alamat": "Sukarame",
+            "hobi": "Membaca",
+            "sosmed": "@renta.shn",
+            "kesan": "Keren kakaknya",
+            "pesan": "Semangat kakak kuliahnya"
+        },
+    ]
+        display_images_with_data(gambar_urls, data_list)
+    internal()
+
 # Tambahkan menu lainnya sesuai kebutuhan
 
