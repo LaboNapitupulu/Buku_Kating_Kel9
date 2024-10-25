@@ -416,7 +416,7 @@ elif menu == "Departemen PSDA":
                 "umur": "20",
                 "asal":"Sumatera Barat",
                 "alamat": "Gang Perwira Belwis",
-                "hobi": "",
+                "hobi": "Minum Kopi",
                 "sosmed": "@allyaislami_",
                 "kesan": "",  
                 "pesan":""
