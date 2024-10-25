@@ -796,7 +796,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Traveling",
                 "sosmed": "@ramadhitatifa",
                 "kesan": "Kakaknya terlihat tegass tapi baik kok",  
-                "pesan":"lsemogaa lancar ya kak jadi sekertaris eksternal !!!"#1
+                "pesan":"lsemogaa lancar ya kak jadi sekertaris eksternal !!!"#2
             },
             {
                 "nama": "Nazwa Nabilla",
@@ -807,7 +807,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Belajar",
                 "sosmed": "@nazwanbilla",
                 "kesan": "Suara kakaknya lembuttt sekalii",  
-                "pesan":"semoga lancar teruss kuliahnya ya kak !!!"#1
+                "pesan":"semoga lancar teruss kuliahnya ya kak !!!"#3
             },
             {
                 "nama": "Bastian Heskia Silaban",
@@ -818,7 +818,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Telat Ngampus",
                 "sosmed": "@bastiansilaban_",
                 "kesan": "Abang inii tinggi bett",  
-                "pesan":"semogaa semangat terus di hublu !!!"#1
+                "pesan":"semogaa semangat terus di hublu !!!"#4
             },
             {
                 "nama": "Dea Mutia Risani",
@@ -829,7 +829,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Dengerin musik",
                 "sosmed": "@deaa.rsn",
                 "kesan": "Kakaknya terlihat tegass tapi baik kok",  
-                "pesan":"lsemogaa lancar ya kak jadi sekertaris eksternal !!!"#1
+                "pesan":"lsemogaa lancar ya kak jadi sekertaris eksternal !!!"#5
             },
             {
                 "nama": "Estria Rohanauli Sidauruk",
@@ -840,7 +840,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Menonton Film",
                 "sosmed": "@esteriars",
                 "kesan": "Suara kakaknya lembuttt sekalii",  
-                "pesan":"semoga lancar teruss kuliahnya ya kak !!!"#1
+                "pesan":"semoga lancar teruss kuliahnya ya kak !!!"#6
             },
             {
                 "nama": "Natasya Ega Lina Marbun",
@@ -851,7 +851,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Mendengarkan Lagu, Menyanyi",
                 "sosmed": "@nateee__15",
                 "kesan": "Abangnya humoriss tapi berwibawa",  
-                "pesan":"lancar terus ya bang jadi kadepp !!!"#1
+                "pesan":"lancar terus ya bang jadi kadepp !!!"#7
             },
             
             
