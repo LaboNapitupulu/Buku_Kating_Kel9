@@ -318,34 +318,39 @@ elif menu == "Baleg":
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
+    
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1wKGP9_yT2JA9xSFGiXxR7q72RJAk_ob-",#1 
-            "https://drive.google.com/uc?export=view&id=17HYFsSor4w0JRQfTfoE1QPpM2NGAcwQC",#2 
+            "https://drive.google.com/uc?export=view&id=1wKGP9_yT2JA9xSFGiXxR7q72RJAk_ob-", 
+            "https://drive.google.com/uc?export=view&id=17HYFsSor4w0JRQfTfoE1QPpM2NGAcwQC", 
         ]
         data_list = [
             {
-                "nama": " Anissa Luthfi Alifia",
+                "nama": "Anissa Luthfi Alifia",
                 "nim": "121450098",
                 "umur": "22",
                 "asal":"Lampung Tengah",
                 "alamat": "Kost Putri Rahayu Indomaret",
                 "hobi": "Nyanyi",
                 "sosmed": "@anissaluthfi_",
-                "kesan": "kakaknya seruu , assikk suka bicara",  
-                "pesan":"Tetap semangat sampai akhir "#1
+                "kesan": " kakaknya asik ",  
+                "pesan":" semoga sukses terus kak"
             },
             {
-                "nama": " Rian Bintang Wijaya",
-                "nim": " 122450094",
+                "nama": "Rian Bintang Wijaya",
+                "nim": "122450094",
                 "umur": "21",
                 "asal":"Palembang",
                 "alamat": "Kota Baru",
                 "hobi": "Mendengarkan Lagu",
                 "sosmed": "@bintangtwinkle",
-                "kesan": "kakaknya baik terus keliatanya asikk",  
-                "pesan":"semangat terus kuliahnya kakak "#2  
+                "kesan": "orangnya seruu asiikk",  
+                "pesan":" semoga berjalan terus apa yang selalu dikerjakan"
             },
+
         ]
+        display_images_with_data(gambar_urls, data_list)
+    senator()
+
 # Tambahkan menu lainnya sesuai kebutuhan
