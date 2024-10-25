@@ -20,6 +20,7 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "Depertemen MEDKRAF",
         ],
         icons=[
             "people-fill",
