@@ -328,6 +328,7 @@ elif menu == "Senator":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1T8PJm4wcogWFVEZl7TZaXcQkiEVtqZVS", 
             "https://drive.google.com/uc?export=view&id=1VSacP2YJwf6vynfOYpnhR3MCdMpA7ZEB", 
+        
         ]
         data_list = [
             {
@@ -352,7 +353,6 @@ elif menu == "Senator":
                 "kesan": "",  
                 "pesan":"semangat bang"
             },
-
         ]
         display_images_with_data(gambar_urls, data_list)
     senator()
