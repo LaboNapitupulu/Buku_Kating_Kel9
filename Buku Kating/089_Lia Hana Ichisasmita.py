@@ -994,7 +994,7 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
-        "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", 
+        "https://drive.google.com/uc?export=view&id=1UVmCSh2GXgDjsNj-Ym6iDJ0bBLaCB7Ks", 
         "https://drive.google.com/uc?export=view&id=1BpmO1UkJONRB61MEGJOgPPLMU78OXJw0", 
         "https://drive.google.com/uc?export=view&id=15yC6IpcL3vDR_IflFH8Vuh1luuZPGXCT",
         "https://drive.google.com/uc?export=view&id=18lesv-IeN4cM5-gXhPJ8BG-69IwL8nAY",
