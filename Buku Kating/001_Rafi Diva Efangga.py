@@ -181,17 +181,17 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1NjXqIQvqBCfAlQob6-AjZgrxtI0V-HyE",#1
-            "https://drive.google.com/uc?export=view&id=1n9h8VScFm9GhzP0-0ZpwqBNDSIPj_NZn",#2
-            "https://drive.google.com/uc?export=view&id=1t9paUlTPguIJQ1jOxZdWWoAGduSyBQFl",#3
-            "https://drive.google.com/uc?export=view&id=1xLkgHVfSNgHUb2HBYa67YSOiZ6ZssVsy",#4
-            "https://drive.google.com/uc?export=view&id=1xE787bte8aXoRLTikxPljyArmNoakue8",#5
-            "https://drive.google.com/uc?export=view&id=1Ewq0Z8e9WqmsmMfADVwsBLivyGtWjYx7",#6
-            "https://drive.google.com/uc?export=view&id=1xZ6FhtT0KcTs5GmpUD5P8tr3Lbi7gqhw",#7
-            "https://drive.google.com/uc?export=view&id=1bT6HdnkqwMQlwMTVGby_rBnqMk85YL4G",#8
-            "https://drive.google.com/uc?export=view&id=1WrdA0fQi5ysEgp-NSTYxzWYdPDdcwzVs",#9
-            "https://drive.google.com/uc?export=view&id=1tAcVBArUBuCB5FsTZidN5JcfKEH0Mx6F",#10
-            "https://drive.google.com/uc?export=view&id=1M4kfw1ISsZqp0s-9eDtPKa6x4-wAqJ9Z",#11
+            "https://drive.google.com/uc?export=view&id=1NjXqIQvqBCfAlQob6-AjZgrxtI0V-HyE",#1 kak tri
+            "https://drive.google.com/uc?export=view&id=1n9h8VScFm9GhzP0-0ZpwqBNDSIPj_NZn",#2 kak anisa
+            "https://drive.google.com/uc?export=view&id=1t9paUlTPguIJQ1jOxZdWWoAGduSyBQFl",#3 kak wulan 
+            "https://drive.google.com/uc?export=view&id=1xLkgHVfSNgHUb2HBYa67YSOiZ6ZssVsy",#4 kak anisa
+            "https://drive.google.com/uc?export=view&id=1xE787bte8aXoRLTikxPljyArmNoakue8",#5 kak claudhea
+            "https://drive.google.com/uc?export=view&id=1Ewq0Z8e9WqmsmMfADVwsBLivyGtWjYx7",#6 kak dhea
+            "https://drive.google.com/uc?export=view&id=1xZ6FhtT0KcTs5GmpUD5P8tr3Lbi7gqhw",#7 bang muhammad
+            "https://drive.google.com/uc?export=view&id=1bT6HdnkqwMQlwMTVGby_rBnqMk85YL4G",#8 bang feryadi
+            "https://drive.google.com/uc?export=view&id=1WrdA0fQi5ysEgp-NSTYxzWYdPDdcwzVs",#9 bang mirza
+            "https://drive.google.com/uc?export=view&id=1tAcVBArUBuCB5FsTZidN5JcfKEH0Mx6F",#10 bang jery
+            "https://drive.google.com/uc?export=view&id=1ONb1dWYDLlXN5evfaC3Hfp1ccbv2sj9G",#11 kak berliana
         ]
         data_list = [
             {
@@ -302,7 +302,7 @@ elif menu == "Baleg":
                 "hobi": "Gangguin Orang",
                 "sosmed": "@jeremia_s_",
                 "kesan": "Orangnya asikk seruu",  
-                "pesan":"semangat terus bang kuliahnya "# 10
+                "pesan": "semangat terus bang kuliahnya"# 10
             },
             {
                 "nama": "Berliana Enda Putri",
