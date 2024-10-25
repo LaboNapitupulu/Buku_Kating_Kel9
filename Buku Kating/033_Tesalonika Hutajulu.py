@@ -519,9 +519,54 @@ elif menu == "Departemen PSDA":
                 "alamat": "Belwis",
                 "hobbi": "Baca Webtoon",
                 "sosmed": "@rafaaqilla",
-                "kesan": "Abangnya baikkk",  
+                "kesan": "Kakaknya baikkk",  
                 "pesan":"Semoga doa doanya terkabul!!!"#13
+            },           
+            {
+                "nama": "Sahid Maulana",
+                "nim": "122450109",
+                "umur": "21",
+                "asal":"Kota Depok",
+                "alamat": "Airan Raya",
+                "hobbi": "Main Gitar",
+                "sosmed": "@sahid_maul19",
+                "kesan": "Abangnya kerenn, lucu, imutt dan juga menyenangkan",  
+                "pesan":"Semoga tugas tugass nya di kampuss selalu dipermudah bangg !!!"#14
             },
+            {
+                "nama": "Johannes Krisjon Silitonga",
+                "nim": "122450043",
+                "umur": "19",
+                "asal":"Tangerang",
+                "alamat": "Jl. Lapas",
+                "hobbi": "Ngasprak",
+                "sosmed": "@johanneskrisjnnn",
+                "kesan": "Abangnya kerenn, baik dan aktiv di semua bidang",  
+                "pesan":"semogaa baikk teruss ya bang !!!"#15
+            },
+            {
+                "nama": "Kemas Veriandra Ramadhan",
+                "nim": "122450016",
+                "umur": "19",
+                "asal":"Bekasi",
+                "alamat": "Lapangan Golf (kojo)",
+                "hobbi": "Styling Skena (diusahakan)",
+                "sosmed": "@kemasverii",
+                "kesan": "Abangnya jago ngoding banget",  
+                "pesan":"Semoga styling skena nya tercapai !!!"#16
+            },
+            {
+                "nama": "Rafa Aqilla Jungjunan",
+                "nim": "122450142",
+                "umur": "20",
+                "asal":"Pekan Baru",
+                "alamat": "Belwis",
+                "hobbi": "Baca Webtoon",
+                "sosmed": "@rafaaqilla",
+                "kesan": "Abangnya baikkk",  
+                "pesan":"Semoga doa doanya terkabul!!!"#17
+            },
+            
             
         ]
         display_images_with_data(gambar_urls, data_list)
