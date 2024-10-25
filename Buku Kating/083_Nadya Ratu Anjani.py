@@ -606,8 +606,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Nangka 4",
                 "hobi": "Olahraga",
                 "sosmed": "@rafadhlillahh13",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "abang ini pinter",  
+                "pesan":"pengen jadi kadep mikfes kaya abang ini"
             },
             {
                 "nama": "Annisa Novantika",
