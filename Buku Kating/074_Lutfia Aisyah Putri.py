@@ -585,19 +585,19 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1RyClBWDlhq3IuJqC7pEz6qtEpChyr3lX", #Bg Rafi ok
-            "https://drive.google.com/uc?export=view&id=1VHxnMk3xhFiOGhbcM5i_RExqNXp-P_iX", #Kak Anova ok
+            "https://drive.google.com/uc?export=view&id=1nOeERLpfGRtBZf3CMBA_x9gN1GqHJ23S", #Bg Rafi ok
+            "https://drive.google.com/uc?export=view&id=1obxtWGZnduLKopfygCh9tLOplfRR5SDb", #Kak Anova ok
             "https://drive.google.com/uc?export=view&id=1DIdpoOokhnDwt820eEoMCekB8PymRil8", #Bg Ahmad Akbar ok
-            "https://drive.google.com/uc?export=view&id=1qijYN3DnNr-QYQc2zfcun0j6BR-zaiun", #Bg Fadhil ok
-            "https://drive.google.com/uc?export=view&id=1bAcfVXfRvA0OT-O7jWDzuTd3-EFVprNc", #Kak Dina ok
-            "https://drive.google.com/uc?export=view&id=1pymHQ8pB2_5-Q2L8xGgCP73qD_aTKLc3", #Kak Dinda ok
-            "https://drive.google.com/uc?export=view&id=1Ic_fHbRtHuscLJ-WFPMxLuhiqnJcp-Dv", #Kak Eta ok
-            "https://drive.google.com/uc?export=view&id=15cFweZi2EaOksvZlK0z1eCi-TEQQul1O", #Kak Rut ok 
-            "https://drive.google.com/uc?export=view&id=1TF30hRACOm_nrr5_0Mkg6xTHZF1c_hnK", #Kak Puspa ok
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Eggi _
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Febiya _
-            "https://drive.google.com/uc?export=view&id=1AhWof85tQHvHaTZyZkpJjLsrtU-Mu08K", #Bang Happy ok
-            "https://drive.google.com/uc?export=view&id=1bQQO3dqG1b0EfuKsvcxKlW4sgAuFAXgf", #Bang Randa ok
+            "https://drive.google.com/uc?export=view&id=1nTNQylLe4VLtRZtWpv4-J3WghblF1BFO", #Bg Fadhil ok
+            "https://drive.google.com/uc?export=view&id=1nnWZPzVG_X_ejtQsNHZDSSt-LsPX_S0M", #Kak Dina ok
+            "https://drive.google.com/uc?export=view&id=1o9TyqhoWBJmIrSMUKGjbx8Q61hCC-iGy", #Kak Dinda ok
+            "https://drive.google.com/uc?export=view&id=1oyLir7k_3NmHZcISv42mo5F0x4qlzkIm", #Kak Eta ok
+            "https://drive.google.com/uc?export=view&id=1oVMWzKxZ7EFSajcvdozfw5n53cHaD-QE", #Kak Rut ok 
+            "https://drive.google.com/uc?export=view&id=1oIdQ2mkUTMVzhVqjxmexZN4tWWEzL_G6", #Kak Puspa ok
+            "https://drive.google.com/uc?export=view&id=1n8LpPGIYM1tyb_G_DatOOd9hU2MOGwgs", #Bg Eggi _
+            "https://drive.google.com/uc?export=view&id=1oEa2ReH9xPXEWYh-ngPBDYYU8A9p6XXz", #Kak Febiya _
+            "https://drive.google.com/uc?export=view&id=1nQYyV0J_5f2NNZIHx_Vucis_gQ69DSgt", #Bang Happy ok
+            "https://drive.google.com/uc?export=view&id=1orQtMT744H7iNxkeRiXFhnnv0a6YQQQy", #Bang Randa ok
         ]
         data_list = [
             {
