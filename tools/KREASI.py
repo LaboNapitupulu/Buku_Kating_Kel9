@@ -1,8 +1,8 @@
 import streamlit as st
 import random
 
-# List of quotes
-quotes = [
+# Daftar kutipan dalam bahasa Inggris
+kutipan = [
     "The best way to predict the future is to create it. - Peter Drucker",
     "Success is not the key to happiness. Happiness is the key to success. - Albert Schweitzer",
     "Life is what happens when you're busy making other plans. - John Lennon",
@@ -12,14 +12,18 @@ quotes = [
     "The secret of getting ahead is getting started. - Mark Twain"
 ]
 
-# Title of the app
-st.title("Random Quote Generator")
+# Judul aplikasi dalam bahasa Indonesia
+st.title("Quotes Acak")
 
-# Display a random quote
-st.write("Here is your quote of the day:")
-st.write(random.choice(quotes))
+# Menyimpan state dari kutipan yang dihasilkan
+if 'kutipan_terpilih' not in st.session_state:
+    st.session_state.kutipan_terpilih = random.choice(kutipan)
 
-# Add a button to generate a new quote
-if st.button("Generate New Quote"):
-    st.write(random.choice(quotes))
+# Menampilkan kutipan yang disimpan dalam session state
+st.write("Quotes hari ini:")
+st.write(st.session_state.kutipan_terpilih)
 
+# Tombol untuk menghasilkan kutipan baru
+if st.button("Tampilkan Quotes Baru"):
+    st.session_state.kutipan_terpilih = random.choice(kutipan)
+    st.write(st.session_state.kutipan_terpilih)
