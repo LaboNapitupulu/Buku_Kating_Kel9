@@ -19,13 +19,9 @@ st.title("Penghasil Kutipan Acak")
 if 'kutipan_terpilih' not in st.session_state:
     st.session_state.kutipan_terpilih = random.choice(kutipan)
 
-# Menampilkan kutipan yang disimpan dalam session state
-st.write("Inilah kutipan inspirasimu hari ini:")
-st.write(st.session_state.kutipan_terpilih)
-
 # Tombol untuk menghasilkan kutipan baru
 if st.button("Tampilkan Kutipan Baru"):
     st.session_state.kutipan_terpilih = random.choice(kutipan)
 
-# Tampilkan kutipan yang baru
+# Tampilkan kutipan yang terpilih tanpa keterangan tambahan
 st.write(st.session_state.kutipan_terpilih)
