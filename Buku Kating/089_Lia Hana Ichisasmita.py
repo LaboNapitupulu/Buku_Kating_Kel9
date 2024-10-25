@@ -495,7 +495,7 @@ elif menu == "Departemen PSDA":
                 "kesan": "",  
                 "pesan":""
             },
-                        {
+            {
                 "nama": "Kemas Veriandra Ramadhan",
                 "nim": "122450016",
                 "umur": "19",
@@ -528,7 +528,7 @@ elif menu == "Departemen PSDA":
                 "kesan": "",  
                 "pesan":""
             },
-                        {
+            {
                 "nama": "M. Farhan Athaulloh",
                 "nim": "121450117",
                 "umur": "21",
@@ -539,7 +539,7 @@ elif menu == "Departemen PSDA":
                 "kesan": "",  
                 "pesan":""
             },
-                        {
+            {
                 "nama": "Jaclin Alcavella",
                 "nim": "122450015",
                 "umur": "19",
