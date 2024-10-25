@@ -350,7 +350,7 @@ elif menu == "Senator":
                 "hobi": "Mendengarkan Lagu",
                 "sosmed": "@bintangtwinkle",
                 "kesan": "",  
-                "pesan":""
+                "pesan":"semangat bang"
             },
 
         ]
