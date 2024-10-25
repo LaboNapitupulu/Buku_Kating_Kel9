@@ -761,6 +761,18 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1kkGmbnxsYW-nDJPmDQVU5YY-CSjIJisD",#6
             "https://drive.google.com/uc?export=view&id=1Bg3dSz69elF8do0IDzePfKp6LhGJ4uzM",#7
             "https://drive.google.com/uc?export=view&id=1kJcRQH1OZmtwAG5bTBnbtJyUfrJKc1Jx",#8
+            "https://drive.google.com/uc?export=view&id=19YWpyXrDLAkj_MX5GMdFHCUyi1HFG8so",#9
+            "https://drive.google.com/uc?export=view&id=1PHgIbDIS68u6lG5aaUwUxuPLclFEZLis",#10
+            "https://drive.google.com/uc?export=view&id=1AtIDVYh-KHd2BEf2ncCq97nGfcEr7rIQ",#11
+            "https://drive.google.com/uc?export=view&id=1Bn07d2y7_hyRrd713nW9eLscj07OVLTz",#12
+            "https://drive.google.com/uc?export=view&id=1xzhHBtAQmaG_AxMML4KV8OPmcbQ7yrrw",#13
+            "https://drive.google.com/uc?export=view&id=1n5jUrvFUhufhXxWan0-6Kw4mDeJpqeOM",#14
+            "https://drive.google.com/uc?export=view&id=1F4M8cwz6lOraaRSRe4EZ7_A5si-VdMeH",#15
+            "https://drive.google.com/uc?export=view&id=1u0ck2ElKC8c6aPC5QBV81JFuSJ0ZbQZe",#16
+            "https://drive.google.com/uc?export=view&id=1xXraWYGAW-qQR5xxko2A-myCzlXmDP4O",#17
+            "https://drive.google.com/uc?export=view&id=1hwDK3gR9CCw5JwJdsSvrVzQbB7JouHnM",#18
+            "https://drive.google.com/uc?export=view&id=1CppmGUwpKbpgOLP-onLxSyAEnZLuhiWk",#19
+            "https://drive.google.com/uc?export=view&id=1xaUzqDJ-JRiqe3sHpDbonzUx3NQHYeo7",#20
 
         ]
         data_list = [
