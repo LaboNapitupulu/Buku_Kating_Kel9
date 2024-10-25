@@ -769,6 +769,18 @@ elif menu == "Departemen Eksternal":
                 "kesan": "Abangnya sangatt ramahh dan humoris",  
                 "pesan":"lancar terus ya bang jadi kadepp !!!"#1
             },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450041",
+                "umur": "21",
+                "asal":"Tangerang",
+                "alamat": "Sukarame",
+                "hobbi": "Tidur",
+                "sosmed": "@yogyyyyyyy_",
+                "kesan": "Abangnya sangatt ramahh dan humoris",  
+                "pesan":"lancar terus ya bang jadi kadepp !!!"#2
+            },
+            
         ]
         display_images_with_data(gambar_urls, data_list)
     eksternal()
