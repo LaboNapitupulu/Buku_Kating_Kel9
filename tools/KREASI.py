@@ -48,7 +48,7 @@ kutipan = [
 st.title("Penghasil Quotes Acak")
 
 # Menyimpan state dari kutipan yang dihasilkan
-if 'kutipan_terpilih' not in st.session_state:
+if 'kutipan_terpilih' not in st.session_state or isinstance(st.session_state.kutipan_terpilih, str):
     st.session_state.kutipan_terpilih = random.choice(kutipan)
 
 # Tombol untuk menghasilkan kutipan baru
