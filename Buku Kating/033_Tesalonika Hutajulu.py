@@ -755,7 +755,7 @@ elif menu == "Departemen Eksternal":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=17nVnjVFcHwgClFValnwvBXv0R-N2VmUz",#1
             "https://drive.google.com/uc?export=view&id=1caiU_wRF07cozdohUmcMEt9SsieSvjJx",#2
-            "https://drive.google.com/uc?export=view&id=1Bn07d2y7_hyRrd713nW9eLscj07OVLTz",#3pengmas
+            "https://drive.google.com/uc?export=view&id=1Bn07d2y7_hyRrd713nW9eLscj07OVLTz",#3
             "https://drive.google.com/uc?export=view&id=1xzhHBtAQmaG_AxMML4KV8OPmcbQ7yrrw",#4
             "https://drive.google.com/uc?export=view&id=1n5jUrvFUhufhXxWan0-6Kw4mDeJpqeOM",#5
             "https://drive.google.com/uc?export=view&id=1F4M8cwz6lOraaRSRe4EZ7_A5si-VdMeH",#6
@@ -763,7 +763,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1xXraWYGAW-qQR5xxko2A-myCzlXmDP4O",#8
             "https://drive.google.com/uc?export=view&id=1hwDK3gR9CCw5JwJdsSvrVzQbB7JouHnM",#9
             "https://drive.google.com/uc?export=view&id=1CppmGUwpKbpgOLP-onLxSyAEnZLuhiWk",#10
-            "https://drive.google.com/uc?export=view&id=1xaUzqDJ-JRiqe3sHpDbonzUx3NQHYeo7",#11pengmasuntilhere
+            "https://drive.google.com/uc?export=view&id=1xaUzqDJ-JRiqe3sHpDbonzUx3NQHYeo7",#11
             "https://drive.google.com/uc?export=view&id=1bQ1GaDvIjpB0aFMAkcv04K85-xiWy1dC",#12
             "https://drive.google.com/uc?export=view&id=1putwiQaFre2kW9CzzdP2RsPy_eNUhgq7",#13
                      
