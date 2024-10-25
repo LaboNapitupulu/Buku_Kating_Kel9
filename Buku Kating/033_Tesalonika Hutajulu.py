@@ -854,7 +854,6 @@ elif menu == "Departemen Eksternal":
                 "pesan":"lancar terus ya bang jadi kadepp !!!"#7
             },
             
-            
         ]
         display_images_with_data(gambar_urls, data_list)
     eksternal()
