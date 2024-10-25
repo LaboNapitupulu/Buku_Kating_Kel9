@@ -1313,10 +1313,10 @@ elif menu == "Depertemen MEDKRAF":
         display_images_with_data(gambar_urls, data_list)
     ssd()
                 
-elif menu == "Depertemen MEDKRAF":
+elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1r7f-ih1rvailne3Cf6zDD89DAKPmxssN", # bang tao, belum 
+            "https://drive.google.com/uc?export=view&id=1r7f-ih1rvailne3Cf6zDD89DAKPmxssN", # bang tao
             "https://drive.google.com/uc?export=view&id=1MdPAmXFcUxMJABeyKCadTrqtdRtyjjUw", # kak arsyi
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bang kai
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bang arsal
@@ -1421,7 +1421,7 @@ elif menu == "Depertemen MEDKRAF":
                 "kesan": "Kak Try Yani chill banget!",
                 "pesan": "Semoga makin sukses, Kak!"
             },
-            {  # Added missing comma here
+            {
                 "nama": "Dwi Ratna Anggraeni",
                 "nim": "122450008",
                 "umur": "20",
@@ -1434,4 +1434,6 @@ elif menu == "Depertemen MEDKRAF":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
+
     medkraf()
+
