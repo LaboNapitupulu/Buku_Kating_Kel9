@@ -857,7 +857,7 @@ elif menu == "Departemen Eksternal":
                 "kesan": "seny",  
                 "pesan":"Semoga kerjaannya lancar terus ya bang !!!"#8
             },
-                        {
+            {
                 "nama": "Syadza Puspadari Azhar",
                 "nim": "122450072",
                 "umur": "20",
