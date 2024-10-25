@@ -753,7 +753,7 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
-        "https://drive.google.com/uc?export=view&id=17nVnjVFcHwgClFValnwvBXv0R-N2VmUz",#1
+            "https://drive.google.com/uc?export=view&id=17nVnjVFcHwgClFValnwvBXv0R-N2VmUz",#1
             "https://drive.google.com/uc?export=view&id=1caiU_wRF07cozdohUmcMEt9SsieSvjJx",#2
             "https://drive.google.com/uc?export=view&id=1Bn07d2y7_hyRrd713nW9eLscj07OVLTz",#3
             "https://drive.google.com/uc?export=view&id=1xzhHBtAQmaG_AxMML4KV8OPmcbQ7yrrw",#4
@@ -766,6 +766,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1xaUzqDJ-JRiqe3sHpDbonzUx3NQHYeo7",#11
             "https://drive.google.com/uc?export=view&id=1bQ1GaDvIjpB0aFMAkcv04K85-xiWy1dC",#12
             "https://drive.google.com/uc?export=view&id=1putwiQaFre2kW9CzzdP2RsPy_eNUhgq7",#13
+        
         ]
         data_list = [
             {
