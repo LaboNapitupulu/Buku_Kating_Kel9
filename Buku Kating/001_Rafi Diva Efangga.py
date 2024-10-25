@@ -321,8 +321,8 @@ elif menu == "Baleg":
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1NjXqIQvqBCfAlQob6-AjZgrxtI0V-HyE",#1 kak luthfi
-            "https://drive.google.com/uc?export=view&id=1n9h8VScFm9GhzP0-0ZpwqBNDSIPj_NZn",#2 bang bintang
+            "https://drive.google.com/uc?export=view&id=1wKGP9_yT2JA9xSFGiXxR7q72RJAk_ob-",#1 
+            "https://drive.google.com/uc?export=view&id=17HYFsSor4w0JRQfTfoE1QPpM2NGAcwQC",#2 
         ]
         data_list = [
             {
