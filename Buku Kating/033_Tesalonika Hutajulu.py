@@ -758,15 +758,15 @@ elif menu == "Departemen Eksternal":
         ]
         data_list = [
             {
-                "nama": "Randa Andriana Putra",
-                "nim": "121450083",
+                "nama": "Yogy Sae Tama",
+                "nim": "121450041",
                 "umur": "21",
-                "asal":"Banten",
+                "asal":"Tangerang",
                 "alamat": "Sukarame",
                 "hobbi": "Tidur",
-                "sosmed": "@randaandriana_",
-                "kesan": "Abangnya rajinnn bett",  
-                "pesan":"semoga dapat tutor rajin dari abangnya !!!"#1
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoriss tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadepp !!!"#1
             },
             
         ]
