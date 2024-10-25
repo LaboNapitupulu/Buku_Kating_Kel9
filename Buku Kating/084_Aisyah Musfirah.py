@@ -1156,4 +1156,70 @@ elif menu == "Departemen Internal":
         ]
         display_images_with_data(gambar_urls, data_list)
     internal()
+
+elif menu == "Departemen SSD":
+    def ssd():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1jHbtv1PgemCJajWHFOvSB2cvkMtWXTen", 
+            "https://drive.google.com/uc?export=view&id=1MdPAmXFcUxMJABeyKCadTrqtdRtyjjUw"
+        ]
+        data_list = [
+            {
+                "nama": "Anissa Luthfi Alifia",
+                "nim": "121450098",
+                "umur": "22",
+                "asal":"Lampung Tengah",
+                "alamat": "Kost Putri Rahayu Indomaret",
+                "hobi": "Nyanyi",
+                "sosmed": "@anissaluthfi_",
+                "kesan": "Kak Upi I like the way you speak",  
+                "pesan": "Semoga makin keren kak!"
+            },
+            {
+                "nama": "Rian Bintang Wijaya",
+                "nim": "122450094",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Kota Baru",
+                "hobi": "Mendengarkan Lagu",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "Bang Bintang sepertinya softboy",  
+                "pesan": "Semoga next jabatannya adalah senator"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    ssd()
+
+elif menu == "Depertemen MEDKRAF":
+    def medkraf():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1r7f-ih1rvailne3Cf6zDD89DAKPmxssN", 
+            "https://drive.google.com/uc?export=view&id=1MdPAmXFcUxMJABeyKCadTrqtdRtyjjUw"
+        ]
+        data_list = [
+            {
+                "nama": "Anissa Luthfi Alifia",
+                "nim": "121450098",
+                "umur": "22",
+                "asal":"Lampung Tengah",
+                "alamat": "Kost Putri Rahayu Indomaret",
+                "hobi": "Nyanyi",
+                "sosmed": "@anissaluthfi_",
+                "kesan": "Kak Upi I like the way you speak",  
+                "pesan": "Semoga makin keren kak!"
+            },
+            {
+                "nama": "Rian Bintang Wijaya",
+                "nim": "122450094",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Kota Baru",
+                "hobi": "Mendengarkan Lagu",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "Bang Bintang sepertinya softboy",  
+                "pesan": "Semoga next jabatannya adalah senator"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    medkraf()
 # Tambahkan menu lainnya sesuai kebutuhan
