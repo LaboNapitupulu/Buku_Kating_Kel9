@@ -40,7 +40,7 @@ kutipan = [
     {"quote": "The only person you are destined to become is the person you decide to be.", "author": "Ralph Waldo Emerson"},
     {"quote": "To succeed in life, you need two things: ignorance and confidence.", "author": "Mark Twain"},
     {"quote": "It does not matter how slowly you go as long as you do not stop.", "author": "Confucius"},
-    {"quote": "Hardships often prepare ordinary people for an extraordinary destiny.", "author": "C.S. Lewis"}
+    {"quote": "Hardships often prepare ordinary people for an extraordinary destiny.", "author": "C.S. Lewis"},
     {"quote": "People have to go through trials and tribulations to get where they at. Do your thing - continue to rock it - because obviously, God wants you here.", "author": "Kendrick Lamar"}
 ]
 
