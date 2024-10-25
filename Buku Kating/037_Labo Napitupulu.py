@@ -591,8 +591,8 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1Ic_fHbRtHuscLJ-WFPMxLuhiqnJcp-Dv", #Kak Eta ok
             "https://drive.google.com/uc?export=view&id=15cFweZi2EaOksvZlK0z1eCi-TEQQul1O", #Kak Rut ok 
             "https://drive.google.com/uc?export=view&id=1TF30hRACOm_nrr5_0Mkg6xTHZF1c_hnK", #Kak Puspa ok
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Eggi _
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Febiya _
+            "https://drive.google.com/uc?export=view&id=1SWEVK9Pj-cruEQW0am2nATSqTXDqaznR", #Bg Eggi ok
+            "https://drive.google.com/uc?export=view&id=1zzDdXFn4qtPo-dMVolOo8mH4i4xXJrAO", #Kak Febiya ok
             "https://drive.google.com/uc?export=view&id=1AhWof85tQHvHaTZyZkpJjLsrtU-Mu08K", #Bang Happy ok
             "https://drive.google.com/uc?export=view&id=1bQQO3dqG1b0EfuKsvcxKlW4sgAuFAXgf", #Bang Randa ok
         ]
@@ -1000,13 +1000,13 @@ elif menu == "Departemen Internal":
         "https://drive.google.com/uc?export=view&id=17iwcHYvx8CzctOqq-m1yEQh387PSjecU", #BgDimas ok
         "https://drive.google.com/uc?export=view&id=19GbVJXP5jnMHJbPKAW27_PGSNnb2bhEQ", #Kak Catherine ok
         "https://drive.google.com/uc?export=view&id=1RH8vudXdX_-6gy2AUEfO81f95dW66y36", #Bg Akbar ok
-        "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Rani _
+        "https://drive.google.com/uc?export=view&id=14sl6577uNK8MpvHKMzGwuEcLEOI6_1qB", #Kak Rani ok
         "https://drive.google.com/uc?export=view&id=1SD8xwVSJWx2y3hXmwcW2k4AbJmnMukSi", #Bg Rendra ok
         "https://drive.google.com/uc?export=view&id=13WXdXx2vOxM7VpaGpoA0awtJ5vMxDzIO", #Kak Salwa ok
         "https://drive.google.com/uc?export=view&id=1kJycwwidXEaqBRGBU6r5HuToupQ4Krl2", #Bg Ari ok 
-        "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Azizah _
+        "https://drive.google.com/uc?export=view&id=1-4mfib8QGiiLHWcuQAP2N-6AWkgMD7Dl", #Kak Azizah ok
         "https://drive.google.com/uc?export=view&id=1CkJV-CqxUTdeYI9Kjm3UN9HxgNZtvTZo", #Bg Josua ok
-        "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Meira _
+        "https://drive.google.com/uc?export=view&id=1XtgBbEHieOkhhe5rFatgSgNRgP0KK_sc", #Kak Meira ok
         "https://drive.google.com/uc?export=view&id=1Gh0vHoHICRqPL623BCjGYV9Yx0rk68Li", #Bg Rendi ok
         "https://drive.google.com/uc?export=view&id=1oJwfUP05xqCDVTmz4fqIMm8yrszZUWGa", #kak Renta ok
 
