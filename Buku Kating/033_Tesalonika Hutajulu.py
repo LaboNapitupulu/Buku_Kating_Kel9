@@ -763,10 +763,10 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal":"Banten",
                 "alamat": "Sukarame",
-                "hobi": "Tidur",
+                "hobbi": "Tidur",
                 "sosmed": "@randaandriana_",
                 "kesan": "Abangnya rajinnn bett",  
-                "pesan":"semoga dapat tutor rajin dari abangnya !!!"#13
+                "pesan":"semoga dapat tutor rajin dari abangnya !!!"#1
             },
             
         ]
