@@ -382,8 +382,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kobam",
                 "hobi": "Travlling",
                 "sosmed": "@ericsonchandra99",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "berwibawa dan lugas",  
+                "pesan":"semangat kuliah dan semoga cepat lulus bang!!!"
             },
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
@@ -391,10 +391,10 @@ elif menu == "Departemen PSDA":
                 "umur": "20",
                 "asal":"Tangerang",
                 "alamat": "Owen Kos, Sukarame",
-                "hobi": "",
+                "hobi": "Mencari keributan",
                 "sosmed": "@elisabethh_",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "kakaknya lucuu",  
+                "pesan":"semangat terus kuliahnya kak!!!"
             },
             {
                 "nama": "Nisrina Nur Afifah",
@@ -404,8 +404,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobi": "Cubit Tangan Orang",
                 "sosmed": "@afifahhnsrn",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "gak nyangka kakak ketuplaknya",  
+                "pesan":"semangat terus kuliahnya kak"
             },
             {
                 "nama": "Allya Nurul Islami Pasha",
@@ -415,8 +415,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Gang Perwira Belwis",
                 "hobi": "Minum kopi",
                 "sosmed": "@allyaislami_",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "Baik dan informatif bangett",  
+                "pesan":"semanagat kuliahnya ya kakk"
             },
             {
                 "nama": "Eksanty Febriana Sukma Islamiaty",
