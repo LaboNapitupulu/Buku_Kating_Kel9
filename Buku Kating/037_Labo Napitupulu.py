@@ -391,11 +391,11 @@ elif menu == "Departemen PSDA":
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
                 "nim": "122450023",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "",
+                "umur": "20",
+                "asal":"Tangerang",
+                "alamat": "Owen kos, Sukarame",
+                "hobi": "Memancing Keributan",
+                "sosmed": "@elisabethh_",
                 "kesan": "",  
                 "pesan":""
             },
@@ -531,49 +531,49 @@ elif menu == "Departemen PSDA":
                 "kesan": "",  
                 "pesan":""
             },
-                        {
+        {
                 "nama": "M. Farhan Athaulloh",
                 "nim": "121450117",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "",
+                "umur": "21",
+                "asal":"Lampung",
+                "alamat": "Kota Baru",
+                "hobi": "Menolong",
+                "sosmed": "@mfarhan.ath",
                 "kesan": "",  
-                "pesan":""
+                "pesan": "" #15
             },
                         {
                 "nama": "Jaclin Alcavella",
                 "nim": "122450015",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "",
+                "umur": "19",
+                "asal": "Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobi": "Berenang",
+                "sosmed": "@jaclinalcv_",
                 "kesan": "",  
-                "pesan":""
+                "pesan": "" #16
             },
             {
                 "nama": "Rafly Prabu Darmawan",
                 "nim": "122450140",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "",
+                "umur": "20",
+                "asal": "Bangka Belitung",
+                "alamat": "Sukarame",
+                "hobi": "Main Game",
+                "sosmed": "@raflyy_pd",
                 "kesan": "",  
-                "pesan":""
+                "pesan": "" #17
             },
             {
                 "nama": "Syalaisha Andini Putriansyah",
                 "nim": "122450111",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "",
+                "umur": "21",
+                "asal": "Tangerang",
+                "alamat": "Sukarame",
+                "hobi": "Membaca",
+                "sosmed": "@syalaisha.i__",
                 "kesan": "",  
-                "pesan":""
+                "pesan": "" #18
             },       
         ]
         display_images_with_data(gambar_urls, data_list)
