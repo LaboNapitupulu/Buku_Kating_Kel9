@@ -522,61 +522,6 @@ elif menu == "Departemen PSDA":
                 "kesan": "Abangnya baikkk",  
                 "pesan":"Semoga doa doanya terkabul!!!"#13
             },
-            {
-                "nama": "Sahid Maulana",
-                "nim": "122450109",
-                "umur": "21",
-                "asal":"Kota Depok",
-                "alamat": "Airan Raya",
-                "hobi": "Main Gitar",
-                "sosmed": "@sahid_maul19",
-                "kesan": "Abangnyaa sangatt rendah hati dan baik",  
-                "pesan": "Semangat impiannya semester ini tercapai" #14
-            },
-            {
-                "nama": "M. Farhan Athaulloh",
-                "nim": "121450117",
-                "umur": "21",
-                "asal":"Lampung",
-                "alamat": "Kota Baru",
-                "hobi": "Menolong",
-                "sosmed": "@mfarhan.ath",
-                "kesan": "sangattt baikk hobbi nya menolong",  
-                "pesan": "Semangat mau menolong terus ya bang" #15
-            },
-            {
-                "nama": "Jaclin Alcavella",
-                "nim": "122450015",
-                "umur": "19",
-                "asal": "Sumatera Selatan",
-                "alamat": "Korpri",
-                "hobi": "Berenang",
-                "sosmed": "@jaclinalcv_",
-                "kesan": "Kakak cutee dann beautyyyy bett",  
-                "pesan": "semangat kakkk di orbaa" #16
-            },
-            {
-                "nama": "Rafly Prabu Darmawan",
-                "nim": "122450140",
-                "umur": "20",
-                "asal": "Bangka Belitung",
-                "alamat": "Sukarame",
-                "hobi": "Main Game",
-                "sosmed": "@raflyy_pd",
-                "kesan": "abangnya versi diam itu emas",  
-                "pesan": "semogaa abangnyaa bahagiaa terus yaa" #17
-            },
-            {
-                "nama": "Syalaisha Andini Putriansyah",
-                "nim": "122450111",
-                "umur": "21",
-                "asal": "Tangerang",
-                "alamat": "Sukarame",
-                "hobi": "Membaca",
-                "sosmed": "@syalaisha.i__",
-                "kesan": "Kakaknya humble",  
-                "pesan": "semoga lancar terus ya kak di orba" #18
-            },
             
         ]
         display_images_with_data(gambar_urls, data_list)
