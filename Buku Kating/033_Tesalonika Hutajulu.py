@@ -582,11 +582,11 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=16bdwFNwKW2v5fXS2N0QHvV2ztptGvvUT",#6
             "https://drive.google.com/uc?export=view&id=1LYoG9jPLT2odXgp9lKTTarRiJ0ouGTc0",#7
             "https://drive.google.com/uc?export=view&id=1L7ay3gqw3jMtcwg_ob-cigxSx6irYQ1o",#8
-            "https://drive.google.com/uc?export=view&id=1l3Z4HNZTUiYrZhdyUg-rNwj1DK-yVkV-",#9baru done disini
-            "https://drive.google.com/uc?export=view&id=17EQI3v7U1_jatAhjcvUQ01-SfC1IiDdh",#10
-            "https://drive.google.com/uc?export=view&id=1YfH3GzFhIUqXhOXb-S6KIDSMy7Pym40M",#11
-            "https://drive.google.com/uc?export=view&id=17EQI3v7U1_jatAhjcvUQ01-SfC1IiDdh",#12
-            "https://drive.google.com/uc?export=view&id=1YfH3GzFhIUqXhOXb-S6KIDSMy7Pym40M",#13
+            "https://drive.google.com/uc?export=view&id=1l3Z4HNZTUiYrZhdyUg-rNwj1DK-yVkV-",#9
+            "https://drive.google.com/uc?export=view&id=1aAZYKWJ24PkUjX0HHc9foIrNap2YLZl9",#10
+            "https://drive.google.com/uc?export=view&id=1aE7G4CVwsa75WiMnN9OjcmDa0xnzbBOn",#11
+            "https://drive.google.com/uc?export=view&id=1bQ1GaDvIjpB0aFMAkcv04K85-xiWy1dC",#12
+            "https://drive.google.com/uc?export=view&id=1putwiQaFre2kW9CzzdP2RsPy_eNUhgq7",#13
                      
         ]
         data_list = [
