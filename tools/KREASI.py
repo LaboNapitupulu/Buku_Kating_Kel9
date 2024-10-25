@@ -45,14 +45,14 @@ kutipan = [
 ]
 
 # Judul aplikasi dalam bahasa Indonesia
-st.title("Penghasil Kutipan Acak")
+st.title("Penghasil Quotes Acak")
 
 # Menyimpan state dari kutipan yang dihasilkan
 if 'kutipan_terpilih' not in st.session_state:
     st.session_state.kutipan_terpilih = random.choice(kutipan)
 
 # Tombol untuk menghasilkan kutipan baru
-if st.button("Tampilkan Kutipan Baru"):
+if st.button("Tampilkan Quotes Baru"):
     st.session_state.kutipan_terpilih = random.choice(kutipan)
 
 # Tampilkan kutipan dengan tulisan besar dan font yang unik
