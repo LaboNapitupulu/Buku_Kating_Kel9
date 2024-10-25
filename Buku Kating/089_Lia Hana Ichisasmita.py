@@ -366,7 +366,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1JvSlqpdoCZLdo-Rv6_5cUsoPkk9PGdUQ", #Bang Deyvan
             "https://drive.google.com/uc?export=view&id=1yFq1e-LLyekZJjnzozqzFdpdNqvxhJSd", #Bang Jo
             "https://drive.google.com/uc?export=view&id=1khS3iyBuzGjzaJsI4a896pIAFOYeeXpn", #Bang Kemas
-            "https://drive.google.com/uc?export=view&id=1ItR9Usjj8SGLTN5DFC0dFrCfVcBDUW1F", #Kak Rafa
+            "https://drive.google.com/uc?export=view&id=1vIFt8veRCC63iHimW7nnic-JhjBxGbKS", #Kak Rafa
             "https://drive.google.com/uc?export=view&id=1XVfdTTay7hMC1ZxKlALPXssONttsB_aM", #Bang Sahid
             "https://drive.google.com/uc?export=view&id=1W0cGKbUMSXNLxXPaLcyfyCrI4dEVGnL0", #Bang Ateng
             "https://drive.google.com/uc?export=view&id=1hKSdVMxCnwgzgkj4Ka3kWjWS5aLQql5o", #Kak Jaclin
@@ -426,8 +426,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kampung Baru, dekat UNILA",
                 "hobi": "Shalat",
                 "sosmed": "@eksantyfebriana",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "kakaknya terkenal sama kepintarannya",  
+                "pesan":"semoga selalu dimudahkan kuliahnya ya kak"
             },
             {
                 "nama": "Farahanum Afifah Ardiansyah",
