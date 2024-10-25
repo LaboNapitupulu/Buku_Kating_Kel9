@@ -1308,7 +1308,7 @@ elif menu == "Depertemen MEDKRAF":
                 "sosmed": "@dwiratnn_",
                 "kesan": "Kakak vibes happy banget!",
                 "pesan": "Keep your vibes, Kak!"
-            }
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     ssd()
@@ -1332,7 +1332,6 @@ elif menu == "Depertemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1WQ7nf2CaFh8stJ-eXMLdN59TYRgKaTgm", # bang hermawan
             "https://drive.google.com/uc?export=view&id=1rs6ZmHauiKljU8JTNfc2k9QP55XZuH_u", # kak khusnun nisa
         ]
-        
         data_list = [
             {
                 "nama": "Wahyudiyanto",
@@ -1432,7 +1431,7 @@ elif menu == "Depertemen MEDKRAF":
                 "sosmed": "@dwiratnn_",
                 "kesan": "Kakak vibes happy banget!",
                 "pesan": "Keep your vibes, Kak!"
-            }
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     medkraf()
