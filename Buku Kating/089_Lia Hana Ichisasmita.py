@@ -332,8 +332,8 @@ elif menu == "Senator":
                 "alamat": "Kost Putri Rahayu Indomaret",
                 "hobi": "Nyanyi",
                 "sosmed": "@anissaluthfi_",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "Kakaknya seru, jelasinnya asik banget",  
+                "pesan":"Semangat nyelesain proposalnya kak!"
             },
             {
                 "nama": "Rian Bintang Wijaya",
@@ -343,8 +343,8 @@ elif menu == "Senator":
                 "alamat": "Kota Baru",
                 "hobi": "Mendengarkan Lagu",
                 "sosmed": "@bintangtwinkle",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "Abang ini lucu, kocak tapi tegas, baik jugaa",  
+                "pesan":"Semangat terus jadi ketangnya bang!"
             },
 
         ]
@@ -354,7 +354,7 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1-bg-SQF8bLvBDeIQ5AOVXlFNLkdiRrAJ", #Bg Ericson
+            "https://drive.google.com/uc?export=view&id=1hr_Tn0fpnA-iqFoST3Dl9tkgyUTLKcfJ", #Bg Ericson
             "https://drive.google.com/uc?export=view&id=1O0IqIw5-Di3x8vJmhX5O1-vMg4g8vYgR", #Kak Abet
             "https://drive.google.com/uc?export=view&id=1Su2IOxYZPsjdDeRtyTHhM1BVTXqP8aex", #Kak Afifah
             "https://drive.google.com/uc?export=view&id=1wSE58M3jBddq_20JdfjFbBukUyemOG3J", #Kak Allya
@@ -581,14 +581,14 @@ elif menu == "Departemen MIKFES":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=18AW-oVHCWFsH_kae1I1YP0j4Xh_qNWvn", #Bg Rafi ok
             "https://drive.google.com/uc?export=view&id=1pEFHv8m5qN27DK3OXism8KKDpBO4hn5V", #Kak Anova ok
-            "https://drive.google.com/uc?export=view&id=1NZkN5IRdQH0MS9S0wD651DEPFedGNXyQ ", #Bg Ahmad Akbar ok
+            "https://drive.google.com/uc?export=view&id=1NZkN5IRdQH0MS9S0wD651DEPFedGNXyQ", #Bg Ahmad Akbar ok
             "https://drive.google.com/uc?export=view&id=1QcJ6cUv3bGIe5ctRwWUKiHqAQqXaQ15R", #Bg Fadhil ok
             "https://drive.google.com/uc?export=view&id=1mwTCsNRr9BbB-fs1LrjgSmqC31BrEfTk", #Kak Dina ok
             "https://drive.google.com/uc?export=view&id=1QqsgTYdKKidR6Rer2SGEZ7Tj4bhK8scj", #Kak Dinda ok
             "https://drive.google.com/uc?export=view&id=1qmPOj-xcuKBwnpBQkaQwJ0we3ruXVWlc", #Kak Eta ok
             "https://drive.google.com/uc?export=view&id=1Cm08ABIBQwDOHFfCKs_fKfnOps9vwu9s", #Kak Rut ok 
             "https://drive.google.com/uc?export=view&id=1DYrxGG34fkkdLyBzQSqsUqfMab7i1f5e", #Kak Puspa ok
-            "https://drive.google.com/uc?export=view&id=1WIg2xeppXK9G4PSMQ_vds9UJQTMFkCK_ ", #Bg Eggi 
+            "https://drive.google.com/uc?export=view&id=1WIg2xeppXK9G4PSMQ_vds9UJQTMFkCK_", #Bg Eggi 
             "https://drive.google.com/uc?export=view&id=1PitnG7fzxlFXSVLNUVba6l79KRyiEumE", #Kak Febiya _
             "https://drive.google.com/uc?export=view&id=14qm-w5bnviRzij8rFe1fOeucBmbPHD2z", #Bang Happy ok
             "https://drive.google.com/uc?export=view&id=1Gb7i_QbVFog0LjsJYrqpshkbBz_wGzqc", #Bang Randa ok
