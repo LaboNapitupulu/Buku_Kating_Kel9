@@ -735,7 +735,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Tidur",
                 "sosmed": "@randaandriana_",
                 "kesan": "bang randa sangat baik hati tidak sombong dan suka menabung",  
-                "pesan":"sukses teruss banggg, dan ipk 4.0"
+                "pesan":"sukses teruss banggg, dan ipk 4.0 "
             },
         ]
         display_images_with_data(gambar_urls, data_list)
