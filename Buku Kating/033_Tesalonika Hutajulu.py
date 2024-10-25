@@ -567,15 +567,15 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semoga setiapp perjalanan nya selalu Happy!!!"#17
             },
             {
-                "nama": "Rafly Prabu Darmawan",
+                "nama": "Syalaisha Andini Putriansyah",
                 "nim": "122450111",
                 "umur": "21",
                 "asal":"Tangerang",
                 "alamat": "Sukarame",
                 "hobbi": "Membaca",
                 "sosmed": "@syalaisha.i__",
-                "kesan": "Abangnya keceee",  
-                "pesan":"Semoga minat bacanya nular ke aku ya bang!!!"#18
+                "kesan": "kakaknya keceee",  
+                "pesan":"Semoga minat bacanya nular ke aku ya kak!!!"#18
             },
             
             
