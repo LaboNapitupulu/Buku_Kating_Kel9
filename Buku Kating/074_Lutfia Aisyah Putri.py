@@ -585,7 +585,7 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1nOeERLpfGRtBZf3CMBA_x9gN1GqHJ23S", #Bg Rafi ok
+            "https://drive.google.com/uc?export=view&id=1nOeERLpfGRtBZf3CMBA_x9gN1GqHJ23S", #Bg Rafi o
             "https://drive.google.com/uc?export=view&id=1obxtWGZnduLKopfygCh9tLOplfRR5SDb", #Kak Anova ok
             "https://drive.google.com/uc?export=view&id=1DIdpoOokhnDwt820eEoMCekB8PymRil8", #Bg Ahmad Akbar ok
             "https://drive.google.com/uc?export=view&id=1nTNQylLe4VLtRZtWpv4-J3WghblF1BFO", #Bg Fadhil ok
