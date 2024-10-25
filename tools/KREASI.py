@@ -1,7 +1,7 @@
 import streamlit as st
 import random
 
-# Daftar kutipan dalam bahasa Inggris dengan penulisnya
+# Daftar kutipan 
 kutipan = [
     {"quote": "The best way to predict the future is to create it.", "author": "Peter Drucker"},
     {"quote": "Success is not the key to happiness. Happiness is the key to success.", "author": "Albert Schweitzer"},
@@ -44,8 +44,8 @@ kutipan = [
     {"quote": "People have to go through trials and tribulations to get where they at. Do your thing - continue to rock it - because obviously, God wants you here.", "author": "Kendrick Lamar"}
 ]
 
-#Judul
-st.title("Penghasil Quotes Acak")
+# Judul 
+st.title("Penghasil Kutipan Acak")
 
 # Menyimpan state dari kutipan yang dihasilkan
 if 'kutipan_terpilih' not in st.session_state or isinstance(st.session_state.kutipan_terpilih, str):
@@ -55,12 +55,12 @@ if 'kutipan_terpilih' not in st.session_state or isinstance(st.session_state.kut
 if st.button("Tampilkan Quotes Baru"):
     st.session_state.kutipan_terpilih = random.choice(kutipan)
 
-# Tampilkan kutipan dan penulis dengan tulisan besar, bold, dan font yang unik, serta keduanya berada di tengah
+# Tampilkan kutipan dan penulis dengan gaya CSS 
 st.markdown(
     f"""
     <div style="text-align: center; font-size: 30px; font-family: 'Courier New', Courier, monospace;">
-        <strong>"{st.session_state.kutipan_terpilih['quote']}"</strong><br><br>
-        <strong>- {st.session_state.kutipan_terpilih['author']}</strong>
+        <b>"{st.session_state.kutipan_terpilih['quote']}"</b><br><br>
+        <b style="text-align: center;">{st.session_state.kutipan_terpilih['author']}</b>
     </div>
     """,
     unsafe_allow_html=True
