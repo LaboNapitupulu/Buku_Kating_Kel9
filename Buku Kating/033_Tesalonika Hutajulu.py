@@ -755,6 +755,10 @@ elif menu == "Departemen Eksternal":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=17nVnjVFcHwgClFValnwvBXv0R-N2VmUz",#1
             "https://drive.google.com/uc?export=view&id=1caiU_wRF07cozdohUmcMEt9SsieSvjJx",#2
+            "https://drive.google.com/uc?export=view&id=1ouJfiz9IgNr78oLo1pWdI4jfbPUTGOIj",#3
+            "https://drive.google.com/uc?export=view&id=1TAPT9Cnh3VerHCjJhR1RYAyDh4EIoqLU",#4
+            "https://drive.google.com/uc?export=view&id=1Iu_NE8OwmfYwoj2U3W8iwC_6qqryEPrU",#5
+            "https://drive.google.com/uc?export=view&id=1kkGmbnxsYW-nDJPmDQVU5YY-CSjIJisD",#6
 
 
         ]
@@ -770,6 +774,62 @@ elif menu == "Departemen Eksternal":
                 "kesan": "Abangnya humoriss tapi berwibawa",  
                 "pesan":"lancar terus ya bang jadi kadepp !!!"#1
             },
+            {
+                "nama": "Ramadhita Atifa Hendri",
+                "nim": "121450131",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Raja Basa",
+                "hobbi": "Traveling",
+                "sosmed": "@ramadhitatifa",
+                "kesan": "Kakaknya terlihat tegass tapi baik kok",  
+                "pesan":"lsemogaa lancar ya kak jadi sekertaris eksternal !!!"#1
+            },
+            {
+                "nama": "Nazwa Nabilla",
+                "nim": "121450122",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Bandar Lampung",
+                "hobbi": "Belajar",
+                "sosmed": "@nazwanbilla",
+                "kesan": "Suara kakaknya lembuttt sekalii",  
+                "pesan":"semoga lancar teruss kuliahnya ya kak !!!"#1
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450041",
+                "umur": "21",
+                "asal":"Tangerang",
+                "alamat": "Sukarame",
+                "hobbi": "Tidur",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoriss tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadepp !!!"#1
+            },
+            {
+                "nama": "Ramadhita Atifa Hendri",
+                "nim": "121450131",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Raja Basa",
+                "hobbi": "Traveling",
+                "sosmed": "@ramadhitatifa",
+                "kesan": "Kakaknya terlihat tegass tapi baik kok",  
+                "pesan":"lsemogaa lancar ya kak jadi sekertaris eksternal !!!"#1
+            },
+            {
+                "nama": "Nazwa Nabilla",
+                "nim": "121450122",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Bandar Lampung",
+                "hobbi": "Belajar",
+                "sosmed": "@nazwanbilla",
+                "kesan": "Suara kakaknya lembuttt sekalii",  
+                "pesan":"semoga lancar teruss kuliahnya ya kak !!!"#1
+            },
+            
             
         ]
         display_images_with_data(gambar_urls, data_list)
