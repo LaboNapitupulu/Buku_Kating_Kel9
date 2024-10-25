@@ -796,7 +796,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Traveling",
                 "sosmed": "@ramadhitatifa",
                 "kesan": "Kakaknya terlihat tegass tapi baik kok",  
-                "pesan":"lsemogaa lancar ya kak jadi sekertaris eksternal !!!"#1
+                "pesan":"lsemogaa lancar ya kak jadi sekertaris eksternal !!!"#2
             },
             {
                 "nama": "Nazwa Nabilla",
@@ -807,7 +807,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Belajar",
                 "sosmed": "@nazwanbilla",
                 "kesan": "Suara kakaknya lembuttt sekalii",  
-                "pesan":"semoga lancar teruss kuliahnya ya kak !!!"#1
+                "pesan":"semoga lancar teruss kuliahnya ya kak !!!"#3
             },
             {
                 "nama": "Bastian Heskia Silaban",
@@ -818,7 +818,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Telat Ngampus",
                 "sosmed": "@bastiansilaban_",
                 "kesan": "Abang inii tinggi bett",  
-                "pesan":"semogaa semangat terus di hublu !!!"#1
+                "pesan":"semogaa semangat terus di hublu !!!"#4
             },
             {
                 "nama": "Dea Mutia Risani",
@@ -829,7 +829,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Dengerin musik",
                 "sosmed": "@deaa.rsn",
                 "kesan": "Kakaknya terlihat tegass tapi baik kok",  
-                "pesan":"lsemogaa lancar ya kak jadi sekertaris eksternal !!!"#1
+                "pesan":"lsemogaa lancar ya kak jadi sekertaris eksternal !!!"#5
             },
             {
                 "nama": "Estria Rohanauli Sidauruk",
@@ -840,7 +840,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Menonton Film",
                 "sosmed": "@esteriars",
                 "kesan": "Suara kakaknya lembuttt sekalii",  
-                "pesan":"semoga lancar teruss kuliahnya ya kak !!!"#1
+                "pesan":"semoga lancar teruss kuliahnya ya kak !!!"#6
             },
             {
                 "nama": "Natasya Ega Lina Marbun",
@@ -851,150 +851,7 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Mendengarkan Lagu, Menyanyi",
                 "sosmed": "@nateee__15",
                 "kesan": "Abangnya humoriss tapi berwibawa",  
-                "pesan":"lancar terus ya bang jadi kadepp !!!"#1
-            },
-            {
-                "nama": "Novelia Adinda",
-                "nim": "121450131",
-                "umur": "21",
-                "asal":"Jakarta Timur",
-                "alamat": "Belwis",
-                "hobbi": "Tidur",
-                "sosmed": "@nvliaadinda",
-                "kesan": "Kakaknya terlihat tegass tapi baik kok",  
-                "pesan":"lsemogaa lancar ya kak jadi sekertaris eksternal !!!"#1sini
-            },
-            {
-                "nama": "Ratu Keisha Jasmine Deanova",
-                "nim": "122450106",
-                "umur": "20",
-                "asal":"Bogor",
-                "alamat": "Way Kandis",
-                "hobi": "Minum Es Teh",
-                "sosmed": "@jasminednva",
-                "kesan": "Keren dan informatif",  
-                "pesan":"Semangat kakak kuliahnya"
-            },
-            {
-                "nama": "Tobias David Manogari",
-                "nim": "122450091",
-                "umur": "20",
-                "asal":"Jakarta Selatan",
-                "alamat": "Kelengkeng 14 (Pemda)",
-                "hobi": "Baca Buku",
-                "sosmed": "@tobiassiagian",
-                "kesan": "Asik, Keren, dan informatif",  
-                "pesan":"Semangat kuliahnya abang"
-            },
-            {
-                "nama": "Yohana Manik",
-                "nim": "122450126",
-                "umur": "20",
-                "asal":"Sumatera Utara",
-                "alamat": "Belwis",
-                "hobi": "Belajar",
-                "sosmed": "@yo_anamnk",
-                "kesan": "Keren, informatif dan kelihatan pendiam",  
-                "pesan":"Semoga sehat selalu dan semangat buat kak Yohana"
-            },
-            {
-                "nama": "Rizki Adrian Bennovry",
-                "nim": "121450073",
-                "umur": "21",
-                "asal": "Bekasi",
-                "alamat": "TVRI",
-                "hobi": "",
-                "sosmed": "@rzkdrnnn",
-                "kesan": "Asik, keren dan informatif",  
-                "pesan": "Semangat abang kuliahnya, semoga cepat lulus"
-            },
-            {
-                "nama": "Arafi Ramadhan Maulana",
-                "nim": "122450002",
-                "umur": "20",
-                "asal": "Depok",
-                "alamat": "Depan Warjo (TVRI)",
-                "hobi": "Memasak",
-                "sosmed": "@arafiramadhanmaulana",
-                "kesan": "Keren dan informatif",  
-                "pesan": "Semangat abang kuliahnya"
-            },
-            {
-                "nama": "Asa Do'a Uyi",
-                "nim": "122450005",
-                "umur": "20",
-                "asal": "Muara Enim",
-                "alamat": "Jl. Pembangunan Korpri",
-                "hobi": "Cari Ice Breaking",
-                "sosmed": "@u_yippy",
-                "kesan": "Lucu, asik, Keren dan informatif",  
-                "pesan": "Semangat kak UYI kuliahnya"
-            },
-            {
-                "nama": "Chalifia Wananda",
-                "nim": "122450076",
-                "umur": "20",
-                "asal": "Padang",
-                "alamat": "Senopati Raya",
-                "hobi": "Mereview Jurnal",
-                "sosmed": "@chlfawww",
-                "kesan": "Keren dan informatif",  
-                "pesan": "semangat kakak kuliahnya"
-            },
-            {
-                "nama": "Irvan Alfaritzi",
-                "nim": "122450093",
-                "umur": "21",
-                "asal": "Padang Panjang",
-                "alamat": "Sukarame",
-                "hobi": "Nonton Youtube, Main Game",
-                "sosmed": "@alfaritziirvan",
-                "kesan": "Keren dan informatif",  
-                "pesan": "Semangat ABANG kuliahnya"
-            },
-            {
-                "nama": "Izza Lutfia",
-                "nim": "122450090",
-                "umur": "20",
-                "asal": "Bandar Lampung",
-                "alamat": "Bandar Lampung",
-                "hobi": "Mengabdi",
-                "sosmed": "@izzalutfiaa",
-                "kesan": "Asik, keren, aktif banget, dan informatif sekali kak izza",  
-                "pesan": "Semangat kak IZZA kuliahnya, ngaspraknya juga, sehat selalu kak izza"
-            },
-            {
-                "nama": "Khaalishah Zuhrah Alyaa Vanefi",
-                "nim": "122450034",
-                "umur": "20",
-                "asal": "Bandar Lampung",
-                "alamat": "Rajabasa",
-                "hobi": "Menyanyi",
-                "sosmed": "@alyaavanefi",
-                "kesan": "Keren dan informatif",  
-                "pesan": "Semangat kakak kuliahnya"
-            },
-            {
-                "nama": "Raid Muhammad Naufal",
-                "nim": "122450027",
-                "umur": "20",
-                "asal": "Lampung Tengah",
-                "alamat": "Sukarame",
-                "hobi": "Membuat Jurnal",
-                "sosmed": "@rayths_",
-                "kesan": "Pendiam dan informatif penyampaiaannya",  
-                "pesan": "Semangat ABANG kuliahnya"
-            },
-            {
-                "nama": "Tria Yunanni",
-                "nim": "122450062",
-                "umur": "20",
-                "asal": "Way Kanan Lampung",
-                "alamat": "Sukarame",
-                "hobi": "Baca Artikel",
-                "sosmed": "@tria_y062",
-                "kesan": "Keren dan informatif",  
-                "pesan": "Semangat kakak kuliahnya"
+                "pesan":"lancar terus ya bang jadi kadepp !!!"#7
             },
             
             
