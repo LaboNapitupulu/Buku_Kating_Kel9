@@ -698,18 +698,18 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Ngoding Wisata",
                 "sosmed": "@_egistr",
                 "kesan": "Abangnya berwibawaa",  
-                "pesan":"Semoga kerjaannya lancar terus ya bang !!!"#10
+                "pesan":"lancarr terus ngodingnya bang !!!"#10
             },
             {
-                "nama": "Ericson Chandra Sihombing",
-                "nim": "121450026",
-                "umur": "21",
-                "asal":"Bekasi",
-                "alamat": "Kobam",
-                "hobbi": "Travelling",
-                "sosmed": "@ericsonchandra99",
-                "kesan": "Abangnya tegas dan baik",  
-                "pesan":"Semoga setiap step yang diambil berjalan lancaar !!!"#11
+                "nama": "Febiya Jomy Pratiwi",
+                "nim": "122450074",
+                "umur": "20",
+                "asal":"Tulang Bawang",
+                "alamat": "Jl. Kelengkeng Raya",
+                "hobbi": "Riview Jurnal",
+                "sosmed": "@pratiwifebiya",
+                "kesan": "kakanyaa ramahh dan pintar public speaking",  
+                "pesan":"Semoga kepintarannya bisa ke aku jugaa ya kakk !!!"#11
             },
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
