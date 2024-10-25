@@ -347,5 +347,5 @@ elif menu == "Senator":
                 "kesan": "kakaknya baik terus keliatanya asikk",  
                 "pesan":"semangat terus kuliahnya kakak "#2  
             },
-        [
+        ]
 # Tambahkan menu lainnya sesuai kebutuhan
