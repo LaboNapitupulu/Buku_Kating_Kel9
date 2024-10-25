@@ -23,5 +23,12 @@ if 'kutipan_terpilih' not in st.session_state:
 if st.button("Tampilkan Kutipan Baru"):
     st.session_state.kutipan_terpilih = random.choice(kutipan)
 
-# Tampilkan kutipan yang terpilih tanpa keterangan tambahan
-st.write(st.session_state.kutipan_terpilih)
+# Tampilkan kutipan dengan tulisan besar dan font yang unik
+st.markdown(
+    f"""
+    <div style="text-align: center; font-size: 30px; font-family: 'Courier New', Courier, monospace;">
+        {st.session_state.kutipan_terpilih}
+    </div>
+    """,
+    unsafe_allow_html=True
+)
