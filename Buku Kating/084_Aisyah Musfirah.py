@@ -1160,20 +1160,20 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1jHbtv1PgemCJajWHFOvSB2cvkMtWXTen", 
+            "https://drive.google.com/uc?export=view&id=1wDbBcW1tHuiYcM7kQDEk0S7RFM1Yd9YQ", 
             "https://drive.google.com/uc?export=view&id=1MdPAmXFcUxMJABeyKCadTrqtdRtyjjUw"
         ]
         data_list = [
             {
-                "nama": "Anissa Luthfi Alifia",
-                "nim": "121450098",
+                "nama": "Andrian Agustinus Lumban Gaol",
+                "nim": "121450090",
                 "umur": "22",
-                "asal":"Lampung Tengah",
-                "alamat": "Kost Putri Rahayu Indomaret",
-                "hobi": "Nyanyi",
-                "sosmed": "@anissaluthfi_",
-                "kesan": "Kak Upi I like the way you speak",  
-                "pesan": "Semoga makin keren kak!"
+                "asal":"Sidikalang",
+                "alamat": "Dekat Lapas",
+                "hobi": "Nyari hobi",
+                "sosmed": "@andrianlgaol",
+                "kesan": "Kece banget sih Bang",  
+                "pesan": "Semangat nyari cuan Bang!"
             },
             {
                 "nama": "Rian Bintang Wijaya",
