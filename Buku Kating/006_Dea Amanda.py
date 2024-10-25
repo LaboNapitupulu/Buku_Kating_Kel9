@@ -333,8 +333,8 @@ elif menu == "Senator":
                 "alamat": "Kost Putri Rahayu Indomaret",
                 "hobi": "Nyanyi",
                 "sosmed": "@anissaluthfi_",
-                "kesan": "Kak Upi I like the way you speak",  
-                "pesan": "Semoga makin keren kak!"
+                "kesan": "Tegass dan berwibawa",  
+                "pesan": "Sukses selalu buat kakak dan makin keren "
             },
             {
                 "nama": "Rian Bintang Wijaya",
@@ -344,8 +344,8 @@ elif menu == "Senator":
                 "alamat": "Kota Baru",
                 "hobi": "Mendengarkan Lagu",
                 "sosmed": "@bintangtwinkle",
-                "kesan": "Bang Bintang sepertinya softboy",  
-                "pesan": "Semoga next jabatannya adalah senator"
+                "kesan": "romance",  
+                "pesan": "Semoga makin bersinar seperti namanya"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
