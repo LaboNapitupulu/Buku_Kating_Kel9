@@ -842,7 +842,7 @@ elif menu == "Departemen Eksternal":
                 "asal":"Sumatera Utara",
                 "alamat": "Jl. Manggis 2",
                 "hobi": "Mendengarkan Lagu, Menyanyi",
-                "sosmed": "@nateee__15,
+                "sosmed": "@nateee__15",
                 "kesan": "",  
                 "pesan":""
             },
