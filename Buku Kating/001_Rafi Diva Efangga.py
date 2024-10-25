@@ -190,7 +190,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1xZ6FhtT0KcTs5GmpUD5P8tr3Lbi7gqhw",#7
             "https://drive.google.com/uc?export=view&id=1bT6HdnkqwMQlwMTVGby_rBnqMk85YL4G",#8
             "https://drive.google.com/uc?export=view&id=1WrdA0fQi5ysEgp-NSTYxzWYdPDdcwzVs",#9
-            "https://drive.google.com/uc?export=view&id=1rxXNxzWtjc2tL8pGnOgG1-9Rt53NLZKI",#10
+            "https://drive.google.com/uc?export=view&id=1tAcVBArUBuCB5FsTZidN5JcfKEH0Mx6F",#10
             "https://drive.google.com/uc?export=view&id=1M4kfw1ISsZqp0s-9eDtPKa6x4-wAqJ9Z",#11
         ]
         data_list = [
