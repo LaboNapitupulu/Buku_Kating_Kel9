@@ -759,7 +759,7 @@ elif menu == "Departemen Eksternal":
         "https://drive.google.com/uc?export=view&id=1rGAkQfs-IL9812e38jWYRYOjnXehATji", #Bg Tobias ok
         "https://drive.google.com/uc?export=view&id=1qeoZVwY_IvnakkBCs3Wdl3wpU4MTzzhx", #Kak Yohana ok 
         "https://drive.google.com/uc?export=view&id=1rWmPwTx5AUIp02rid27z8qM4m59uKWy_", #Bg Rizki ok 
-        "https://drive.google.com/uc?export=view&id=1qryXfNHklg2X7jYl3TBtPbSL3P_uu8AP=", #Bg Arafi ok
+        "https://drive.google.com/uc?export=view&id=1qryXfNHklg2X7jYl3TBtPbSL3P_uu8AP", #Bg Arafi ok
         "https://drive.google.com/uc?export=view&id=1rVHm5ihmkIcUWfri-3VbLLnBwd3Zw7i7", #Kak Asa ok 
         "https://drive.google.com/uc?export=view&id=1rlmW4FgckVRGuCIkkXU_oBd4Mmq242FB", #Kak Chalifia ok
         "https://drive.google.com/uc?export=view&id=1r-GSq7sarO6WXN6s0PfVOmmRaP5U0STZ", #Bang Irvan ok
