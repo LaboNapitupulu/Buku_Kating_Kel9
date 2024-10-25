@@ -13,17 +13,19 @@ kutipan = [
 ]
 
 # Judul aplikasi dalam bahasa Indonesia
-st.title("Quotes Acak")
+st.title("Penghasil Kutipan Acak")
 
 # Menyimpan state dari kutipan yang dihasilkan
 if 'kutipan_terpilih' not in st.session_state:
     st.session_state.kutipan_terpilih = random.choice(kutipan)
 
 # Menampilkan kutipan yang disimpan dalam session state
-st.write("Quotes hari ini:")
+st.write("Inilah kutipan inspirasimu hari ini:")
 st.write(st.session_state.kutipan_terpilih)
 
 # Tombol untuk menghasilkan kutipan baru
-if st.button("Tampilkan Quotes Baru"):
+if st.button("Tampilkan Kutipan Baru"):
     st.session_state.kutipan_terpilih = random.choice(kutipan)
-    st.write(st.session_state.kutipan_terpilih)
+
+# Tampilkan kutipan yang baru
+st.write(st.session_state.kutipan_terpilih)
