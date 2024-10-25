@@ -530,30 +530,30 @@ elif menu == "Departemen PSDA":
                 "alamat": "Airan Raya",
                 "hobbi": "Main Gitar",
                 "sosmed": "@sahid_maul19",
-                "kesan": "Abangnya kerenn, lucu, imutt dan juga menyenangkan",  
-                "pesan":"Semoga tugas tugass nya di kampuss selalu dipermudah bangg !!!"#14
+                "kesan": "Abangnya kerennn bisa main gitar",  
+                "pesan":"Semoga tugas tugass nya di kampuss selalu dipermudah dann aman selalu !!!"#14
             },
             {
-                "nama": "Johannes Krisjon Silitonga",
-                "nim": "122450043",
-                "umur": "19",
-                "asal":"Tangerang",
-                "alamat": "Jl. Lapas",
-                "hobbi": "Ngasprak",
-                "sosmed": "@johanneskrisjnnn",
-                "kesan": "Abangnya kerenn, baik dan aktiv di semua bidang",  
-                "pesan":"semogaa baikk teruss ya bang !!!"#15
+                "nama": "M. Farhan Athaulloh",
+                "nim": "121450117",
+                "umur": "21",
+                "asal":"Lampung",
+                "alamat": "Kota Baru",
+                "hobbi": "Menolong",
+                "sosmed": "@mfarhan.ath",
+                "kesan": "Muliaa sekalii suka menolong ",  
+                "pesan":"semogaa hobbi menolong nyaa keterusan ya bangg !!!"#15
             },
             {
-                "nama": "Kemas Veriandra Ramadhan",
-                "nim": "122450016",
+                "nama": "Jaclin Alcavella",
+                "nim": "122450015",
                 "umur": "19",
-                "asal":"Bekasi",
-                "alamat": "Lapangan Golf (kojo)",
-                "hobbi": "Styling Skena (diusahakan)",
-                "sosmed": "@kemasverii",
-                "kesan": "Abangnya jago ngoding banget",  
-                "pesan":"Semoga styling skena nya tercapai !!!"#16
+                "asal":"Sumatera Selatan",
+                "alamat": "Korpri",
+                "hobbi": "Berenang",
+                "sosmed": "@jaclinalcv_",
+                "kesan": "Kakak inii kecee sekalii",  
+                "pesan":"Semoga bisa berenang bareng nanti!!!"#16
             },
             {
                 "nama": "Rafa Aqilla Jungjunan",
