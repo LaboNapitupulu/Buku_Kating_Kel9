@@ -989,10 +989,12 @@ elif menu == "Departemen Eksternal":
                 "kesan": "",  
                 "pesan": ""
             },
+            
 
         ]
         display_images_with_data(gambar_urls, data_list)
     eksternal()
+
 
 # Tambahkan menu lainnya sesuai kebutuhan
 
