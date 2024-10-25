@@ -778,7 +778,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Tidur",
                 "sosmed": "@yogyyyyyyy",
                 "kesan": "",  
-                "pesan":""
+                "pesan":""#1
             },
             {
                 "nama": "Ramadhita Atifa Hendri",
@@ -789,7 +789,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Traveling",
                 "sosmed": "@ramadhitatifa",
                 "kesan": "",  
-                "pesan":""
+                "pesan":""#2
             },
             {
                 "nama": "Nazwa Nabilla",
@@ -800,7 +800,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Belajar",
                 "sosmed": "@nazwanbilla",
                 "kesan": "",  
-                "pesan":""
+                "pesan":""#3
             },
             {
                 "nama": "Batian Heskia Silaban",
@@ -811,7 +811,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Telat Ngampus",
                 "sosmed": "@bastiansilaban_",
                 "kesan": "",  
-                "pesan":""
+                "pesan":""#4
             },
             {
                 "nama": "Dea Mutia Risani",
@@ -822,7 +822,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Dengerin musik",
                 "sosmed": "@deaa.rsn",
                 "kesan": "",  
-                "pesan":""
+                "pesan":""#5
             },
             {
                 "nama": "Estria Rohanauli Sidauruk",
@@ -833,7 +833,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Menonton Film",
                 "sosmed": "@esteriars",
                 "kesan": "",  
-                "pesan":""
+                "pesan":""#6
             },
             {
                 "nama": "Natasya Ega Lina Marbun",
@@ -844,7 +844,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Mendengarkan Lagu, Menyanyi",
                 "sosmed": "@nateee__15",
                 "kesan": "",  
-                "pesan":""
+                "pesan":""#7
             },
             {
                 "nama": "Novelia Adinda",
@@ -855,7 +855,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Tidur",
                 "sosmed": "@nvliaadinda",
                 "kesan": "",  
-                "pesan":""
+                "pesan":""#8
             },
             {
                 "nama": "Ratu Keisha Jasmine Deanova",
@@ -866,7 +866,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Minum Es Teh",
                 "sosmed": "@jasminednva",
                 "kesan": "",  
-                "pesan":""
+                "pesan":""#9
             },
             {
                 "nama": "Tobias David Manogari",
@@ -877,7 +877,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Baca Buku",
                 "sosmed": "@tobiassiagian",
                 "kesan": "",  
-                "pesan":""
+                "pesan":""#10
             },
             {
                 "nama": "Yohana Manik",
@@ -888,7 +888,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Belajar",
                 "sosmed": "@yo_anamnk",
                 "kesan": "",  
-                "pesan":""
+                "pesan":""#11
             },
             {
                 "nama": "Rizki Adrian Bennovry",
@@ -899,7 +899,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "",
                 "sosmed": "@rzkdrnnn",
                 "kesan": "",  
-                "pesan": ""
+                "pesan": ""#12
             },
             {
                 "nama": "Arafi Ramadhan Maulana",
@@ -910,84 +910,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Memasak",
                 "sosmed": "@arafiramadhanmaulana",
                 "kesan": "",  
-                "pesan": ""
-            },
-            {
-                "nama": "Asa Do'a Uyi",
-                "nim": "122450005",
-                "umur": "20",
-                "asal": "Muara Enim",
-                "alamat": "Jl. Pembangunan Korpri",
-                "hobi": "Cari Ice Breaking",
-                "sosmed": "@u_yippy",
-                "kesan": "",  
-                "pesan": ""
-            },
-            {
-                "nama": "Chalifia Wananda",
-                "nim": "122450076",
-                "umur": "20",
-                "asal": "Padang",
-                "alamat": "Senopati Raya",
-                "hobi": "Mereview Jurnal",
-                "sosmed": "@chlfawww",
-                "kesan": "",  
-                "pesan": ""
-            },
-            {
-                "nama": "Irvan Alfaritzi",
-                "nim": "122450093",
-                "umur": "21",
-                "asal": "Padang Panjang",
-                "alamat": "Sukarame",
-                "hobi": "Nonton Youtube, Main Game",
-                "sosmed": "@alfaritziirvan",
-                "kesan": "",  
-                "pesan": ""
-            },
-            {
-                "nama": "Izza Lutfia",
-                "nim": "122450090",
-                "umur": "20",
-                "asal": "Bandar Lampung",
-                "alamat": "Bandar Lampung",
-                "hobi": "Mengabdi",
-                "sosmed": "@izzalutfiaa",
-                "kesan": "",  
-                "pesan": ""
-            },
-            {
-                "nama": "Khaalishah Zuhrah Alyaa Vanefi",
-                "nim": "122450034",
-                "umur": "20",
-                "asal": "Bandar Lampung",
-                "alamat": "Rajabasa",
-                "hobi": "Menyanyi",
-                "sosmed": "@alyaavanefi",
-                "kesan": "",  
-                "pesan": ""
-            },
-            {
-                "nama": "Raid Muhammad Naufal",
-                "nim": "122450027",
-                "umur": "20",
-                "asal": "Lampung Tengah",
-                "alamat": "Sukarame",
-                "hobi": "Membuat Jurnal",
-                "sosmed": "@rayths_",
-                "kesan": "",  
-                "pesan": ""
-            },
-            {
-                "nama": "Tria Yunanni",
-                "nim": "122450062",
-                "umur": "20",
-                "asal": "Way Kanan Lampung",
-                "alamat": "Sukarame",
-                "hobi": "Baca Artikel",
-                "sosmed": "@tria_y062",
-                "kesan": "",  
-                "pesan": ""
+                "pesan": ""#13
             },
             
 
