@@ -556,15 +556,26 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semoga bisa berenang bareng nanti!!!"#16
             },
             {
-                "nama": "Rafa Aqilla Jungjunan",
-                "nim": "122450142",
+                "nama": "Rafly Prabu Darmawan",
+                "nim": "122450140",
                 "umur": "20",
-                "asal":"Pekan Baru",
-                "alamat": "Belwis",
-                "hobbi": "Baca Webtoon",
-                "sosmed": "@rafaaqilla",
-                "kesan": "Abangnya baikkk",  
-                "pesan":"Semoga doa doanya terkabul!!!"#17
+                "asal":"Bangka Belitung",
+                "alamat": "Sukarame",
+                "hobbi": "Main Game",
+                "sosmed": "@raflyy_pd",
+                "kesan": "Abangnya ramahh",  
+                "pesan":"Semoga setiapp perjalanan nya selalu Happy!!!"#17
+            },
+            {
+                "nama": "Rafly Prabu Darmawan",
+                "nim": "122450111",
+                "umur": "21",
+                "asal":"Tangerang",
+                "alamat": "Sukarame",
+                "hobbi": "Membaca",
+                "sosmed": "@syalaisha.i__",
+                "kesan": "Abangnya keceee",  
+                "pesan":"Semoga minat bacanya nular ke aku ya bang!!!"#18
             },
             
             
