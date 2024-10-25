@@ -760,12 +760,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1Iu_NE8OwmfYwoj2U3W8iwC_6qqryEPrU",#5
             "https://drive.google.com/uc?export=view&id=1kkGmbnxsYW-nDJPmDQVU5YY-CSjIJisD",#6
             "https://drive.google.com/uc?export=view&id=1Bg3dSz69elF8do0IDzePfKp6LhGJ4uzM",#7
-            "https://drive.google.com/uc?export=view&id=1caiU_wRF07cozdohUmcMEt9SsieSvjJx",#8
-            "https://drive.google.com/uc?export=view&id=1kJcRQH1OZmtwAG5bTBnbtJyUfrJKc1Jx",#9
-            "https://drive.google.com/uc?export=view&id=19YWpyXrDLAkj_MX5GMdFHCUyi1HFG8so",#10
-            "https://drive.google.com/uc?export=view&id=1PHgIbDIS68u6lG5aaUwUxuPLclFEZLis",#11
-            "https://drive.google.com/uc?export=view&id=1AtIDVYh-KHd2BEf2ncCq97nGfcEr7rIQ",#12
-
+            "https://drive.google.com/uc?export=view&id=1kJcRQH1OZmtwAG5bTBnbtJyUfrJKc1Jx",#8
 
         ]
         data_list = [
