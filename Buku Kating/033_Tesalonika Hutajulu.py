@@ -712,26 +712,26 @@ elif menu == "Departemen MIKFES":
                 "pesan":"Semoga kepintarannya bisa ke aku jugaa ya kakk !!!"#11
             },
             {
-                "nama": "Elisabeth Claudia Simanjuntak",
-                "nim": "122450023",
-                "umur": "22",
-                "asal":"Palembang",
-                "alamat": "Kota Baru",
-                "hobbi": "Mendengarkan Lagu",
-                "sosmed": "@bintangtwinkle",
-                "kesan": "Abangnya kerenn",  
-                "pesan":"Semoga kerjaannya lancar terus ya bang !!!"#12
+                "nama": "Happy Syahrul Ramadhan",
+                "nim": "122450013",
+                "umur": "20",
+                "asal":"Lampung Timur",
+                "alamat": "Karang Anyar",
+                "hobbi": "Main Game",
+                "sosmed": "@sudo.syahrulramadhannn",
+                "kesan": "Abangnya baikk dann pintarr bangett",  
+                "pesan":"Mau juga cerdas kaya abangnya !!!"#12
             },
             {
-                "nama": "Ericson Chandra Sihombing",
-                "nim": "121450026",
+                "nama": "Randa Andriana Putra",
+                "nim": "121450083",
                 "umur": "21",
-                "asal":"Bekasi",
-                "alamat": "Kobam",
-                "hobbi": "Travelling",
-                "sosmed": "@ericsonchandra99",
-                "kesan": "Abangnya tegas dan baik",  
-                "pesan":"Semoga setiap step yang diambil berjalan lancaar !!!"#13
+                "asal":"Banten",
+                "alamat": "Sukarame",
+                "hobbi": "Tidur",
+                "sosmed": "@randaandriana_",
+                "kesan": "Abangnya rajinnn bett",  
+                "pesan":"semoga dapat tutor rajin dari abangnya !!!"#13
             },
             
         ]
