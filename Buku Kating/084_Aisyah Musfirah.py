@@ -323,8 +323,8 @@ elif menu == "Baleg":
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1YlEIT7a0PjbiOgAzF-LO_tlfsByRBS-C", 
-            "https://drive.google.com/uc?export=view&id=1LlDsHIqBxd0qMhwkU5sThke77MPzHmOA"
+            "https://drive.google.com/uc?export=view&id=1jHbtv1PgemCJajWHFOvSB2cvkMtWXTen", 
+            "https://drive.google.com/uc?export=view&id=1MdPAmXFcUxMJABeyKCadTrqtdRtyjjUw"
         ]
         data_list = [
             {
@@ -357,20 +357,20 @@ elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1JQR1RXKDcfMeYxaYDlrrrzndfO0euVam", #Bg Ericson
-            "https://drive.google.com/uc?export=view&id=1VFR2MR-cdzWkkieqiKq8hX8nC5Dh2yRk", #Kak Abet, belum
+            "https://drive.google.com/uc?export=view&id=1xth-9mU400mdyzfiJ3_UWRkWyr0uCi7H", #Kak Abet
             "https://drive.google.com/uc?export=view&id=1nOHmFK52G7azu8MgzX-K-IlOvrzS6BPH", #Kak Afifah
             "https://drive.google.com/uc?export=view&id=1nItMksj-CcSwWWrfYZFDp4CMrqPp1mls", #Kak Allya
             "https://drive.google.com/uc?export=view&id=1mtk8-ZzQHxyDARFltVBCr0ZOJZYuC-6l", #Kak Eksanty
             "https://drive.google.com/uc?export=view&id=1n3rhxN02-U-uYXYNEspyh_qgEl0Leupr", #Kak Anum
             "https://drive.google.com/uc?export=view&id=1mwb6fEf717ycFzSAlLg0qJd4-XZBl2Se", #Bang Ferdy
-            "https://drive.google.com/uc?export=view&id=1Ty9ZjS_KUfN4yZBRuNMVRo0aktVmjBcI", #Bang Deri, belum
+            "https://drive.google.com/uc?export=view&id=1xjq6xJSI9KUfFVzGi0ZD8lClytIM8oVB", #Bang Deri
             "https://drive.google.com/uc?export=view&id=1n6QDrQQMiB40ceOqmJ9_muqb00FX1id4", #Kak Okta
             "https://drive.google.com/uc?export=view&id=1lk0eK24FpFrtf9aliNv2Z8WXrYCMgVTy", #Bang Deyvan
             "https://drive.google.com/uc?export=view&id=1lbARXNqa7KXmxNMVKflxjociIr2dPOse", #Bang Jo
             "https://drive.google.com/uc?export=view&id=1lq8Sloe1iXe8-81xHkV_zRnYKH8Z8q5x", #Bang Kemas
             "https://drive.google.com/uc?export=view&id=1m4w-pYsfwcm82GRLmsx2_bdCNYo5cu7d", #Kak Rafa
             "https://drive.google.com/uc?export=view&id=1m4SJe5H5v3MF69o6wftU1TwhpebF1UDF", #Bang Sahid
-            "https://drive.google.com/uc?export=view&id=1Uh79V4Akmj5j3IM3jDPPTU7fBqScAGbK", #Bang Ateng, belum
+            "https://drive.google.com/uc?export=view&id=1xgdMVoJ_iYvjAjAFqJQExeSMi-qaoZm6", #Bang Ateng
             "https://drive.google.com/uc?export=view&id=1mSibl3aqFnNJZnKTnFRRRF6pTW6K-TGp", #Kak Jaclin
             "https://drive.google.com/uc?export=view&id=1mR2Hln284_WO4xpRnfX9VQSLN4TiAhU2", #Bang Rafly
             "https://drive.google.com/uc?export=view&id=1med6ksfzc8KyJwTy09mud7Vr9YsdKinP", #Kak Dini
