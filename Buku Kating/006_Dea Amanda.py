@@ -580,17 +580,17 @@ elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1eKLMbY4SkPTq7Oz8UCR5fFyos8zd0jN4", #Bg Rafi ok
-            "https://drive.google.com/uc?export=view&id=1eKLMbY4SkPTq7Oz8UCR5fFyos8zd0jN4", #Kak Anova ok
-            "https://drive.google.com/uc?export=view&id=1eKLMbY4SkPTq7Oz8UCR5fFyos8zd0jN4", #Bg Ahmad Akbar ok
-            "https://drive.google.com/uc?export=view&id=1eKLMbY4SkPTq7Oz8UCR5fFyos8zd0jN4", #Bg Fadhil ok
-            "https://drive.google.com/uc?export=view&id=1eKLMbY4SkPTq7Oz8UCR5fFyos8zd0jN4", #Kak Dina ok
-            "https://drive.google.com/uc?export=view&id=1eKLMbY4SkPTq7Oz8UCR5fFyos8zd0jN4", #Kak Dinda ok
-            "https://drive.google.com/uc?export=view&id=1eKLMbY4SkPTq7Oz8UCR5fFyos8zd0jN4", #Kak Eta ok
-            "https://drive.google.com/uc?export=view&id=1eKLMbY4SkPTq7Oz8UCR5fFyos8zd0jN4", #Kak Rut ok 
-            "https://drive.google.com/uc?export=view&id=1eKLMbY4SkPTq7Oz8UCR5fFyos8zd0jN4", #Kak Puspa ok
-            "https://drive.google.com/uc?export=view&id=1eKLMbY4SkPTq7Oz8UCR5fFyos8zd0jN4", #Bg Eggi _
-            "https://drive.google.com/uc?export=view&id=1eKLMbY4SkPTq7Oz8UCR5fFyos8zd0jN4", #Kak Febiya _
-            "https://drive.google.com/uc?export=view&id=1eKLMbY4SkPTq7Oz8UCR5fFyos8zd0jN4", #Bang Happy ok
+            "https://drive.google.com/uc?export=view&id=1O0CUwuxZdmPuoEgdQSHM1ururqHj_T87", #Kak Anova ok
+            "https://drive.google.com/uc?export=view&id=1rDEtanzd4DLcYJz8zhRbMGOh-zasBTNG", #Bg Ahmad Akbar ok
+            "https://drive.google.com/uc?export=view&id=12h25fX0R5s0uRxNHyn0nR5bGEZS3NZ0B", #Bg Fadhil ok
+            "https://drive.google.com/uc?export=view&id=1mggnCSnwrv7x244RaCab81pA_g6IUssr", #Kak Dina ok
+            "https://drive.google.com/uc?export=view&id=1drp7xkJ8QdP0KwVXxKS4r2BqWzOrBOX3", #Kak Dinda ok
+            "https://drive.google.com/uc?export=view&id1GR_izPUGEeyGVoey8QpilLezSKZyBaEB", #Kak Eta ok
+            "https://drive.google.com/uc?export=view&id=1pTjUAqytKR2sQcJi46r23nbUZVu9zRNu", #Kak Rut ok 
+            "https://drive.google.com/uc?export=view&id=12ATJFg85z7Lp_Up9MoxyilODkfCcbTZH", #Kak Puspa ok
+            "https://drive.google.com/uc?export=view&id=1aVSLI7Bc8-s_PxjevvMQvuW3CgQdeWnm", #Bg Eggi _
+            "https://drive.google.com/uc?export=view&id=1zsNCEfi8AyO3dOlYAfTlfyKB9Rt8gGCc", #Kak Febiya _
+            "https://drive.google.com/uc?export=view&id=1FNWESruBRjhMV__oogOTpsluOBwdFlh1", #Bang Happy ok
             "https://drive.google.com/uc?export=view&id=1eKLMbY4SkPTq7Oz8UCR5fFyos8zd0jN4", #Bang Randa ok
         ]
         data_list = [
@@ -602,8 +602,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Nangka 4",
                 "hobi": "Olahraga",
                 "sosmed": "@rafadhlillahh13",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "abggnya cool",  
+                "pesan":"semangat kuliahnyaa bang"
             },
             {
                 "nama": "Annisa Novantika",
@@ -613,8 +613,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Pulau Sebesi",
                 "hobi": "Memasak",
                 "sosmed": "@anovavona",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "kakak kalemm",  
+                "pesan":"se,oga lulus tepat waktu kakakk"
             },
             {
                 "nama": "Ahmad Sahidin Akbar",
@@ -624,8 +624,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Sukarame",
                 "hobi": "Olahraga",
                 "sosmed": "@sahid22__",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "abg nya mirip pahlawan indonesia",  
+                "pesan":"semangat kuliah dan lulus nilai terbaikk"
             },
             {
                 "nama": "Fadhil Fitra Wijaya",
@@ -635,8 +635,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Teluk Betung",
                 "hobi": "Main Game",
                 "sosmed": "@fadhilfwee",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "abg nya mirip orang korea",  
+                "pesan":"semangat teruss bangg"
             },
             {
                 "nama": "Syalaisha Andina Putriansyah",
@@ -646,8 +646,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gang Yudistira",
                 "hobi": "Baca Jurnal",
                 "sosmed": "@dkselsd_31",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "kakaknya lucuu apalagi kalau sama kembarannya",  
+                "pesan":"semangat kuliahnya kakak"
             },
             {
                 "nama": "Dinda Nababan",
@@ -657,8 +657,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Lapas",
                 "hobi": "Belajar",
                 "sosmed": "@dindanababan_",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "kakak kalemm dan pendiam",  
+                "pesan":"semangat kuliahh nya kakak semoga dilancarkan"
             },
             {
                 "nama": "Marleta Cornelia Leander",
@@ -668,8 +668,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gang Nangka 3",
                 "hobi": "Review Jurnal",
                 "sosmed": "@marletacornelia",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "kakak pintarr dan pertama kenal di sdm",  
+                "pesan":"semnagt kuliahnya kakak dann semoga dapat cumlaude"
             },
             {
                 "nama": "Rut Junita Sari Siburian",
@@ -679,8 +679,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gang Nangka 3",
                 "hobi": "Review Jurnal",
                 "sosmed": "@junitaa_0406",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "kakak nya baikkkk dan ramahh",  
+                "pesan":"semangat kakak, semoga dapat ipk terbaikkk"
             },
             {
                 "nama": "Syadza Puspadari Azhar",
@@ -690,8 +690,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Belwis",
                 "hobi": "Resume SG",
                 "sosmed": "@puspadrr",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "kakaknya agak mirip kakak nova",  
+                "pesan":"semogaa cepat lulus kakak"
             },
             {
                 "nama": "Eggi satria",
@@ -701,8 +701,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri Raya",
                 "hobi": "Ngoding Wisata",
                 "sosmed": "@_egistr",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "sangatt baiikkk dan pintarrr",  
+                "pesan":"semangat teruss bangg, cepat lulus, dan ipk tinggi"
             },
             {
                 "nama": "Febiya Jomy Pratiwi",
@@ -712,8 +712,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Kelengkeng Raya",
                 "hobi": "Review Jurnal",
                 "sosmed": "@pratiwifebiya",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "kakak pendiam dan kalemm",  
+                "pesan":"semoga dapat ipk tinggi kakak"
             },
             {
                 "nama": "Happy Syahrul Ramadhan",
@@ -723,8 +723,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Karang Anyar",
                 "hobi": "Main Game",
                 "sosmed": "@sudo.syahrulramadhannn",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "abgnya pendiam dan pemalu",  
+                "pesan":"semoga cepat lulus kakak"
             },
             {
                 "nama": "Randa Andriana Putra",
@@ -734,8 +734,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Sukarame",
                 "hobi": "Tidur",
                 "sosmed": "@randaandriana_",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "bang randa sangat baik hati tidak sombong dan suka menabung",  
+                "pesan":"sukses teruss banggg, dan ipk 4.0"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
