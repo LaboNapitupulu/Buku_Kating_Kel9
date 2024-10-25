@@ -28,7 +28,6 @@ kutipan = [
     {"quote": "Success is walking from failure to failure with no loss of enthusiasm.", "author": "Winston Churchill"},
     {"quote": "Don’t wait for opportunity. Create it.", "author": "George Bernard Shaw"},
     {"quote": "Try not to become a person of success, but rather try to become a person of value.", "author": "Albert Einstein"},
-    {"quote": "Great things never come from comfort zones.", "author": "Anonymous"},
     {"quote": "Dream big and dare to fail.", "author": "Norman Vaughan"},
     {"quote": "He who has a why to live can bear almost any how.", "author": "Friedrich Nietzsche"},
     {"quote": "Success is not how high you have climbed, but how you make a positive difference to the world.", "author": "Roy T. Bennett"},
@@ -42,20 +41,21 @@ kutipan = [
     {"quote": "To succeed in life, you need two things: ignorance and confidence.", "author": "Mark Twain"},
     {"quote": "It does not matter how slowly you go as long as you do not stop.", "author": "Confucius"},
     {"quote": "Hardships often prepare ordinary people for an extraordinary destiny.", "author": "C.S. Lewis"}
+    {"quote": "People have to go through trials and tribulations to get where they at. Do your thing - continue to rock it - because obviously, God wants you here.", "author": "Kendrick Lamar"}
 ]
 
-# Judul aplikasi dalam bahasa Indonesia
+#Judul
 st.title("Penghasil Quotes Acak")
 
 # Menyimpan state dari kutipan yang dihasilkan
 if 'kutipan_terpilih' not in st.session_state or isinstance(st.session_state.kutipan_terpilih, str):
     st.session_state.kutipan_terpilih = random.choice(kutipan)
 
-# Tombol untuk menghasilkan kutipan baru
+# Tombol 
 if st.button("Tampilkan Quotes Baru"):
     st.session_state.kutipan_terpilih = random.choice(kutipan)
 
-# Tampilkan kutipan dan penulis dengan tulisan besar, bold, dan font yang unik
+# Tampilkan kutipan dan penulis dengan tulisan besar, bold, dan font yang unik, serta keduanya berada di tengah
 st.markdown(
     f"""
     <div style="text-align: center; font-size: 30px; font-family: 'Courier New', Courier, monospace;">
