@@ -1015,7 +1015,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1FCkUItmSZBfYj1uIOvT2fUCCWgbKzaH5", #Kak Salwa ok
             "https://drive.google.com/uc?export=view&id=1UUGKZ1ZBS9bP5vb5GDOqN3JBiSmzs49N", #Bg Ari ok 
             "https://drive.google.com/uc?export=view&id=1LczucJ3si_ECvjxHP8fwTSj_YarDVQ_s", #Kak Azizah ok
-            "https://drive.google.com/uc?export=view&id=1baKFeT1qsNO-j0eYglaQICObsyLDuheQ", #Bg Josua ok
+            "https://drive.google.com/uc?export=view&id=12n5G1HKvVQiUjxJULGLvBi5PZQ3aZKr0", #Bg Josua ok
             "https://drive.google.com/uc?export=view&id=1434GObwXarIDbIhr7Y1XhKsB4hfP4VWq", #Kak Meira ok
             # "https://drive.google.com/uc?export=view&id=1WQ7nf2CaFh8stJ-eXMLdN59TYRgKaTgm", #Bg Rendi ok
             "https://drive.google.com/uc?export=view&id=1rs6ZmHauiKljU8JTNfc2k9QP55XZuH_u", #kak Renta ok
@@ -1077,17 +1077,6 @@ elif menu == "Departemen Internal":
                 "pesan": "Penasaran sama kalemnya Bang Rendra"
             },
             {
-                "nama": "Salwa Farhanatussaidah",
-                "nim": "122450055",
-                "umur": "20",
-                "asal": "Pesawaran",
-                "alamat": "Jl. Airan",
-                "hobi": "Renang Tapi Gabisa Renang",
-                "sosmed": "@",
-                "kesan": "Kak Salwa vibesnya positif",
-                "pesan": "Keep your vibes kak!"
-            },
-            {
                 "nama": "Ari Sigit",
                 "nim": "121450069",
                 "umur": "23",
@@ -1097,6 +1086,17 @@ elif menu == "Departemen Internal":
                 "sosmed": "@ari.sigit17",
                 "kesan": "Bang Ari kelihatan seperti cowok kejawen",
                 "pesan": "Maafin saya pernah ga nyapa abang di kelas MSS"
+            },
+            {
+                "nama": "Salwa Farhanatussaidah",
+                "nim": "122450055",
+                "umur": "20",
+                "asal": "Pesawaran",
+                "alamat": "Jl. Airan",
+                "hobi": "Renang Tapi Gabisa Renang",
+                "sosmed": "@",
+                "kesan": "Kak Salwa vibesnya positif",
+                "pesan": "Keep your vibes kak!"
             },
             {
                 "nama": "Azizah Kusumah Putri",
@@ -1294,7 +1294,7 @@ elif menu == "Departemen SSD":
                 "sosmed": "@meylanielia",
                 "kesan": "Pengen denger Kak Elia nyanyi",
                 "pesan": "Kita tunggu debutnya yaa kak"
-            }
+            },
        ]
         display_images_with_data(gambar_urls, data_list)
     ssd()
@@ -1407,7 +1407,7 @@ elif menu == "Depertemen MEDKRAF":
                 "kesan": "Kak Try Yani chill banget!",
                 "pesan": "Semoga makin sukses, Kak!"
             },
-            {  # Added missing comma here
+            {  
                 "nama": "Dwi Ratna Anggraeni",
                 "nim": "122450008",
                 "umur": "20",
@@ -1421,4 +1421,3 @@ elif menu == "Depertemen MEDKRAF":
         ]
         display_images_with_data(gambar_urls, data_list)
     medkraf()
-
