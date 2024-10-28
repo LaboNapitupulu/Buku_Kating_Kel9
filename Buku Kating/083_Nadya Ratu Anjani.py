@@ -592,7 +592,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1khFsXDd7cnN2Hi8JGWHBYyET3dwjER2R", #Kak Eta ok
             "https://drive.google.com/uc?export=view&id=1eZNZWShe4MWKsx_CklK64OPxTWqrNoyL", #Kak Rut ok 
             "https://drive.google.com/uc?export=view&id=1IdFmSt1bzXil2OuJybpKLzoHafDieWUS", #Kak Puspa ok
-            "https://drive.google.com/uc?export=view&id=1u0QJjRNjBnX4uDdL_edIkq-7383q_0Jl", #Bg Eggi ok
+            "https://drive.google.com/uc?export=view&id=1NuCtukoVOUb2F3rk3QH6ZnWq618c8m5H", #Bg Eggi ok
             "https://drive.google.com/uc?export=view&id=1EoedkNF8g1j1MM1_N5p-E-XnfS5xq8sy", #Kak Febiya ok
             "https://drive.google.com/uc?export=view&id=1gBiMUlaZRCItjqdVdseN_B1wjozkdLbC", #Bang Happy ok
             "https://drive.google.com/uc?export=view&id=1gwMnCUrIguIUIHTtDdFpp3cQy2_P14_N", #Bang Randa ok
