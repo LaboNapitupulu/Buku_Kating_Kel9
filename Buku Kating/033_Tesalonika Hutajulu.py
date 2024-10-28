@@ -85,7 +85,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Umur: {data_list[i]['umur']}")
             st.write(f"Asal: {data_list[i]['asal']}")
             st.write(f"Alamat: {data_list[i]['alamat']}")
-            st.write(f"Hobi: {data_list[i]['hobi']}")
+            st.write(f"Hobbi: {data_list[i]['hobbi']}")
             st.write(f"Sosial Media: {data_list[i]['sosmed']}")
             st.write(f"Kesan: {data_list[i]['kesan']}")
             st.write(f"Pesan: {data_list[i]['pesan']}")
@@ -767,7 +767,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal":"Banten",
                 "alamat": "Tangerang",
-                "hobi": "Sukarame",
+                "hobbi": "Sukarame",
                 "sosmed": "@yogyyyyyyy",
                 "kesan": "Abangnya humoris tapi berwibawa",  
                 "pesan":"lancar terus ya bang jadi kadep !!!"#13
