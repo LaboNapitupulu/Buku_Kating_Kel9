@@ -761,49 +761,16 @@ elif menu == "Departemen Eksternal":
             
         ]
         data_list = [
-            {
+             {
                 "nama": "Yogy Sae Tama",
-                "nim": "121450041",
+                "nim": "121450083",
                 "umur": "21",
-                "asal":"Tangerang",
-                "alamat": "Sukarame",
-                "hobbi": "Tidur",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobi": "Sukarame",
                 "sosmed": "@yogyyyyyyy",
-                "kesan": "Abangnya humoriss tapi berwibawa",  
-                "pesan":"lancar terus ya bang jadi kadepp !!!"#1
-            },
-            {
-                "nama": "Ramadhita Atifa Hendri",
-                "nim": "121450131",
-                "umur": "21",
-                "asal":"Bandar Lampung",
-                "alamat": "Raja Basa",
-                "hobbi": "Traveling",
-                "sosmed": "@ramadhitatifa",
-                "kesan": "Kakaknya terlihat tegass tapi baik kok",  
-                "pesan":"lsemogaa lancar ya kak jadi sekertaris eksternal !!!"#2
-            },
-            {
-                "nama": "Nazwa Nabilla",
-                "nim": "121450122",
-                "umur": "21",
-                "asal":"Bandar Lampung",
-                "alamat": "Bandar Lampung",
-                "hobbi": "Belajar",
-                "sosmed": "@nazwanbilla",
-                "kesan": "Suara kakaknya lembuttt sekalii",  
-                "pesan":"semoga lancar teruss kuliahnya ya kak !!!"#3
-            },
-            {
-                "nama": "Bastian Heskia Silaban",
-                "nim": "122450130",
-                "umur": "21",
-                "asal":"Batam",
-                "alamat": "Belwis",
-                "hobbi": "Telat Ngampus",
-                "sosmed": "@bastiansilaban_",
-                "kesan": "Abang inii tinggi bett",  
-                "pesan":"semogaa semangat terus di hublu !!!"#4
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#13
             },
         ]
         display_images_with_data(gambar_urls, data_list)
