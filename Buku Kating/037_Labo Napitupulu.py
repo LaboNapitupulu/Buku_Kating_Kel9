@@ -998,7 +998,7 @@ elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
         "https://drive.google.com/uc?export=view&id=17iwcHYvx8CzctOqq-m1yEQh387PSjecU", #BgDimas ok
-        "https://drive.google.com/uc?export=view&id=19GbVJXP5jnMHJbPKAW27_PGSNnb2bhEQ", #Kak Catherine ok
+        "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Catherine ok
         "https://drive.google.com/uc?export=view&id=1RH8vudXdX_-6gy2AUEfO81f95dW66y36", #Bg Akbar ok
         "https://drive.google.com/uc?export=view&id=14sl6577uNK8MpvHKMzGwuEcLEOI6_1qB", #Kak Rani ok
         "https://drive.google.com/uc?export=view&id=1SD8xwVSJWx2y3hXmwcW2k4AbJmnMukSi", #Bg Rendra ok
@@ -1008,7 +1008,7 @@ elif menu == "Departemen Internal":
         "https://drive.google.com/uc?export=view&id=1CkJV-CqxUTdeYI9Kjm3UN9HxgNZtvTZo", #Bg Josua ok
         "https://drive.google.com/uc?export=view&id=1XtgBbEHieOkhhe5rFatgSgNRgP0KK_sc", #Kak Meira ok
         "https://drive.google.com/uc?export=view&id=1Gh0vHoHICRqPL623BCjGYV9Yx0rk68Li", #Bg Rendi ok
-        "https://drive.google.com/uc?export=view&id=1oJwfUP05xqCDVTmz4fqIMm8yrszZUWGa", #kak Renta ok
+        "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Renta ok
 
         ]
         data_list = [
