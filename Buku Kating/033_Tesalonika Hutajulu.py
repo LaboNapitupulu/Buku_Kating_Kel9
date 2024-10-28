@@ -799,14 +799,13 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=17BIwu96P7aSE3MtFRMmHJ-iUHxlyVkIA",#2
             "https://drive.google.com/uc?export=view&id=1s62MuQL6HSTLYCe-qJUQBx_e5Mhl5B99",#3
             "https://drive.google.com/uc?export=view&id=12WTXpxYpn8jwfixA9XbtgPgQQ-1daTy-",#4
-            "https://drive.google.com/uc?export=view&id=1_8_sRnfDGDhkKCnprzAzZyT72i1rN2G6",#5belum ada
+            "https://drive.google.com/uc?export=view&id=1hwjhCSfiVsiLdjbgCKsqbk449V3Tc8AU",#5
             "https://drive.google.com/uc?export=view&id=1_8_sRnfDGDhkKCnprzAzZyT72i1rN2G6",#6
-            "https://drive.google.com/uc?export=view&id=1Bg3dSz69elF8do0IDzePfKp6LhGJ4uzM",#7
-            "https://drive.google.com/uc?export=view&id=1kJcRQH1OZmtwAG5bTBnbtJyUfrJKc1Jx",#8
-            "https://drive.google.com/uc?export=view&id=19YWpyXrDLAkj_MX5GMdFHCUyi1HFG8so",#9
-            "https://drive.google.com/uc?export=view&id=1PHgIbDIS68u6lG5aaUwUxuPLclFEZLis",#10
-            "https://drive.google.com/uc?export=view&id=1ouJfiz9IgNr78oLo1pWdI4jfbPUTGOIj",#11sampesinibelumada
-            "https://drive.google.com/uc?export=view&id=19A5UQFxC8UE8fr90TT4dLx452ehXihWV",#12
+            "https://drive.google.com/uc?export=view&id=1k_RVfUnh1HjCvTAsGBqz9En8CxuEXoSA",#7
+            "https://drive.google.com/uc?export=view&id=19YN9DUOrKqDpOpi-6XNlTU3Y1OMQCgjc",#8
+            "https://drive.google.com/uc?export=view&id=13ZnKVJxOPmDOqDYo4Ezwy1vTo3l6du9B",#9
+            "https://drive.google.com/uc?export=view&id=1bcG5YRev4AoEPPhrW4-7B6oIB_xLXAGP",#10
+            "https://drive.google.com/uc?export=view&id=19A5UQFxC8UE8fr90TT4dLx452ehXihWV",#11
             
         ]
         data_list = [
@@ -825,6 +824,72 @@ elif menu == "Departemen Internal":
         ]
         display_images_with_data(gambar_urls, data_list)
     internal()
+
+elif menu == "Departemen SSD":
+    def ssd():
+        gambar_urls = [
+           "https://drive.google.com/uc?export=view&id=138xazlvnfHz5RkUhbg8SSnYMA-SOAwky",#1
+            "https://drive.google.com/uc?export=view&id=17BIwu96P7aSE3MtFRMmHJ-iUHxlyVkIA",#2
+            "https://drive.google.com/uc?export=view&id=1s62MuQL6HSTLYCe-qJUQBx_e5Mhl5B99",#3
+            "https://drive.google.com/uc?export=view&id=12WTXpxYpn8jwfixA9XbtgPgQQ-1daTy-",#4
+            "https://drive.google.com/uc?export=view&id=1hwjhCSfiVsiLdjbgCKsqbk449V3Tc8AU",#5
+            "https://drive.google.com/uc?export=view&id=1_8_sRnfDGDhkKCnprzAzZyT72i1rN2G6",#6
+            "https://drive.google.com/uc?export=view&id=1k_RVfUnh1HjCvTAsGBqz9En8CxuEXoSA",#7
+            "https://drive.google.com/uc?export=view&id=19YN9DUOrKqDpOpi-6XNlTU3Y1OMQCgjc",#8
+            "https://drive.google.com/uc?export=view&id=13ZnKVJxOPmDOqDYo4Ezwy1vTo3l6du9B",#9
+            "https://drive.google.com/uc?export=view&id=1bcG5YRev4AoEPPhrW4-7B6oIB_xLXAGP",#10
+            "https://drive.google.com/uc?export=view&id=19A5UQFxC8UE8fr90TT4dLx452ehXihWV",#11
+            
+        ]
+        data_list = [
+             {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#1
+            },
+            
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    ssd()
+
+elif menu == "Departemen MEDKRAF":
+    def medkraf():
+        gambar_urls = [
+           "https://drive.google.com/uc?export=view&id=138xazlvnfHz5RkUhbg8SSnYMA-SOAwky",#1
+            "https://drive.google.com/uc?export=view&id=17BIwu96P7aSE3MtFRMmHJ-iUHxlyVkIA",#2
+            "https://drive.google.com/uc?export=view&id=1s62MuQL6HSTLYCe-qJUQBx_e5Mhl5B99",#3
+            "https://drive.google.com/uc?export=view&id=12WTXpxYpn8jwfixA9XbtgPgQQ-1daTy-",#4
+            "https://drive.google.com/uc?export=view&id=1hwjhCSfiVsiLdjbgCKsqbk449V3Tc8AU",#5
+            "https://drive.google.com/uc?export=view&id=1_8_sRnfDGDhkKCnprzAzZyT72i1rN2G6",#6
+            "https://drive.google.com/uc?export=view&id=1k_RVfUnh1HjCvTAsGBqz9En8CxuEXoSA",#7
+            "https://drive.google.com/uc?export=view&id=19YN9DUOrKqDpOpi-6XNlTU3Y1OMQCgjc",#8
+            "https://drive.google.com/uc?export=view&id=13ZnKVJxOPmDOqDYo4Ezwy1vTo3l6du9B",#9
+            "https://drive.google.com/uc?export=view&id=1bcG5YRev4AoEPPhrW4-7B6oIB_xLXAGP",#10
+            "https://drive.google.com/uc?export=view&id=19A5UQFxC8UE8fr90TT4dLx452ehXihWV",#11
+            
+        ]
+        data_list = [
+             {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#1
+            },
+            
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    medkraf()
     
 # Tambahkan menu lainnya sesuai kebutuhan
 
