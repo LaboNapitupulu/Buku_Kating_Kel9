@@ -785,8 +785,218 @@ elif menu == "Departemen Eksternal":
                 "hobbi": "Sukarame",
                 "sosmed": "@yogyyyyyyy",
                 "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#1
+            },
+            {
+                "nama": "Ramadhita Atifa Hendri",
+                "nim": "121450131",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Raja Basa",
+                "hobbi": "Traveling",
+                "sosmed": "@ramadhitatifa,
+                "kesan": "Kakaknyaa sepertinyaa orang sibuk", 
+                "pesan":"Semogaa kerjaannya diperlancar!!!"#2
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#3
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#4
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#5
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#6
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#7
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#8
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#9
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#10
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#11
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#12
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
                 "pesan":"lancar terus ya bang jadi kadep !!!"#13
             },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#14
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#15
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#16
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#17
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#18
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#19
+            },
+            {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450083",
+                "umur": "21",
+                "asal":"Banten",
+                "alamat": "Tangerang",
+                "hobbi": "Sukarame",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "Abangnya humoris tapi berwibawa",  
+                "pesan":"lancar terus ya bang jadi kadep !!!"#20
+            },
+            
         ]
         display_images_with_data(gambar_urls, data_list)
     eksternal()
