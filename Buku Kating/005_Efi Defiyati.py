@@ -730,7 +730,7 @@ elif menu == "Departemen MIKFES":
                 "nama": "Randa Andriana Putra",
                 "nim": "122450083",
                 "umur": "21",
-                "asal":"",
+                "asal":"Banten",
                 "alamat": "Sukarame",
                 "hobi": "Tidur",
                 "sosmed": "@randaandriana_",
