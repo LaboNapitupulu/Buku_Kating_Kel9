@@ -758,22 +758,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1ouJfiz9IgNr78oLo1pWdI4jfbPUTGOIj",#3
             "https://drive.google.com/uc?export=view&id=1TAPT9Cnh3VerHCjJhR1RYAyDh4EIoqLU",#4
             "https://drive.google.com/uc?export=view&id=1Iu_NE8OwmfYwoj2U3W8iwC_6qqryEPrU",#5
-            "https://drive.google.com/uc?export=view&id=1kkGmbnxsYW-nDJPmDQVU5YY-CSjIJisD",#6
-            "https://drive.google.com/uc?export=view&id=1Bg3dSz69elF8do0IDzePfKp6LhGJ4uzM",#7
-            "https://drive.google.com/uc?export=view&id=1kJcRQH1OZmtwAG5bTBnbtJyUfrJKc1Jx",#8
-            "https://drive.google.com/uc?export=view&id=19YWpyXrDLAkj_MX5GMdFHCUyi1HFG8so",#9
-            "https://drive.google.com/uc?export=view&id=1PHgIbDIS68u6lG5aaUwUxuPLclFEZLis",#10
-            "https://drive.google.com/uc?export=view&id=1AtIDVYh-KHd2BEf2ncCq97nGfcEr7rIQ",#11
-            "https://drive.google.com/uc?export=view&id=1Bn07d2y7_hyRrd713nW9eLscj07OVLTz",#12
-            "https://drive.google.com/uc?export=view&id=1xzhHBtAQmaG_AxMML4KV8OPmcbQ7yrrw",#13
-            "https://drive.google.com/uc?export=view&id=1n5jUrvFUhufhXxWan0-6Kw4mDeJpqeOM",#14
-            "https://drive.google.com/uc?export=view&id=1F4M8cwz6lOraaRSRe4EZ7_A5si-VdMeH",#15
-            "https://drive.google.com/uc?export=view&id=1u0ck2ElKC8c6aPC5QBV81JFuSJ0ZbQZe",#16
-            "https://drive.google.com/uc?export=view&id=1xXraWYGAW-qQR5xxko2A-myCzlXmDP4O",#17
-            "https://drive.google.com/uc?export=view&id=1hwDK3gR9CCw5JwJdsSvrVzQbB7JouHnM",#18
-            "https://drive.google.com/uc?export=view&id=1CppmGUwpKbpgOLP-onLxSyAEnZLuhiWk",#19
-            "https://drive.google.com/uc?export=view&id=1xaUzqDJ-JRiqe3sHpDbonzUx3NQHYeo7",#20
-
+            
         ]
         data_list = [
             {
@@ -822,36 +807,14 @@ elif menu == "Departemen Eksternal":
             },
             {
                 "nama": "Dea Mutia Risani",
-                "nim": "122450099",
+                "nim": "22450099",
                 "umur": "20",
-                "asal":"Sumatera Barat",
+                "asal":"umatera Barat",
                 "alamat": "Kos Korinda",
                 "hobbi": "Dengerin musik",
                 "sosmed": "@deaa.rsn",
-                "kesan": "Kakaknya terlihat tegass tapi baik kok",  
-                "pesan":"lsemogaa lancar ya kak jadi sekertaris eksternal !!!"#5
-            },
-            {
-                "nama": "Estria Rohanauli Sidauruk",
-                "nim": "122450025",
-                "umur": "20",
-                "asal":"Bandar Lampung",
-                "alamat": "Sukabumi",
-                "hobbi": "Menonton Film",
-                "sosmed": "@esteriars",
-                "kesan": "Suara kakaknya lembuttt sekalii",  
-                "pesan":"semoga lancar teruss kuliahnya ya kak !!!"#6
-            },
-            {
-                "nama": "Natasya Ega Lina Marbun",
-                "nim": "122450024",
-                "umur": "21",
-                "asal":"Sumatera Utara",
-                "alamat": "Jl. Manggis 2",
-                "hobbi": "Mendengarkan Lagu, Menyanyi",
-                "sosmed": "@nateee__15",
-                "kesan": "Abangnya humoriss tapi berwibawa",  
-                "pesan":"lancar terus ya bang jadi kadepp !!!"#7
+                "kesan": "Kakaknyaa jago jadi pemateri",  
+                "pesan":"semogaa jadi orang sukses !!!"#5
             },
             
         ]
