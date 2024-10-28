@@ -808,5 +808,6 @@ elif menu == "Departemen Eksternal":
         ]
         display_images_with_data(gambar_urls, data_list)
     eksternal()
+    
 # Tambahkan menu lainnya sesuai kebutuhan
 
