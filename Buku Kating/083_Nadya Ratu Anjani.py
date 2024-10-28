@@ -606,8 +606,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Nangka 4",
                 "hobi": "Olahraga",
                 "sosmed": "@rafadhlillahh13",
-                "kesan": "abang ini pinter",  
-                "pesan":"pengen jadi kadep mikfes kaya abang ini"
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Annisa Novantika",
@@ -744,7 +744,6 @@ elif menu == "Departemen MIKFES":
         ]
         display_images_with_data(gambar_urls, data_list)
     mikfes()
-
 
 
 
