@@ -763,8 +763,8 @@ elif menu == "Departemen Eksternal":
         "https://drive.google.com/uc?export=view&id=1rVHm5ihmkIcUWfri-3VbLLnBwd3Zw7i7", #Kak Asa ok 
         "https://drive.google.com/uc?export=view&id=1rlmW4FgckVRGuCIkkXU_oBd4Mmq242FB", #Kak Chalifia ok
         "https://drive.google.com/uc?export=view&id=1r-GSq7sarO6WXN6s0PfVOmmRaP5U0STZ", #Bang Irvan ok
-        "https://drive.google.com/uc?export=view&id=1qZBON19sl80elIG0Rp5VWhwkBvdyRjja", #Kak Izza ok 
-        "https://drive.google.com/uc?export=view&id=1qdNxik2-7nhcTNqBHUO8Q5evXY8jD6eT", #Kak Khaalishah ok
+        "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Izza ok 
+        "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Khaalishah ok
         "https://drive.google.com/uc?export=view&id=1qphs1piiqjosN0nx7OSDHxHYwDNQCA_q", #Bang Raid ok
         "https://drive.google.com/uc?export=view&id=1qskmw0YshRfoEGdlDhLSawEH4fKJh92l", #Kak Tria ok
         ]
