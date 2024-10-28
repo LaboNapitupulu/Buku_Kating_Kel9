@@ -795,7 +795,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Raja Basa",
                 "hobbi": "Traveling",
                 "sosmed": "@ramadhitatifa,
-                "kesan": "Kakaknyaa sepertinyaa orang sibuk", 
+                "kesan": "Kakaknyaa sepertinyaa orang sibuk" 
                 "pesan":"Semogaa kerjaannya diperlancar!!!"#2
             },
             {
