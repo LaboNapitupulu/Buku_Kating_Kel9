@@ -579,7 +579,7 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1l0KtCngCRhdTlxeYiOj43mzCrWnVSku8",
+            "https://drive.google.com/uc?export=view&id=1RC9J863o7UMyHVsW3_NZUI_hdhy-4Jd-",
             "https://drive.google.com/uc?export=view&id=1FIwc6l4g4i4JPkK19-QdSG99S48z_fk9",
             "https://drive.google.com/uc?export=view&id=1lDZuFm0_90mLZxhY6na6nfE7ltz7Oi7O",
             "https://drive.google.com/uc?export=view&id=1lCRz4HJa4IwNMDRL0IuuKvJl1Tjm56re",
@@ -993,7 +993,7 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
-        "https://drive.google.com/uc?export=view&id=1iVuDUFlBquoQlM5lAcQuLBRSA-wuIBYq",
+        "https://drive.google.com/uc?export=view&id=1RIrZLE8Hfl3dZLDpKbhj9DWiCbQcATKr",
         "https://drive.google.com/uc?export=view&id=1iEEgrMCtj5SPxGzIfAbH_F0q0yETMT_i",
         "https://drive.google.com/uc?export=view&id=1i6Ao1wwRhzB-d1FuITZu2OWXPQB3_Kai",
         "https://drive.google.com/uc?export=view&id=1i417gpTDMzxj5S-OJ_9NUTBhy7MZsTev", 
