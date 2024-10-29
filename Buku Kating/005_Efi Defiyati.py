@@ -1337,7 +1337,7 @@ else:
                 "alamat": "Balam",
                 "hobi": "Ngonten",
                 "sosmed": "@arsyiah._",
-                "kesan": "Kak Arsyi lucu banget?",
+                "kesan": "Kak Arsyi lucu banget",
                 "pesan": "Semangat dan sukses selalu kak!"
             },
             {
@@ -1381,7 +1381,7 @@ else:
                 "alamat": "Airan",
                 "hobi": "Baca, Nulis, fangirling",
                 "sosmed": "@nanana.minjoo",
-                "kesan": "Lucu banget kak juju ni, baik, dan canntiiikkk!",
+                "kesan": "Lucu banget kak juju ni, baik, dan canntiiikkk",
                 "pesan": "Sehat selalu kak, bahagia selalu, semangat, murah rezeki, dan maafkan aku yang sering merepotkan kakak"
             },
             {
@@ -1425,7 +1425,7 @@ else:
                 "alamat": "Lapangan Golf",
                 "hobi": "Baca Komik",
                 "sosmed": "@jimnn.as",
-                "kesan": "Awal ketemu ngira abanhg pendiem, tapi best banget si abang satu ini",
+                "kesan": "Awal ketemu ngira abang pendiem, tapi best banget si abang satu ini",
                 "pesan": "Semangat buat kerjaannya bang, jangan lupa jaga kesehatan, semangat bang"
             },
             {
