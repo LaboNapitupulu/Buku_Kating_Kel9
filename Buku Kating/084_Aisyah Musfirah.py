@@ -1303,20 +1303,20 @@ else:
     def medkraf():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1HWHmTIw_aw0UmBZtxfzxYe7Pd3CASU63", # bang tao
-            "https://drive.google.com/uc?export=view&id=1MdPAmXFcUxMJABeyKCadTrqtdRtyjjUw", # kak arsyi
+            "https://drive.google.com/uc?export=view&id=1qkXcykCERzvuG60ffGyWaXRTYxI_UCqQ", # kak arsyi
             "https://drive.google.com/uc?export=view&id=1VOp31zhD6-Tnpvd1rspMvWhCLgDhcxV2", # bang kai
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bang arsal
-            "https://drive.google.com/uc?export=view&id=1rOfdwnle0V_GrhEOMmGB6T03DwbNEcxY", # kak elok
-            "https://drive.google.com/uc?export=view&id=1zPyXf2eIs0-MStO1JbaXQCtulWMOR9uq", # kak juju
-            "https://drive.google.com/uc?export=view&id=1Jov1OReQPGjyTOC_xX45Egxyh_VUG1vC", # kak nel
-            "https://drive.google.com/uc?export=view&id=1FCkUItmSZBfYj1uIOvT2fUCCWgbKzaH5", # kak try yani
-            "https://drive.google.com/uc?export=view&id=1UUGKZ1ZBS9bP5vb5GDOqN3JBiSmzs49N", # kak dwi
+            "https://drive.google.com/uc?export=view&id=1qsarskOrsRnHvTrAkgApA9rx2B6rksMF", # bang arsal
+            "https://drive.google.com/uc?export=view&id=1rExlZ0a-GL5SSSpkY6jw0WlkpriN81bc", # kak elok
+            "https://drive.google.com/uc?export=view&id=1qy9yxX4TpuxXWfFNBL2icivQCbK1ga8M", # kak juju
+            "https://drive.google.com/uc?export=view&id=1rFcTPfHujQZtlycqSk81jiEyJVLgDfKO", # kak nel
+            "https://drive.google.com/uc?export=view&id=1rKI8qYTfWDl3czk1VHEeP2qbrprNn8bQ", # kak try yani
+            "https://drive.google.com/uc?export=view&id=1XI2tMMbv7apmLCLozjIsYMKUFg8FhAh3", # kak dwi
             "https://drive.google.com/uc?export=view&id=1LczucJ3si_ECvjxHP8fwTSj_YarDVQ_s", # bang gym
-            "https://drive.google.com/uc?export=view&id=1baKFeT1qsNO-j0eYglaQICObsyLDuheQ", # kak nasywa
-            "https://drive.google.com/uc?export=view&id=1434GObwXarIDbIhr7Y1XhKsB4hfP4VWq", # kak priska
-            "https://drive.google.com/uc?export=view&id=1WQ7nf2CaFh8stJ-eXMLdN59TYRgKaTgm", # bang abit
-            "https://drive.google.com/uc?export=view&id=1WQ7nf2CaFh8stJ-eXMLdN59TYRgKaTgm", # bang hermawan
-            "https://drive.google.com/uc?export=view&id=1rs6ZmHauiKljU8JTNfc2k9QP55XZuH_u", # kak khusnun nisa
+            "https://drive.google.com/uc?export=view&id=1qz7vl0wp8OPHZKD4YNnNkxzDPhl1hf8g", # kak nasywa
+            "https://drive.google.com/uc?export=view&id=1rFLMgE740Xby4_MaGqTEfVjXAu-mQ_Lg", # kak priska
+            "https://drive.google.com/uc?export=view&id=1r2i56esVIUJOBgPdLLK26UgCg7WJQ--7", # bang abit
+            "https://drive.google.com/uc?export=view&id=1r7f-ih1rvailne3Cf6zDD89DAKPmxssN", # bang hermawan
+            "https://drive.google.com/uc?export=view&id=16RRB1m1Hn_cQdavSMw7PHj3XW_hErG-y", # kak khusnun nisa
         ]
         data_list = [
             {
