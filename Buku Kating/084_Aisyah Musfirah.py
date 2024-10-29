@@ -1299,7 +1299,7 @@ elif menu == "Departemen SSD":
         display_images_with_data(gambar_urls, data_list)
     ssd()
 
-elif menu == "Depertemen MEDKRAF":
+else:
     def medkraf():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1HWHmTIw_aw0UmBZtxfzxYe7Pd3CASU63", # bang tao
