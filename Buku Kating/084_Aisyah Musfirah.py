@@ -775,7 +775,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1zB_DkCEiYFGGpkY000Dods9IDqCwKha8", #Kak Ocha
             "https://drive.google.com/uc?export=view&id=1QjfTdBmLc6jYCQMicUVCr1l5ACVPnyAe", #Bang Irvan ok
             "https://drive.google.com/uc?export=view&id=1TMIRGUgwL3AZYQWF2E7eYhN8LaCEwfzj", #Kak Izza
-            "https://drive.google.com/uc?export=view&id=1jGCrn6mcCfq618B4aiOUM6OVo_eaABZV", #Kak Khaalishah ok
+            "https://drive.google.com/uc?export=view&id=1Z0Vn8du7LTamha3i8QPQSnKWeINjTg8X", #Kak Khaalishah ok
             "https://drive.google.com/uc?export=view&id=1Ca0XUy5hoN9LtSfvPz6TEYi52QcleWd2", #Bang Raid
             "https://drive.google.com/uc?export=view&id=1uclVUUsbU_b8MuWFuHix9YsaYiPg8HqI", #Kak Yuna
         ]
@@ -1010,11 +1010,11 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1LtIig4EkMwAoAlbkqTuLvFi5SVf9DmYW", #BgDimas
             # "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Catherine, belum
             "https://drive.google.com/uc?export=view&id=1rOfdwnle0V_GrhEOMmGB6T03DwbNEcxY", #Bg Akbar ok
-            "https://drive.google.com/uc?export=view&id=1zPyXf2eIs0-MStO1JbaXQCtulWMOR9uq", #Kak Rani _
             "https://drive.google.com/uc?export=view&id=1Jov1OReQPGjyTOC_xX45Egxyh_VUG1vC", #Bg Rendra ok
-            "https://drive.google.com/uc?export=view&id=1FCkUItmSZBfYj1uIOvT2fUCCWgbKzaH5", #Kak Salwa ok
             "https://drive.google.com/uc?export=view&id=1UUGKZ1ZBS9bP5vb5GDOqN3JBiSmzs49N", #Bg Ari ok 
+            "https://drive.google.com/uc?export=view&id=1FCkUItmSZBfYj1uIOvT2fUCCWgbKzaH5", #Kak Salwa ok
             "https://drive.google.com/uc?export=view&id=1LczucJ3si_ECvjxHP8fwTSj_YarDVQ_s", #Kak Azizah ok
+            "https://drive.google.com/uc?export=view&id=1zPyXf2eIs0-MStO1JbaXQCtulWMOR9uq", #Kak Rani _
             "https://drive.google.com/uc?export=view&id=12n5G1HKvVQiUjxJULGLvBi5PZQ3aZKr0", #Bg Josua ok
             "https://drive.google.com/uc?export=view&id=1434GObwXarIDbIhr7Y1XhKsB4hfP4VWq", #Kak Meira ok
             # "https://drive.google.com/uc?export=view&id=1WQ7nf2CaFh8stJ-eXMLdN59TYRgKaTgm", #Bg Rendi ok
@@ -1055,17 +1055,6 @@ elif menu == "Departemen Internal":
                 "pesan": "Jangan sampe ilang kocaknya bang"
             },
             {
-                "nama": "Rani Puspita Sari",
-                "nim": "122450030",
-                "umur": "20",
-                "asal": "Metro",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "@",
-                "kesan": "Kak Rani pendiem",
-                "pesan": "Semangat smt 5-nya kak!"
-            },
-            {
                 "nama": "Rendra Eka Prayoga",
                 "nim": "122450112",
                 "umur": "20",
@@ -1087,6 +1076,7 @@ elif menu == "Departemen Internal":
                 "kesan": "Bang Ari kelihatan seperti cowok kejawen",
                 "pesan": "Maafin saya pernah ga nyapa abang di kelas MSS"
             },
+
             {
                 "nama": "Salwa Farhanatussaidah",
                 "nim": "122450055",
@@ -1108,6 +1098,17 @@ elif menu == "Departemen Internal":
                 "sosmed": "@azizahksmh15",
                 "kesan": "Kak Azizah kerennn",
                 "pesan": "Semangat kakkk"
+            },
+            {
+                "nama": "Rani Puspita Sari",
+                "nim": "122450030",
+                "umur": "20",
+                "asal": "Metro",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "@",
+                "kesan": "Kak Rani pendiem",
+                "pesan": "Semangat smt 5-nya kak!"
             },
             {
                 "nama": "Josua Panggabean",
@@ -1170,7 +1171,7 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1Ug34TBISAJm8ixArIrCO9rRw2XjngW3g",# Kak Tessa
             "https://drive.google.com/uc?export=view&id=1vUfHZGpUXD1bMUtDM6G6BDShtTBUk2CX",# Kak Alvia
             "https://drive.google.com/uc?export=view&id=1PUvf9JUcesZBPAgMXtz3o9g5UTApY3IL",# Kak Dhafin
-            "https://drive.google.com/uc?export=view&id=1Ug34TBISAJm8ixArIrCO9rRw2XjngW3g",# Kak Elia
+            "https://drive.google.com/uc?export=view&id=18LGQOyflJr-UEbsogR01KFYui9CiDWFH",# Kak Elia
 
         ]
         data_list = [
@@ -1393,7 +1394,7 @@ else:
                 "alamat": "Sukarame, Pembangunan 5",
                 "hobi": "Makan ubi cilembu",
                 "sosmed": "@rahmanellyana",
-                "kesan": "Kak Rahma suka nge-MC!",
+                "kesan": "Kak Nel suka nge-MC dan nyapa!",
                 "pesan": "Tetap happy, Kak!"
             },
             {
@@ -1418,6 +1419,72 @@ else:
                 "kesan": "Kakak vibes happy banget!",
                 "pesan": "Keep your vibes, Kak!"
             },
+            {
+                "nama": "Gymnastiar Al Khoarizmy",
+                "nim": "122450096",
+                "umur": "20",
+                "asal": "Serang",
+                "alamat": "Lapangan Golf",
+                "hobi": "Baca Komik",
+                "sosmed": "@jimnn.as",
+                "kesan": "Abang daplok yang baikkkk bangett",
+                "pesan": "Semangat motretnya bang!"
+            },
+            {
+                "nama": "Nasywa Nur Afifah",
+                "nim": "122450125",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Pemda",
+                "hobi": "Bersih-bersih",
+                "sosmed": "@nasywanaff",
+                "kesan": "Kakak PDD",
+                "pesan": "Makasi udah minjemin kita kamera kak!"
+            },
+            {
+                "nama": "Priska Silvia Ferantiana",
+                "nim": "122450053",
+                "umur": "20",
+                "asal": "Palembang",
+                "alamat": "Jl Nangka II",
+                "hobi": "Dengarin Musik",
+                "sosmed": "@silvi.viii",
+                "kesan": "Saya pernah typo ngetik nama kakak T.T",
+                "pesan": "Maafin saya yaa kak, makasii"
+            },
+            {
+                "nama": "Abit Ahmad Oktarian",
+                "nim": "122450042",
+                "umur": "19",
+                "asal": "Balam",
+                "alamat": "Balam",
+                "hobi": "Ngoding, Belajar, Ngaji, Desain, Baca Komik",
+                "sosmed": "@abitahmad",
+                "kesan": "Abang desain yang kereennn",
+                "pesan": "Maafin saya pernah nyapa abang kayak nyapa anak seumuran T.T"
+            },
+            {
+                "nama": "Hermawan Manurung",
+                "nim": "122450069",
+                "umur": "20",
+                "asal": "Bogor",
+                "alamat": "Jalan dekat tol",
+                "hobi": "Baca buku, bengong",
+                "sosmed": "@hermawan.mnrng",
+                "kesan": "Abang pemateri LinkedIn pas pra-kader",
+                "pesan": "Makasi banyak ilmunya bang! Semoga saya bisa jadi top 10 kader!"
+            },
+            {
+                "nama": "Khusnun Nisa",
+                "nim": "122450078",
+                "umur": "20",
+                "asal": "Bakauhueni",
+                "alamat": "Belwis",
+                "hobi": "DIY pake printer",
+                "sosmed": "@khusnun_nisa335",
+                "kesan": "Sering liat Kak Khusnun Nisa sama pacarnya hehe",
+                "pesan": "Semangat kakkk"
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     medkraf()
