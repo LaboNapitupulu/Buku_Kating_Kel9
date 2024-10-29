@@ -1312,7 +1312,7 @@ else:
             "https://drive.google.com/uc?export=view&id=1rFcTPfHujQZtlycqSk81jiEyJVLgDfKO", # kak nel
             "https://drive.google.com/uc?export=view&id=1rKI8qYTfWDl3czk1VHEeP2qbrprNn8bQ", # kak try yani
             "https://drive.google.com/uc?export=view&id=1XI2tMMbv7apmLCLozjIsYMKUFg8FhAh3", # kak dwi
-            "https://drive.google.com/uc?export=view&id=1LczucJ3si_ECvjxHP8fwTSj_YarDVQ_s", # bang gym
+            "https://drive.google.com/uc?export=view&id=1qx5N8UaiSS-ay3JB-EBJd6iV6tq_h3gX", # bang gym
             "https://drive.google.com/uc?export=view&id=1qz7vl0wp8OPHZKD4YNnNkxzDPhl1hf8g", # kak nasywa
             "https://drive.google.com/uc?export=view&id=1rFLMgE740Xby4_MaGqTEfVjXAu-mQ_Lg", # kak priska
             "https://drive.google.com/uc?export=view&id=1r2i56esVIUJOBgPdLLK26UgCg7WJQ--7", # bang abit
