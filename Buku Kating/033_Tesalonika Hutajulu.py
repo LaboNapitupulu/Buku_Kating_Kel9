@@ -854,7 +854,7 @@ elif menu == "Departemen Eksternal":
                 "pesan":"semogaa cepattt luluss yaa kakk !!!"#7
             },
             {
-                "nama": "NNovelia Adinda",
+                "nama": "Novelia Adinda",
                 "nim": "122450104",
                 "umur": "21",
                 "asal":"Jakarta Timur",
@@ -863,6 +863,50 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@nvliaadinda",
                 "kesan": "Kakaknyaa rendah hatii",  
                 "pesan":"semogaa tergapai rencana tahun ini ya kakk !!!"#8
+            },
+            {
+                "nama": "Ratu Keisha Jasmine Deanova",
+                "nim": "122450106",
+                "umur": "20",
+                "asal":"Bogor",
+                "alamat": "Way Kandis",
+                "hobbi": "Minum Es Teh",
+                "sosmed": "@jasminednva",
+                "kesan": "hobbi kakaknyaa lucuu",  
+                "pesan":"Jangan kebanyakan minum es ya kakk !!!"#9
+            },
+            {
+                "nama": "Tobias David Manogari",
+                "nim": "122450091",
+                "umur": "20",
+                "asal":"Jakarta Selatan",
+                "alamat": "Kelengkeng 14 (Pemda)",
+                "hobbi": "Baca Buku",
+                "sosmed": "@tobiassiagian",
+                "kesan": "Abangnyaa baikk dan peduli sama semua orang",  
+                "pesan":"Semogaa diperlancar ya bang kulahnyaa dan semangat selalu !!!"#10
+            },
+            {
+                "nama": "Yohana Manik",
+                "nim": "122450126",
+                "umur": "20",
+                "asal":"Sumatera Utara",
+                "alamat": "Belwis",
+                "hobbi": "Belajar",
+                "sosmed": "@yo_anamnk",
+                "kesan": "hobbi kakaknyaa sangatt mantap",  
+                "pesan":"Semoga lancar terus hobinyaa yaa kakk!!!"#11
+            },
+            {
+                "nama": "Rizki Adrian Bennovry",
+                "nim": "121450073",
+                "umur": "21",
+                "asal":"Bekasi",
+                "alamat": "TVRI",
+                "hobbi": "Dengar musik",
+                "sosmed": "@rzkdrnnn",
+                "kesan": "Abangnyaa tinggii dann kerenn",  
+                "pesan":"Lancar teruss ya bang di pengmas !!!"#12
             },
 
         ]
