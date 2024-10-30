@@ -1301,10 +1301,9 @@ elif menu == "Departemen SSD":
 
 
 
-elif menu == "Departemen MEDKRAF":
+else:
     def medkraf():
         gambar_urls = [
-
             "https://drive.google.com/uc?export=view&id=1JlEtTEcM4zBtt5OmXOdY2K46jaoFj00h", #Bang wahyu
             "https://drive.google.com/uc?export=view&id=1Zetx5MXimuHohAJll8XE4fJope0krQlW", #Kak fiola
             "https://drive.google.com/uc?export=view&id=1LCPSP8tjdyBoyPkhc0lNfFBvjQoG5_Lj", #kak arsyiah
@@ -1320,7 +1319,6 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1IOb4JLLqNGKOWUG7TUKy3546wXwup7Gk", #Bang abit
             "https://drive.google.com/uc?export=view&id=1jVc3ve5DsAanF75tKrHz2h-gSPYeHCDM", #Bang hermawan
             "https://drive.google.com/uc?export=view&id=1tD5BWJLCddwsRwH4hi_n0e727zCLrTeT", #kak nisa
-
         ]
         data_list = [
             {
@@ -1491,10 +1489,5 @@ elif menu == "Departemen MEDKRAF":
         ]
         display_images_with_data(gambar_urls, data_list)
     medkraf()
-
-
-
-
-
 
 # Tambahkan menu lainnya sesuai kebutuhan
