@@ -1302,7 +1302,7 @@ elif menu == "Departemen SSD":
 
 
 elif menu == "Departemen MEDKRAF":
-    def medraf():
+    def medkraf():
         gambar_urls = [
 
             "https://drive.google.com/uc?export=view&id=1JlEtTEcM4zBtt5OmXOdY2K46jaoFj00h", #Bang wahyu
@@ -1490,7 +1490,7 @@ elif menu == "Departemen MEDKRAF":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    medraf()
+    medkraf()
 
 
 
