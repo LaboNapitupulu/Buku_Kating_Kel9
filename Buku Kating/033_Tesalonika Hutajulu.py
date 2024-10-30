@@ -778,16 +778,93 @@ elif menu == "Departemen Eksternal":
         data_list = [
              {
                 "nama": "Yogy Sae Tama",
-                "nim": "121450083",
+                "nim": "121450041",
                 "umur": "21",
-                "asal":"Banten",
-                "alamat": "Tangerang",
-                "hobbi": "Sukarame",
+                "asal":"Tangerang",
+                "alamat": "Sukarame",
+                "hobbi": "Tidur",
                 "sosmed": "@yogyyyyyyy",
                 "kesan": "Abangnya humoris tapi berwibawa",  
                 "pesan":"lancar terus ya bang jadi kadep !!!"#1
             },
-            
+            {
+                "nama": "Ramadhita Atifa Hendri",
+                "nim": "121450131",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Raja Basa",
+                "hobbi": "Traveling",
+                "sosmed": "@ramadhitatifa",
+                "kesan": "Kakaknya tegas dan informatif",  
+                "pesan":"lancar terus ya kak mendampingi bang kadepp ngejalanin tugas eksternal !!!"#2
+            },
+            {
+                "nama": "Nazwa Nabilla",
+                "nim": "121450022",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Bandar Lampung",
+                "hobbi": "Belajar",
+                "sosmed": "@nazwanbilla",
+                "kesan": "Suara kakaknya lemah lembut",  
+                "pesan":"semogaa diperlancar terus di kadivv yaww kak !!!"#3
+            },
+            {
+                "nama": "Bastian Heskia Silaban",
+                "nim": "121450030",
+                "umur": "21",
+                "asal":"Batam",
+                "alamat": "Belwis",
+                "hobbi": "Telat ngampus",
+                "sosmed": "@bastiansilaban_",
+                "kesan": "Abangnya tinggi bangett",  
+                "pesan":"semangat selalu ya bangg !!!"#4
+            },
+            {
+                "nama": "Dea Mutia Risani",
+                "nim": "122450099",
+                "umur": "20",
+                "asal":"Sumatera Barat",
+                "alamat": "Kos Korinda",
+                "hobbi": "Dengerin musik",
+                "sosmed": "@deaa.rsn",
+                "kesan": "kakak ini cantikk dan baik",  
+                "pesan":"Semogaa semuaa urusan kulaih maupun luar kuliah diperlancar yak kakk !!!"#5
+            },
+            {
+                "nama": "Estria Rohanauli Sidauruk",
+                "nim": "122450025",
+                "umur": "20",
+                "asal":"Sukabumi",
+                "alamat": "Bandar Lampung",
+                "hobbi": "Menonton Film",
+                "sosmed": "@esteriars",
+                "kesan": "Hobby kakakknya asikk",  
+                "pesan":"semogaa dapatt tercapai keinginannya !!!"#6
+            },
+            {
+                "nama": "Natasya Ega Lina Marbun",
+                "nim": "122450024",
+                "umur": "21",
+                "asal":"Sumatera Utara",
+                "alamat": "Jl. Manggis 2",
+                "hobbi": "Mendengarkan Lagu, Menyanyi",
+                "sosmed": "@nateee__15",
+                "kesan": "Kakaknyaa sangat bersemangat",  
+                "pesan":"semogaa cepattt luluss yaa kakk !!!"#7
+            },
+            {
+                "nama": "NNovelia Adinda",
+                "nim": "122450104",
+                "umur": "21",
+                "asal":"Jakarta Timur",
+                "alamat": "Belwis",
+                "hobbi": "Tidur",
+                "sosmed": "@nvliaadinda",
+                "kesan": "Kakaknyaa rendah hatii",  
+                "pesan":"semogaa tergapai rencana tahun ini ya kakk !!!"#8
+            },
+
         ]
         display_images_with_data(gambar_urls, data_list)
     eksternal()
