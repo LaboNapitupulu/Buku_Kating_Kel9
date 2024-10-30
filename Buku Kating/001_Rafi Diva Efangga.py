@@ -369,7 +369,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1LSn0IpxS9wn3a54e97jrYS2oY9pjWIVE", #Bang Jo
             "https://drive.google.com/uc?export=view&id=10mKvfCZEBCjNyuQnovKbw9Gl8WvnQK38", #Bang Kemas
             "https://drive.google.com/uc?export=view&id=1__NaGPWdJtJkwKV9aG2rnrXh9nYIh16Y", #Kak Rafa
-            "https://drive.google.com/uc?export=view&id=1bNM-JjCjijfKZYuAPBxvDVjBbvsowbLZk", #Bang Sahid
+            "https://drive.google.com/uc?export=view&id=18lNrHCQ5yKHXkddzQ4I5dkzesoOjxPqJ", #Bang Sahid
             "https://drive.google.com/uc?export=view&id=1ICJX4zcgzmj5GrwN9yyMZOytWkG_cash", #Bang Ateng
             "https://drive.google.com/uc?export=view&id=1uzmtaYc7DbJh4VELQ_uspWPwIZlbPGoM", #Kak Jaclin
             "https://drive.google.com/uc?export=view&id=18lNrHCQ5yKHXkddzQ4I5dkzesoOjxPqJ", #Bang Rafly
