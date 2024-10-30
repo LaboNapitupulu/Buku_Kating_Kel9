@@ -908,6 +908,94 @@ elif menu == "Departemen Eksternal":
                 "kesan": "Abangnyaa tinggii dann kerenn",  
                 "pesan":"Lancar teruss ya bang di pengmas !!!"#12
             },
+            {
+                "nama": "Arafi Ramadhan Maulana",
+                "nim": "122450002",
+                "umur": "20",
+                "asal":"Depok",
+                "alamat": "Depan Warjo (TVRI)",
+                "hobbi": "Memasak",
+                "sosmed": "@arafiramadhanmaulana",
+                "kesan": "Abangnyaa sangat bersemangatt di pengmas",  
+                "pesan":"Lancar teruss ya bang jadi bendahara pengmas !!!"#13
+            },
+            {
+                "nama": "Asa Do'a Uyi",
+                "nim": "122450005",
+                "umur": "20",
+                "asal":"Muara Enim",
+                "alamat": "Jl. Pembangunan Korpri",
+                "hobbi": "Cari Ice Breaking",
+                "sosmed": "@u_yippy",
+                "kesan": "Kakaknyaa jago memandu pengmas",  
+                "pesan":"Semogaa semester inii nilainya sempurna ya kakk !!!"#14
+            },
+            {
+                "nama": "Chalifia Wananda",
+                "nim": "122450076",
+                "umur": "20",
+                "asal":"Padang",
+                "alamat": "Senopati Raya",
+                "hobbi": "Mereview Jurnal",
+                "sosmed": "@chlfawww",
+                "kesan": "Kakakknya baikk dan imutt",  
+                "pesan":"Semogaa lancarr ya kakkk di progja pengmas !!!"#15
+            },
+            {
+                "nama": "Irvan Alfaritzi",
+                "nim": "122450093",
+                "umur": "21",
+                "asal":"Padang Panjang",
+                "alamat": "Sukarame",
+                "hobbi": "Nonton Youtube, Main Game",
+                "sosmed": "@alfaritziirvan",
+                "kesan": "Abangnyaa humblee dan berwibawa",  
+                "pesan":"Sehat selalu yaa bangg !!!"#16
+            },
+            {
+                "nama": "Izza Lutfia",
+                "nim": "122450090",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Bandar Lampung",
+                "hobbi": "Mengabdi",
+                "sosmed": "@izzalutfiaa",
+                "kesan": "kak izaa kerenn bangett ngajar anak anak",  
+                "pesan":"Semogaa dapatt berkahh selalu ya kakk !!!"#17
+            },
+            {
+                "nama": "Khaalishah Zuhrah Alyaa Vanefi",
+                "nim": "122450034",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Rajabasa",
+                "hobbi": "Menyanyi",
+                "sosmed": "@alyaavanefi",
+                "kesan": "kakak asikk dann ramahh sekalii",  
+                "pesan":"Semogaa semesterr kali inii dan selanjutnyaa bahagia terus ya kak !!!"#18
+            },
+            {
+                "nama": "Raid Muhammad Naufal",
+                "nim": "122450027",
+                "umur": "20",
+                "asal":"Lampung Tengah",
+                "alamat": "Sukarame",
+                "hobbi": "Membuat Jurnal",
+                "sosmed": "@rayths_",
+                "kesan": "Abangnyaa pendiamm tappii tetap kerenn",  
+                "pesan":"Semogaa bisaa punya hobbi kaya abangnya !!!"#19
+            },
+            {
+                "nama": "Tria Yunanni",
+                "nim": "122450062",
+                "umur": "20",
+                "asal": "Way Kanan Lampung",
+                "alamat": "Sukarame",
+                "hobbi": "Baca Artikel",
+                "sosmed": "Baca Artikel",
+                "kesan": "kakak inii sangatt care dan lucuu  cantik jugaa",  
+                "pesan":"Semogaa selalu bahagiaa dan dipermudah kuliahnya ya kakk !!!"#20
+            },
 
         ]
         display_images_with_data(gambar_urls, data_list)
