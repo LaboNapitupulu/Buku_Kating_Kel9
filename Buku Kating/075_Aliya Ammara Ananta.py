@@ -393,7 +393,7 @@ elif menu == "Departemen PSDA":
                 "umur": "20",
                 "asal":"Tangerang",
                 "alamat": "Owen kos, Sukarame",
-                "hobbi": "",
+                "hobbi": "memancing keributan",
                 "sosmed": "@elisabethh_",
                 "kesan": "Kakaknya cantikk",  
                 "pesan":"Semangat jadi sekre nya kak"
@@ -732,7 +732,7 @@ elif menu == "Departemen MIKFES":
                 "nama": "Randa Andriana Putra",
                 "nim": "122450083",
                 "umur": "21",
-                "asal":"",
+                "asal":"banten",
                 "alamat": "Sukarame",
                 "hobbi": "Tidur",
                 "sosmed": "@randaandriana_",
@@ -996,7 +996,7 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
-        "https://drive.google.com/uc?export=view&id=17iwcHYvx8CzctOqq-m1yEQh387PSjecU", #BgDimas ok
+        "https://drive.google.com/uc?export=view&id=1pENpvx9GvQm1wlKmmJXcVvJbP4McXh1l", #BgDimas ok
         "https://drive.google.com/uc?export=view&id=1tfBGDEbcGOl-F-KK5cotAE1Wo5H0WXCm", #Kak Catherine ok
         "https://drive.google.com/uc?export=view&id=14SWMPFVAbfmqQswMzPxaTeu4TiQ_96St", #Bg Akbar ok
         "https://drive.google.com/uc?export=view&id=1uU7q8kppXJ-RbCg8xoTq3rReXTkNWLUG", #Kak Rani _
@@ -1147,3 +1147,334 @@ elif menu == "Departemen Internal":
         ]
         display_images_with_data(gambar_urls, data_list)
     internal()
+
+elif menu == "Departemen SSD":
+    def ssd():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1pbv4gqf92By71WBlSzoqGZqnRZDcKpiy", #Bang Andrian ok
+            "https://drive.google.com/uc?export=view&id=1CkpunuLQ0nuLUPYuDVrDsYOXSwCOM_GO", #Kak Adisty ok
+            "https://drive.google.com/uc?export=view&id=1gLVq_0jjLFc_KMGDKQaGgMceOkmYFgpi",# Kak Nabila ok
+            "https://drive.google.com/uc?export=view&id=1RzfKMgVJATv5WGgmLO2nUSSwLb8pCvBQ",# Kak Nabilah ok
+            "https://drive.google.com/uc?export=view&id=12aIGkFDqOlkK2Abz7Zl8_Ty7XCImkra3",# Bang Ahmad ok
+            "https://drive.google.com/uc?export=view&id=1qgo7rGg3Hmyp45oKvDbUGeEhZnOILGh0",# Bang Danang ok
+            "https://drive.google.com/uc?export=view&id=1o2K02TdURG713bnE7VX6Tz9PwCyTChV0",# Bang Farrel ok
+            "https://drive.google.com/uc?export=view&id=1P9HxtxbOFo5xT0zvGmGxAaoP_JFMuFWa",# Kak Tessa ok
+            "https://drive.google.com/uc?export=view&id=1o3FdFxkiuakxaDIpeHYHjwVEf7Qzb6E7",# Kak Alvia
+            "https://drive.google.com/uc?export=view&id=1wWovsso3d0vg9wE3p1rMsWPjYHdGRBVS",# Kak Dhafin ok
+            "https://drive.google.com/uc?export=view&id=11RgxZwwqloLxkdy5giSidirX7LPbdp3p",# Kak Elia ok
+
+        ]
+        data_list = [
+            {
+                "nama": "Andrian Agustinus Lumban Gaol",
+                "nim": "121450090",
+                "umur": "22",
+                "asal":"Sidikalang",
+                "alamat": "Dekat Lapas",
+                "hobbi": "Nyari hobi",
+                "sosmed": "@andrianlgaol",
+                "kesan": "Abangnya ramah banget",  
+                "pesan": "Semangat trus kuliahnya bang "
+            },
+            {
+                "nama": "Adisty Syawaida Ariyanto",
+                "nim": "121450136",
+                "umur": "22",
+                "asal":"Metro",
+                "alamat": "Sukarame",
+                "hobbi": "Nonton film",
+                "sosmed": "@adistysa_",
+                "kesan": "Kakaknya cantik deh",  
+                "pesan": "Tips menjadi cantik kak"
+            },
+            {
+                "nama": "Nabila Azhari",
+                "nim": "121450029",
+                "umur": "20",
+                "asal": "Sumatera Utara",
+                "alamat": "Airan",
+                "hobbi": "Menghitung uang",
+                "sosmed": "@zhjung_",
+                "kesan": "Kakak baik banget",
+                "pesan": "Semangat yaa kak kuliahnya"
+            },
+            {
+                "nama": "Nabilah Andika Fitriati",
+                "nim": "121450139",
+                "umur": "21",
+                "asal": "Kedaton",
+                "alamat": "Kedaton",
+                "hobbi": "Tidur",
+                "sosmed": "@nabilahanftn",
+                "kesan": "BKakak baik banget",
+                "pesan": "Semangat terus kuliahnya kak"
+            },
+            {
+                "nama": "Ahmad Rizqi",
+                "nim": "122450138",
+                "umur": "20",
+                "asal": "Padang",
+                "alamat": "Airan",
+                "hobbi": "Jalan-jalan",
+                "sosmed": "@ahmad.riz45",
+                "kesan": "Abangnya kece",
+                "pesan": "Tips kece bang"
+            },
+            {
+                "nama": "Danang Hilal Kurniawan",
+                "nim": "121450085",
+                "umur": "21",
+                "asal": "Balam",
+                "alamat": "Airan",
+                "hobbi": "Berjualan",
+                "sosmed": "@dananghk_",
+                "kesan": "Abangnya menyenangkan sekali",
+                "pesan": "Kasi diskon stiker nya dong bang"
+            },
+            {
+                "nama": "Farrel Julio Akbar",
+                "nim": "122450110",
+                "umur": "20",
+                "asal": "Bogor",
+                "alamat": "Samping Kedai Calon Sarjana",
+                "hobbi": "Bebas sih",
+                "sosmed": "@farrel__julio",
+                "kesan": "Abangnya baik",
+                "pesan": "Semangat terus kuliahnya bang"
+            },
+            {
+                "nama": "Tessa Kania Sagala",
+                "nim": "122459940",
+                "umur": "20",
+                "asal": "Sumatera Utara",
+                "alamat": "Pemda",
+                "hobbi": "Nulis",
+                "sosmed": "@tesakanias",
+                "kesan": "Kakaknya cantik banget",
+                "pesan": "Semangat terus yaa kak"
+            },
+            {
+                "nama": "Alvia Asrinda Br.Gintng",
+                "nim": "122450077",
+                "umur": "20",
+                "asal": "Binjai",
+                "alamat": "Korpri",
+                "hobbi": "Nonton Windah",
+                "sosmed": "@alviagnting",
+                "kesan": "Kakaknya baik",
+                "pesan": "Semangaat terus kak"
+            },
+            {
+                "nama": "Dhafin Razaqa Luthfi",
+                "nim": "122450133",
+                "umur": "20",
+                "asal": "Balam",
+                "alamat": "Jl. Nangka 1",
+                "hobbi": "Olahraga",
+                "sosmed": "@dhafinrzqa13",
+                "kesan": "Abangnya kece",
+                "pesan": "Semangat terus bang kuliahnya"
+            },
+            {
+                "nama": "Elia Meylani Simanjuntak",
+                "nim": "122450026",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Korpri",
+                "hobbi": "Nyanyi",
+                "sosmed": "@meylanielia",
+                "kesan": "Kakaknya cantik  bangett",
+                "pesan": "Semangat trus kuliahnya kak"
+            },
+       ]
+        display_images_with_data(gambar_urls, data_list)
+    ssd()
+
+else:
+    def medkraf():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1IwuFHPJwZP9qcNRJZDvj4O2-9MN0LxFS", # bang tao ok 
+            "https://drive.google.com/uc?export=view&id=1_-R3sv6qQTQDfX1Sb3rhs32xygL-8FoL", # kak arsyi ok
+            "https://drive.google.com/uc?export=view&id=1_f_jBw_yL_Ec82LHjwSL1pqLenP7DvZK", # bang kai ok 
+            "https://drive.google.com/uc?export=view&id=143TNyq3rkJZkgT25xlUSKJvLvKqmqCTp", # bang arsal ok 
+            "https://drive.google.com/uc?export=view&id=1UbqZjF2m-CxtFSVqDCtNvAypC36doHGV", # kak elok ok
+            "https://drive.google.com/uc?export=view&id=16vhj86p8GyjRvLVjtSWUA3I6JSeEQY7u", # kak juju ok
+            "https://drive.google.com/uc?export=view&id=1j7gY6A0xGmqcoSV5Y86NhZUGnnyi2Raa", # kak nel ok
+            "https://drive.google.com/uc?export=view&id=1vkU6ttm-0Lgsr42xzwjQXQqKLl15iiv1", # kak try yani ok 
+            "https://drive.google.com/uc?export=view&id=1mO-zja4SYWOrkrgXtOZUscbZrfwMF7bs", # kak dwi ok
+            "https://drive.google.com/uc?export=view&id=1U5kK4ELiiSJdMquK8GEsneRk7uByt2rz", # bang gym ok
+            "https://drive.google.com/uc?export=view&id=1DV1nurm9liXLumSkBcUCrB60QRR3sROy", # kak nasywa  ok
+            "https://drive.google.com/uc?export=view&id=1HMnt5-nwk4JRuC0CSqXR8Dlb9JSWwQec", # kak priska ok
+            "https://drive.google.com/uc?export=view&id=1FqwM1AX8radImWeV5bOdAEHe9FufY2mZ", # bang abit ok
+            "https://drive.google.com/uc?export=view&id=1uscsZ1iwfaJPGgFK1xM-JJOEO17-V0Zp", # bang hermawan ok ok
+            "https://drive.google.com/uc?export=view&id=1SfDFOm0bCbBMi9pGzEH-GcihxxdWtL_y", # kak khusnun nisa ok
+        ]
+        data_list = [
+            {
+                "nama": "Wahyudiyanto",
+                "nim": "121450040",
+                "umur": "21",
+                "asal": "Makassar",
+                "alamat": "Sukarame",
+                "hobbi": "Nonton",
+                "sosmed": "@",
+                "kesan": "Abangnya kece banget",
+                "pesan": "Semangat kuliahnya bang"
+            },
+            {
+                "nama": "Arsyiah Azahra",
+                "nim": "121450035",
+                "umur": "21",
+                "asal": "Balam",
+                "alamat": "Balam",
+                "hobbi": "Ngonten",
+                "sosmed": "@arsyiah._",
+                "kesan": "Kakaknya cantik banget",
+                "pesan": "Semangat kakak kuliahnya"
+            },
+            {
+                "nama": "Muhammad Kaisar Firdaus",
+                "nim": "121450135",
+                "umur": "21",
+                "asal": "Pesawaran",
+                "alamat": "Pulau Damar Way Kandis",
+                "hobbi": "Lagi Nyari",
+                "sosmed": "@dino_lapet",
+                "kesan": "Abangnya keren",
+                "pesan": "Semangat terus bangg"
+            },
+            {
+                "nama": "Muhammad Arsal Ranjana Utama",
+                "nim": "121450111",
+                "umur": "21",
+                "asal": "Depok",
+                "alamat": "Nangka III",
+                "hobbi": "Koleksi Parfum",
+                "sosmed": "@arsyiah._",
+                "kesan": "Abangnya baik banget",
+                "pesan": "Semangat terus ya bang"
+            },
+            {
+                "nama": "Elok Fiola",
+                "nim": "122450051",
+                "umur": "19",
+                "asal": "Balam",
+                "alamat": "Balam",
+                "hobbi": "Ngedit",
+                "sosmed": "@elokfiola",
+                "kesan": "Kakaknya cantik banget",
+                "pesan": "Tips konten yang bagus kak"
+            },
+            {
+                "nama": "Najla Juwairia",
+                "nim": "122450037",
+                "umur": "19",
+                "asal": "Sumatera Utara",
+                "alamat": "Airan",
+                "hobbi": "Baca, Nulis, fangirling",
+                "sosmed": "@nanana.minjoo",
+                "kesan": "Cantik banget daplok akuu",
+                "pesan": "Semangat terus kakak cantik"
+            },
+            {
+                "nama": "Rahma Neliyana",
+                "nim": "122450036",
+                "umur": "20",
+                "asal": "Tanggamus",
+                "alamat": "Sukarame, Pembangunan 5",
+                "hobbi": "Makan ubi cilembu",
+                "sosmed": "@rahmanellyana",
+                "kesan": "Kakaknya ramah banget ",
+                "pesan": "Semangat terus kuliahnya kak"
+            },
+            {
+                "nama": "Try Yani Rizki Nur Rohmah",
+                "nim": "122450020",
+                "umur": "20",
+                "asal": "Lampung Barat",
+                "alamat": "Korpri",
+                "hobbi": "Nonton",
+                "sosmed": "@tryyaniciaaa",
+                "kesan": "Kakaknya cantik banget",
+                "pesan": "Semangat terus kuliahnya kak "
+            },
+            {  
+                "nama": "Dwi Ratna Anggraeni",
+                "nim": "122450008",
+                "umur": "20",
+                "asal": "Jambi",
+                "alamat": "Pemda",
+                "hobbi": "Scroll Tiktok",
+                "sosmed": "@dwiratnn_",
+                "kesan": "Kakaknya ramah banget",
+                "pesan": "Semangat terus ya kak"
+            },
+            {
+                "nama": "Gymnastiar Al Khoarizmy",
+                "nim": "122450096",
+                "umur": "20",
+                "asal": "Serang",
+                "alamat": "Lapangan Golf",
+                "hobbi": "Baca Komik",
+                "sosmed": "@jimnn.as",
+                "kesan": "Keren sekali daplok ku ini",
+                "pesan": "Tips pintar bang"
+            },
+            {
+                "nama": "Nasywa Nur Afifah",
+                "nim": "122450125",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Pemda",
+                "hobbi": "Bersih-bersih",
+                "sosmed": "@nasywanaff",
+                "kesan": "Kakaknya baik bangett",
+                "pesan": "Semangat terus ya kak"
+            },
+            {
+                "nama": "Priska Silvia Ferantiana",
+                "nim": "122450053",
+                "umur": "20",
+                "asal": "Palembang",
+                "alamat": "Jl Nangka II",
+                "hobbi": "Dengarin Musik",
+                "sosmed": "@silvi.viii",
+                "kesan": "Kakaknya cantik banget",
+                "pesan": "Semangatt terus kakk"
+            },
+            {
+                "nama": "Abit Ahmad Oktarian",
+                "nim": "122450042",
+                "umur": "19",
+                "asal": "Balam",
+                "alamat": "Balam",
+                "hobbi": "Ngoding, Belajar, Ngaji, Desain, Baca Komik",
+                "sosmed": "@abitahmad",
+                "kesan": "Abangnya lucuu",
+                "pesan": "Semangat terus bang"
+            },
+            {
+                "nama": "Hermawan Manurung",
+                "nim": "122450069",
+                "umur": "20",
+                "asal": "Bogor",
+                "alamat": "Jalan dekat tol",
+                "hobbi": "Baca buku, bengong",
+                "sosmed": "@hermawan.mnrng",
+                "kesan": "Abangnya ramah banget",
+                "pesan": "Semangat nge asprak nya bang"
+            },
+            {
+                "nama": "Khusnun Nisa",
+                "nim": "122450078",
+                "umur": "20",
+                "asal": "Bakauhueni",
+                "alamat": "Belwis",
+                "hobbi": "DIY pake printer",
+                "sosmed": "@khusnun_nisa335",
+                "kesan": "Kakaknya cantik banget",
+                "pesan": "Semangat terus kuliahnya kak"
+            }
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    medkraf()
