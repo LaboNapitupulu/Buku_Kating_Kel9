@@ -763,8 +763,8 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1kJcRQH1OZmtwAG5bTBnbtJyUfrJKc1Jx",#8
             "https://drive.google.com/uc?export=view&id=19YWpyXrDLAkj_MX5GMdFHCUyi1HFG8so",#9
             "https://drive.google.com/uc?export=view&id=1PHgIbDIS68u6lG5aaUwUxuPLclFEZLis",#10
-            "https://drive.google.com/uc?export=view&id=1ouJfiz9IgNr78oLo1pWdI4jfbPUTGOIj",#11
-            "https://drive.google.com/uc?export=view&id=1AtIDVYh-KHd2BEf2ncCq97nGfcEr7rIQ",#12
+            "https://drive.google.com/uc?export=view&id=1AtIDVYh-KHd2BEf2ncCq97nGfcEr7rIQ",#11
+            "https://drive.google.com/uc?export=view&id=1Bn07d2y7_hyRrd713nW9eLscj07OVLTz",#12
             "https://drive.google.com/uc?export=view&id=1xzhHBtAQmaG_AxMML4KV8OPmcbQ7yrrw",#13
             "https://drive.google.com/uc?export=view&id=1n5jUrvFUhufhXxWan0-6Kw4mDeJpqeOM",#14
             "https://drive.google.com/uc?export=view&id=1F4M8cwz6lOraaRSRe4EZ7_A5si-VdMeH",#15
