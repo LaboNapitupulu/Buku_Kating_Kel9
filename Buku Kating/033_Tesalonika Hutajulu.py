@@ -1010,27 +1010,63 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=17BIwu96P7aSE3MtFRMmHJ-iUHxlyVkIA",#2
             "https://drive.google.com/uc?export=view&id=1s62MuQL6HSTLYCe-qJUQBx_e5Mhl5B99",#3
             "https://drive.google.com/uc?export=view&id=12WTXpxYpn8jwfixA9XbtgPgQQ-1daTy-",#4
-            "https://drive.google.com/uc?export=view&id=1hwjhCSfiVsiLdjbgCKsqbk449V3Tc8AU",#5
-            "https://drive.google.com/uc?export=view&id=1_8_sRnfDGDhkKCnprzAzZyT72i1rN2G6",#6
-            "https://drive.google.com/uc?export=view&id=1k_RVfUnh1HjCvTAsGBqz9En8CxuEXoSA",#7
-            "https://drive.google.com/uc?export=view&id=19YN9DUOrKqDpOpi-6XNlTU3Y1OMQCgjc",#8
-            "https://drive.google.com/uc?export=view&id=13ZnKVJxOPmDOqDYo4Ezwy1vTo3l6du9B",#9
-            "https://drive.google.com/uc?export=view&id=1bcG5YRev4AoEPPhrW4-7B6oIB_xLXAGP",#10
-            "https://drive.google.com/uc?export=view&id=19A5UQFxC8UE8fr90TT4dLx452ehXihWV",#11
+            "https://drive.google.com/uc?export=view&id=1peIIeoPzT-fAXSxLILYz7oxVLrbEy210",#5
+            "https://drive.google.com/uc?export=view&id=1hwjhCSfiVsiLdjbgCKsqbk449V3Tc8AU",#6
+            "https://drive.google.com/uc?export=view&id=1_8_sRnfDGDhkKCnprzAzZyT72i1rN2G6",#7
+            "https://drive.google.com/uc?export=view&id=1k_RVfUnh1HjCvTAsGBqz9En8CxuEXoSA",#8
+            "https://drive.google.com/uc?export=view&id=19YN9DUOrKqDpOpi-6XNlTU3Y1OMQCgjc",#9
+            "https://drive.google.com/uc?export=view&id=13ZnKVJxOPmDOqDYo4Ezwy1vTo3l6du9B",#10
+            "https://drive.google.com/uc?export=view&id=1bcG5YRev4AoEPPhrW4-7B6oIB_xLXAGP",#11
+            "https://drive.google.com/uc?export=view&id=19A5UQFxC8UE8fr90TT4dLx452ehXihWV",#12
             
         ]
         data_list = [
              {
-                "nama": "Yogy Sae Tama",
-                "nim": "121450083",
-                "umur": "21",
-                "asal":"Banten",
-                "alamat": "Tangerang",
-                "hobbi": "Sukarame",
-                "sosmed": "@yogyyyyyyy",
-                "kesan": "Abangnya humoris tapi berwibawa",  
-                "pesan":"lancar terus ya bang jadi kadep !!!"#1
+                "nama": "Dimas Rizky Ramadhani",
+                "nim": "121450027",
+                "umur": "20",
+                "asal":"Pamulang, Tangsel",
+                "alamat": "Way Kandis (Kobam)",
+                "hobbi": "Manjat Tower Sutet",
+                "sosmed": "@dimzrky_",
+                "kesan": "Bang Dimas keceee pluss ganteng dan baik",  
+                "pesan":"Bang dimass yang semangatt ya bang kuliahnya !!!"#1
             },
+            {
+                "nama": "Catherine Firdhasari Maulina Sinaga",
+                "nim": "121450072",
+                "umur": "20",
+                "asal":"Medan",
+                "alamat": "Airan",
+                "hobbi": "Baca Novel",
+                "sosmed": "@catherine.sinagaa",
+                "kesan": "Kakak inii maniss dan cerdas",  
+                "pesan":"Lancar teruss ya kakak di internall !!!"#2
+            },
+            {
+                "nama": "M. Akbar Resdika",
+                "nim": "121450006",
+                "umur": "20",
+                "asal":"Lampung Barat",
+                "alamat": "Labuhan Dalam",
+                "hobbi": "Ngoding",
+                "sosmed": "@akbar_resdika",
+                "kesan": "Kerenn bangg jago ngoding",  
+                "pesan":"Semogaa bisa buat tutor ngoding ya bang buat kami !!!"#3
+            },
+            {
+                "nama": "Rani Puspita Sari",
+                "nim": "122450030",
+                "umur": "20",
+                "asal":"Metro",
+                "alamat": "Labuhan Dalam",
+                "hobbi": "Ngoding",
+                "sosmed": "@akbar_resdika",
+                "kesan": "Kerenn bangg jago ngoding",  
+                "pesan":"Semogaa bisa buat tutor ngoding ya bang buat kami !!!"#4
+            },
+            
+            
             
         ]
         display_images_with_data(gambar_urls, data_list)
