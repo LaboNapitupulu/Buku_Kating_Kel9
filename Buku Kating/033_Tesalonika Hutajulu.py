@@ -1160,17 +1160,16 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
-           "https://drive.google.com/uc?export=view&id=138xazlvnfHz5RkUhbg8SSnYMA-SOAwky",#1
-            "https://drive.google.com/uc?export=view&id=17BIwu96P7aSE3MtFRMmHJ-iUHxlyVkIA",#2
-            "https://drive.google.com/uc?export=view&id=1s62MuQL6HSTLYCe-qJUQBx_e5Mhl5B99",#3
-            "https://drive.google.com/uc?export=view&id=12WTXpxYpn8jwfixA9XbtgPgQQ-1daTy-",#4
-            "https://drive.google.com/uc?export=view&id=1hwjhCSfiVsiLdjbgCKsqbk449V3Tc8AU",#5
-            "https://drive.google.com/uc?export=view&id=1_8_sRnfDGDhkKCnprzAzZyT72i1rN2G6",#6
-            "https://drive.google.com/uc?export=view&id=1k_RVfUnh1HjCvTAsGBqz9En8CxuEXoSA",#7
-            "https://drive.google.com/uc?export=view&id=19YN9DUOrKqDpOpi-6XNlTU3Y1OMQCgjc",#8
-            "https://drive.google.com/uc?export=view&id=13ZnKVJxOPmDOqDYo4Ezwy1vTo3l6du9B",#9
-            "https://drive.google.com/uc?export=view&id=1bcG5YRev4AoEPPhrW4-7B6oIB_xLXAGP",#10
-            "https://drive.google.com/uc?export=view&id=19A5UQFxC8UE8fr90TT4dLx452ehXihWV",#11
+           "https://drive.google.com/uc?export=view&id=1os7Gyk8yMFxPNsSPr2mpkfJJ0C-Va2Bg",#1
+            "https://drive.google.com/uc?export=view&id=10wzGcpSPqqf8l9u8L3g2hA1LcAYOuS84",#2
+            "https://drive.google.com/uc?export=view&id=1if1KHfnWPZi3M0_hUBtl_Z0_qsi2gu3w",#3
+            "https://drive.google.com/uc?export=view&id=10iD_0qcTCg1ySEYKH1xEXEtI85OrEMHJ",#4
+            "https://drive.google.com/uc?export=view&id=1HaQ1BmyCUwXunjM5bpvJ9UXVRSr6CTXb",#5
+            "https://drive.google.com/uc?export=view&id=1d8s5b1oiFuONlhHmJt49h0w4-LwtmDrR",#6
+            "https://drive.google.com/uc?export=view&id=1YbPku9YbN-GJrUyPRX_NPcvXmsVhRe-y",#7
+            "https://drive.google.com/uc?export=view&id=1JGfjnFC2pqlXsl0YFYrh71ovjxMOYMMS",#8
+            "https://drive.google.com/uc?export=view&id=1SoGyo8jSj5-UizjiX8ifc2juGukRossm",#9
+            "https://drive.google.com/uc?export=view&id=1oXxRFWRAVKB8_sQK6we0UZcuo8bpy0hf",#10
             
         ]
         data_list = [
