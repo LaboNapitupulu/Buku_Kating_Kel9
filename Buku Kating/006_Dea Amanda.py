@@ -765,7 +765,7 @@ elif menu == "Departemen Eksternal":
         "https://drive.google.com/uc?export=view&id=1ClwTEohhnDXWNdQfDBggM73rzBPP4uqj", #Bang Raid ok
         "https://drive.google.com/uc?export=view&id=1ClwTEohhnDXWNdQfDBggM73rzBPP4uqj", #Kak Tria ok
         ]
-        data_list = [l
+        data_list = [
             {
                 "nama": "Yogy Sae Tama",
                 "nim": "121450041",
