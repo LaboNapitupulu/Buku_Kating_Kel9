@@ -1064,8 +1064,51 @@ elif menu == "Departemen Internal":
                 "sosmed": "@akbar_resdika",
                 "kesan": "Kerenn bangg jago ngoding",  
                 "pesan":"Semogaa bisa buat tutor ngoding ya bang buat kami !!!"#4
-            },          
-            
+            },
+            {
+                "nama": "Dimas Rizky Ramadhani",
+                "nim": "121450027",
+                "umur": "20",
+                "asal":"Pamulang, Tangsel",
+                "alamat": "Way Kandis (Kobam)",
+                "hobbi": "Manjat Tower Sutet",
+                "sosmed": "@dimzrky_",
+                "kesan": "Bang Dimas keceee pluss ganteng dan baik",  
+                "pesan":"Bang dimass yang semangatt ya bang kuliahnya !!!"#1
+            },
+            {
+                "nama": "Catherine Firdhasari Maulina Sinaga",
+                "nim": "121450072",
+                "umur": "20",
+                "asal":"Medan",
+                "alamat": "Airan",
+                "hobbi": "Baca Novel",
+                "sosmed": "@catherine.sinagaa",
+                "kesan": "Kakak inii maniss dan cerdas",  
+                "pesan":"Lancar teruss ya kakak di internall !!!"#2
+            },
+            {
+                "nama": "M. Akbar Resdika",
+                "nim": "121450006",
+                "umur": "20",
+                "asal":"Lampung Barat",
+                "alamat": "Labuhan Dalam",
+                "hobbi": "Ngoding",
+                "sosmed": "@akbar_resdika",
+                "kesan": "Kerenn bangg jago ngoding",  
+                "pesan":"Semogaa bisa buat tutor ngoding ya bang buat kami !!!"#3
+            },
+            {
+                "nama": "Rani Puspita Sari",
+                "nim": "122450030",
+                "umur": "20",
+                "asal":"Metro",
+                "alamat": "Labuhan Dalam",
+                "hobbi": "Ngoding",
+                "sosmed": "@akbar_resdika",
+                "kesan": "Kerenn bangg jago ngoding",  
+                "pesan":"Semogaa bisa buat tutor ngoding ya bang buat kami !!!"#4
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     internal()
