@@ -1303,7 +1303,7 @@ else:
             "https://drive.google.com/uc?export=view&id=1a2sQgKTKc3q59rm_rzUqeAnj2Sd8MeyA", # bang arsal ok 
             "https://drive.google.com/uc?export=view&id=1NgV2ufZdMGXyXECxYFDvVuqsvassHNv5", # kak elok ok
             "https://drive.google.com/uc?export=view&id=18vgM_K82ao9CTSIRyCM9oURIENsnFhsK", # kak juju ok
-            "https://drive.google.com/uc?export=view&id=1j7gY6A0xGmqcoSV5Y86NhZUGnnyi2Raa", # kak nel ok
+            "https://drive.google.com/uc?export=view&id=1rt6rsOTUUQoGt5tAsjqlpMJFSNTuc534", # kak nel ok
             "https://drive.google.com/uc?export=view&id=1GNThrsqAcdi2Ig7KsFNm8TezeOex919F", # kak try yani ok 
             "https://drive.google.com/uc?export=view&id=1V3XK9B_U5qiJhdRYJLJ0nZQcofj8nGgf", # kak dwi ok
             "https://drive.google.com/uc?export=view&id=1bKhXglpjBZT-LxgQ8ol6XquM90BjcRDj", # bang gym ok
