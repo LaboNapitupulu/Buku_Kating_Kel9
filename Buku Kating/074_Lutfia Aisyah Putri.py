@@ -1301,12 +1301,12 @@ else:
             "https://drive.google.com/uc?export=view&id=10IOZam_B8zrZTv-EH0SAb9UrqY2pJCSO", # kak arsyi ok
             "https://drive.google.com/uc?export=view&id=10JbY_dYbErs1rDf6LOpkSt705CcjocT8", # bang kai ok 
             "https://drive.google.com/uc?export=view&id=1a2sQgKTKc3q59rm_rzUqeAnj2Sd8MeyA", # bang arsal ok 
-            "https://drive.google.com/uc?export=view&id=1ZC2t3X8cXinn91O1q0H7WMHbd7KrhzI7", # kak elok ok
+            "https://drive.google.com/uc?export=view&id=1NgV2ufZdMGXyXECxYFDvVuqsvassHNv5", # kak elok ok
             "https://drive.google.com/uc?export=view&id=18vgM_K82ao9CTSIRyCM9oURIENsnFhsK", # kak juju ok
-            "https://drive.google.com/uc?export=view&id=1jfyvF-c6DTee33QpfbQOcGfyuUUzPA_8", # kak nel ok
-            "https://drive.google.com/uc?export=view&id=1vkU6ttm-0Lgsr42xzwjQXQqKLl15iiv1", # kak try yani ok 
+            "https://drive.google.com/uc?export=view&id=1j7gY6A0xGmqcoSV5Y86NhZUGnnyi2Raa", # kak nel ok
+            "https://drive.google.com/uc?export=view&id=1GNThrsqAcdi2Ig7KsFNm8TezeOex919F", # kak try yani ok 
             "https://drive.google.com/uc?export=view&id=1V3XK9B_U5qiJhdRYJLJ0nZQcofj8nGgf", # kak dwi ok
-            "https://drive.google.com/uc?export=view&id=1LbO21FN5937IZsxUM4n_Jg8OjdoUZpjy", # bang gym ok
+            "https://drive.google.com/uc?export=view&id=1bKhXglpjBZT-LxgQ8ol6XquM90BjcRDj", # bang gym ok
             "https://drive.google.com/uc?export=view&id=1lAxDfbxoOpxbw4Sgfsetg4TbTZYv7WkU", # kak nasywa  ok
             "https://drive.google.com/uc?export=view&id=1WFddmri3wuG6gk3huEnySJ5i3OjzdQNz", # kak priska ok
             "https://drive.google.com/uc?export=view&id=1HO9nPDMZ5GoeEzE_Dbt0XbyPnPp8w4RZ", # bang abit ok
