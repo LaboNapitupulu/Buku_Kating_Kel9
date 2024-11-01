@@ -1157,14 +1157,14 @@ elif menu == "Departemen SSD":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1lhK5_2GOiVO9VQ8YmWUp-tzT4PpjlQPi", #Bang Andrian ok
             "https://drive.google.com/uc?export=view&id=19OJDEWY7tkq1A3yFe05rqZ8q82k7z5Na", #Kak Adisty ok
-            "https://drive.google.com/uc?export=view&id=1Tj61nZIwbNbVRYsAN_qF6dxQiXL8P-gO",# Kak Nabila ok
-            "https://drive.google.com/uc?export=view&id=1knhzTqGI8d6d2yhW8yqpqfh22pXZI-8n",# Kak Nabilah ok
+            "https://drive.google.com/uc?export=view&id=1L04MBn0jRYm_JmTFgE2UlU2HfdCCCMVu",# Kak Nabila ok
+            "https://drive.google.com/uc?export=view&id=1Tj61nZIwbNbVRYsAN_qF6dxQiXL8P-gO",# Kak Nabilah ok
             "https://drive.google.com/uc?export=view&id=1cKXK0MzOcyCw_17x8SJ6Vog910aLsVCk",# Bang Ahmad ok
             "https://drive.google.com/uc?export=view&id=1IHW4OLG2VK7WaMlvaUgUYg4D-we_3PoP",# Bang Danang ok
             "https://drive.google.com/uc?export=view&id=1_rY7_kuxdrZ0qpDhwUzoctZzemkOjIjw",# Bang Farrel ok
             "https://drive.google.com/uc?export=view&id=185LxfpL7bAAUZYB9_bz3oh9PBa0vOu-b",# Kak Tessa ok
             "https://drive.google.com/uc?export=view&id=1Xlhj8aldO9kFSCx44cnAwitVceiZvAKj",# Kak Alvia
-            "https://drive.google.com/uc?export=view&id=1DUFlMAhodm34DOAz5CNVcda2bl4GIS2g",# Kak Dhafin ok
+            "https://drive.google.com/uc?export=view&id=18ea20rjYT9w3n1ln_Eslu39j0ovaORB5",# Kak Dhafin ok
             "https://drive.google.com/uc?export=view&id=1RxYxTvmnUAnPx8RCEbC9Ing39CMTZ7z5",# Kak Elia ok
 
         ]
