@@ -1000,11 +1000,11 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
-        "https://drive.google.com/uc?export=view&id=1QhHP16WqX36g4nwuaEIyK5jUf2906gnl", #BgDimas ok
+        "https://drive.google.com/uc?export=view&id=1wsyqOCOltm5jjzcfBZU5_i11m7o2KwfC", #BgDimas ok
         "https://drive.google.com/uc?export=view&id=1TR5sLk7VvElN9kY3DcWoCjKwhXrfN3rr", #Kak Catherine ok
-        "https://drive.google.com/uc?export=view&id=12WTXpxYpn8jwfixA9XbtgPgQQ-1daTy-", #Bg Akbar ok
+        "https://drive.google.com/uc?export=view&id=1wsyqOCOltm5jjzcfBZU5_i11m7o2KwfC", #Bg Akbar ok
         "https://drive.google.com/uc?export=view&id=1bGzZ67-Q37j1QSHu5WD7y_ik1BtdYkri", #Kak Rani ok
-        "https://drive.google.com/uc?export=view&id=1SD8xwVSJWx2y3hXmwcW2k4AbJmnMukSi", #Bg Rendra ok
+        "https://drive.google.com/uc?export=view&id=", #Bg Rendra ok
         "https://drive.google.com/uc?export=view&id=1Cz9BVD-1miCyabKj7cohgN35JsxvEwLN", #Kak Salwa ok
         "https://drive.google.com/uc?export=view&id=1GHP-VYCTnqN5lytO00tU0yiPAbMoOWfp", #Bg Ari ok 
         "https://drive.google.com/uc?export=view&id=1A5GkUZyIQUeEJWNGd8zqlUIq6Aim_AAF", #Kak Azizah ok
