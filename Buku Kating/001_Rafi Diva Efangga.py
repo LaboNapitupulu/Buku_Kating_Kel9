@@ -574,7 +574,7 @@ elif menu == "Departemen PSDA":
                 "kesan": "orang baik seru",  
                 "pesan": "tetep semangat terus kak" #18
             },       
-        ]
+            ]
         display_images_with_data(gambar_urls, data_list)
     psda()
 
@@ -767,6 +767,7 @@ elif menu == "Departemen Eksternal":
         "https://drive.google.com/uc?export=view&id=1RAoJ_IaaaESBWvep4jEbAmL8A2oZRRX_", #19 raid
         "https://drive.google.com/uc?export=view&id=1X6AUluzQQTRzMy45gyetcUEa5h28UOLG", #20 kak tria
         ]
+        
         data_list = [
             {
                 "nama": "Yogy Sae Tama",
@@ -988,7 +989,7 @@ elif menu == "Departemen Eksternal":
                 "kesan": "Keren kakaknya asik",  
                 "pesan": "Semangat kak kuliahnya dan semoga cepat lulus  "
             },
-        ]
+            ]
         display_images_with_data(gambar_urls, data_list)
     eksternal()
 
