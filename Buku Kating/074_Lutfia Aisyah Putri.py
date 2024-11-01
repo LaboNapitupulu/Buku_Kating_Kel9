@@ -1301,14 +1301,14 @@ else:
             "https://drive.google.com/uc?export=view&id=10IOZam_B8zrZTv-EH0SAb9UrqY2pJCSO", # kak arsyi ok
             "https://drive.google.com/uc?export=view&id=10JbY_dYbErs1rDf6LOpkSt705CcjocT8", # bang kai ok 
             "https://drive.google.com/uc?export=view&id=1a2sQgKTKc3q59rm_rzUqeAnj2Sd8MeyA", # bang arsal ok 
-            "https://drive.google.com/uc?export=view&id=1UbqZjF2m-CxtFSVqDCtNvAypC36doHGV", # kak elok ok
-            "https://drive.google.com/uc?export=view&id=1Z_N6wvEfPUNRRHFj2wTs4Rrr19oCIagG", # kak juju ok
+            "https://drive.google.com/uc?export=view&id=1ZC2t3X8cXinn91O1q0H7WMHbd7KrhzI7", # kak elok ok
+            "https://drive.google.com/uc?export=view&id=18vgM_K82ao9CTSIRyCM9oURIENsnFhsK", # kak juju ok
             "https://drive.google.com/uc?export=view&id=1jfyvF-c6DTee33QpfbQOcGfyuUUzPA_8", # kak nel ok
-            "https://drive.google.com/uc?export=view&id=1sasA0bKDJUFv4xkAPH1EhTw8hGqb2rK8", # kak try yani ok 
+            "https://drive.google.com/uc?export=view&id=1vkU6ttm-0Lgsr42xzwjQXQqKLl15iiv1", # kak try yani ok 
             "https://drive.google.com/uc?export=view&id=1V3XK9B_U5qiJhdRYJLJ0nZQcofj8nGgf", # kak dwi ok
-            "https://drive.google.com/uc?export=view&id=1U5kK4ELiiSJdMquK8GEsneRk7uByt2rz", # bang gym ok
+            "https://drive.google.com/uc?export=view&id=1LbO21FN5937IZsxUM4n_Jg8OjdoUZpjy", # bang gym ok
             "https://drive.google.com/uc?export=view&id=1lAxDfbxoOpxbw4Sgfsetg4TbTZYv7WkU", # kak nasywa  ok
-            "https://drive.google.com/uc?export=view&id=1HMnt5-nwk4JRuC0CSqXR8Dlb9JSWwQec", # kak priska ok
+            "https://drive.google.com/uc?export=view&id=1WFddmri3wuG6gk3huEnySJ5i3OjzdQNz", # kak priska ok
             "https://drive.google.com/uc?export=view&id=1HO9nPDMZ5GoeEzE_Dbt0XbyPnPp8w4RZ", # bang abit ok
             "https://drive.google.com/uc?export=view&id=1wf-KzZ0mTv-O4ln5D3Ug38C5_pbex-is", # bang hermawan ok ok
             "https://drive.google.com/uc?export=view&id=14oiGr2OXOHKYWlGmCyOvHAMrVnPCOZLN", # kak khusnun nisa ok
