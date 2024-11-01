@@ -742,7 +742,26 @@ elif menu == "Departemen MIKFES":
         ]
         display_images_with_data(gambar_urls, data_list)
     mikfes()
-    
+elif menu == "Departemen Eksternal":
+    def eksternal
+    gambar_urls = [
+        "https://drive.google.com/uc?export=view&id=1CAMYYR2u36AOqQcPpenJgr54YCMEf7Sb", #1 bang  yogy
+
+
+    ]
+        data_list = [
+        {
+                "nama": "Yogy Sae Tama",
+                "nim": "121450041",
+                "umur": "21",
+                "asal":"Tangerang",
+                "alamat": "Sukarame",
+                "hobi": "Tidur",
+                "sosmed": "@yogyyyyyyy",
+                "kesan": "abangnya kece",  
+                "pesan":"Semangat dan cepat lulus bang"
+            },
+            
 
 
 # Tambahkan menu lainnya sesuai kebutuhan
