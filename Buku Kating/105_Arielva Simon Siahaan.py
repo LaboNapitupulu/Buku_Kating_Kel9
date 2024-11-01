@@ -360,7 +360,6 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1ERSZ65YIRoEozAV_naqO1bIb33IbPX_h", #10
             "https://drive.google.com/uc?export=view&id=1HgcpzC2ZSOgfQCgvCB-qZwUYXeq95TNE", #15
             "https://drive.google.com/uc?export=view&id=1EOyibI8wPGoSSz47Xj6AjLbyo_D8GgJ-", #4
-            "https://drive.google.com/uc?export=view&id=1EOyibI8wPGoSSz47Xj6AjLbyo_D8GgJ-", #5
             "https://drive.google.com/uc?export=view&id=1VtwkbMM6JJ24x31hnVcPgxCza1CSn4Zy", #6
             "https://drive.google.com/uc?export=view&id=1lHLASEPIiMoKvMEVmnW_DwHmxxnG6Qgs", #7
             "https://drive.google.com/uc?export=view&id=1to0KxMO7jYMLa7A7C1Ck93lWcn6QXoj3", #8
@@ -439,17 +438,6 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@allyaislami_",
                 "kesan": "Kakak ini berwibawa dan tegas",  
                 "pesan": "Semangat kuliah dan membimbing angkatan 23 kak" #4
-            },
-            {
-                "nama": "Eksanty Febriana Sukma Islamiaty",
-                "nim": "122450001",
-                "umur": "20",
-                "asal":"Teluk Hantu",
-                "alamat": "Kampung Baru, dekat UNILA",
-                "hobi": "Shalat",
-                "sosmed": "@eksantyfebriana",
-                "kesan": "Kakak ini juga berwibawa dan tegas",  
-                "pesan": "Sukses kuliahnya kak" #5
             },
             {
                 "nama": "Farahanum Afifah Ardiansyah",
@@ -744,7 +732,7 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1mcmridsqxR8hDnI0ziNNNlbXI_Fx0pf4", #Bg Yogy
+            "https://drive.google.com/uc?export=view&id=1xYGR4T7uTwNHnMyqrzwoWjPX9CyhznWZ", #Bg Yogy
             "https://drive.google.com/uc?export=view&id=1mKtcgzhcxAm8X8xqKFBetdqTxuJqIlbp", #Kak Ramadhita ok
             "https://drive.google.com/uc?export=view&id=1m48kBFfy25AA-t49VL9Lej2KVh-uwRHN", #Kak Nazwa ok 
             "https://drive.google.com/uc?export=view&id=1lynUeFcI4A2EzqwFFv9brH_1dsWBs0pe", #Bg Bastian ok
@@ -755,15 +743,15 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1lr-_xzc_Od78wCNo8LtVxpytdgRYLtVP", #Kak Ratu ok
             "https://drive.google.com/uc?export=view&id=1ljxy5XW9srF4iCcbKs6lyCgLIO8rbF9v", #Bg Tobias
             "https://drive.google.com/uc?export=view&id=1lzZqLMPxM1gzbaTrezzhrSAYRE5U1vQi", #Kak Yohana
-            "https://drive.google.com/uc?export=view&id=1mpYwma3KptpVCPwlWKB2b31BGgAIW-G5", #Bg Rizki ok 
-            "https://drive.google.com/uc?export=view&id=1mCSeFV6I2OdZRXxQz4K0JKLEYqv2JRra", #Bg Arafi ok
-            "https://drive.google.com/uc?export=view&id=1muGUOoXotzF3lFGEM3YA-4-JliuJCuUY", #Kak Uyi 
-            "https://drive.google.com/uc?export=view&id=1mkxw_KUTshTltwIQlzq-Y-VtN_zH3Jko", #Kak Ocha
-            "https://drive.google.com/uc?export=view&id=1mcfKoc9bbkZwQbYSPoi1PyzGUfHFObGL", #Bang Irvan ok
-            "https://drive.google.com/uc?export=view&id=1m8dTA8t3vuDCmByREBE6PhtTRm8c_jjc", #Kak Izza ok 
+            "https://drive.google.com/uc?export=view&id=1iktv6mu_Du7odMr6YfueCC3t97vOuTEC", #Bg Rizki ok 
+            "https://drive.google.com/uc?export=view&id=1pg6LLZVUghzPRdxhCuv2dai0BuS47F9F", #Bg Arafi ok
+            "https://drive.google.com/uc?export=view&id=1VZ0x73zinSLBLsa2tWhELJbbUkhtzx8a", #Kak Uyi 
+            "https://drive.google.com/uc?export=view&id=1b3SNrJmItCGVYI_Atdw7yttV-QQXOwiH", #Kak Ocha
+            "https://drive.google.com/uc?export=view&id=1WaVjg4dqNl6pKHgBzhuWe0gKo4uNMHTr", #Bang Irvan ok
+            "https://drive.google.com/uc?export=view&id=11BIOzKYW_0esTEIVPgSvXywsuGMhLpoo", #Kak Izza ok 
             "https://drive.google.com/uc?export=view&id=1lcNHUkmRn7hI5t_uDfC_WFqgfYKepIKl", #Kak Khaalishah ok
-            "https://drive.google.com/uc?export=view&id=1mJ57SjgjAK5ROESDIMtw0VVIqOt03C8g", #Bang Raid ok
-            "https://drive.google.com/uc?export=view&id=1m87oPmLSVQTjF7ArflohDd4tR3xHIfev", #Kak Yuna
+            "https://drive.google.com/uc?export=view&id=10_W2DjYUYYJnJNEZltsYsLsHj_s6___5", #Bang Raid ok
+            "https://drive.google.com/uc?export=view&id=1mtgASftE-QPEqAoPG5242q6IPv7eO4Fk", #Kak Yuna
         ]
         data_list = [
             {
