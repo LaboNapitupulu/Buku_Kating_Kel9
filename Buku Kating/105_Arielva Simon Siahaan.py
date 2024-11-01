@@ -981,15 +981,15 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1EQ7NahZ_DqcE66rDcgluHgGUiJa-iHVo", #BgDimas, belum
-            "https://drive.google.com/uc?export=view&id=1w1vI3aMr7a07NmIGct4aLwVJRaEweUyx", #Bg Akbar ok
+            "https://drive.google.com/uc?export=view&id=10QMJUbQld0AtvfC-kMZ2oOGtjcDGa5O0", #BgDimas, belum
             "https://drive.google.com/uc?export=view&id=1ON1SkyDnYDY-2qMA322NIMGSF01JXTIP", #Kak Catherine, belum
-            "https://drive.google.com/uc?export=view&id=1uLLZBNSLfGYtUwSszJWsFDSTRWAIDgnX", #Bg Ari ok 
-            "https://drive.google.com/uc?export=view&id=1o6cMoUx6aOvmOB7woMHzH87GttQ2cI-Z", #Bg Josua ok
+            "https://drive.google.com/uc?export=view&id=1w1vI3aMr7a07NmIGct4aLwVJRaEweUyx", #Bg Akbar ok
             "https://drive.google.com/uc?export=view&id=1zPyXf2eIs0-MStO1JbaXQCtulWMOR9uq", #Kak Rani _
             "https://drive.google.com/uc?export=view&id=1diCWAW9QKt9ZNxoQ_yzgLv-5Q1DrZnTN", #Bg Rendra ok
             "https://drive.google.com/uc?export=view&id=19LfsWz24NVQGZ7xzeT52NhIdB9vUZ_3I", #Kak Salwa ok
+            "https://drive.google.com/uc?export=view&id=1uLLZBNSLfGYtUwSszJWsFDSTRWAIDgnX", #Bg Ari ok 
             "https://drive.google.com/uc?export=view&id=1OLlXgbTrdJHyfohxgxwkYFeAK9ha8VBM", #Kak Azizah ok
+            "https://drive.google.com/uc?export=view&id=1o6cMoUx6aOvmOB7woMHzH87GttQ2cI-Z", #Bg Josua ok
             "https://drive.google.com/uc?export=view&id=1kvHGOqr61Rs1zS3WBup9M0sbf8xBVRh8", #Kak Meira ok
             "https://drive.google.com/uc?export=view&id=1orzupIwtaTiM7EAVqhLfmqVgfTI_-Y-5", #Bg Rendi ok
             "https://drive.google.com/uc?export=view&id=1BvUpb1foX4o0vYYRolVgOvS5tbP17RJL", #kak Renta ok
