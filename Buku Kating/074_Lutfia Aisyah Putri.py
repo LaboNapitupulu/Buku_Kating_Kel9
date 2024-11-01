@@ -750,8 +750,8 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
-        "https://drive.google.com/uc?export=view&id=1goljqkhAgCwWIB9vLkbZ6kHfhzhbYoJi", #Bg Yogy ok
-        "https://drive.google.com/uc?export=view&id=1-5gqsvWUXikpJHSQ9iGVR8o3RsKQ8jfF", #Kak Ramadhita ok
+        "https://drive.google.com/uc?export=view&id=1qPVvpiC5FmNTgIDp1gpiY5CH1Qe24dVb", #Bg Yogy ok
+        "https://drive.google.com/uc?export=view&id=1tAiYANqsUM1VL52jPryKT532nc0MSvjI", #Kak Ramadhita ok
         "https://drive.google.com/uc?export=view&id=1Z9SftBE4eNyvLkbImKohCc7K9HFm2XfU", #Kak Nazwa ok 
         "https://drive.google.com/uc?export=view&id=1z8Hqkx7dN9b9az1mKlsWKlMrOSvQ5CAy", #Bg Bastian ok
         "https://drive.google.com/uc?export=view&id=1FZLnWIJAZqP-48Orf-5ZX58Ci2JtTI6U", #Kak Dea ok
@@ -769,7 +769,7 @@ elif menu == "Departemen Eksternal":
         "https://drive.google.com/uc?export=view&id=1iCK9aICSzGIkbnQHdAC65jnmlPgkrCVa", #Kak Izza ok 
         "https://drive.google.com/uc?export=view&id=1mLRYsTiOn6w8cdZjHP_QaJ87r14aODcS", #Kak Khaalishah ok
         "https://drive.google.com/uc?export=view&id=1FQ-fxvLPkQu376U8ZelrruA-X4HOCuy9", #Bang Raid ok
-        "https://drive.google.com/uc?export=view&id=1iIDp7EqqGWmVLh-4PT47w3CcEOH6uw_4", #Kak Tria ok
+        "https://drive.google.com/uc?export=view&id=17pGeC87NKutVf5iYRpNFgxwgt-a5iwVM", #Kak Tria ok
         ]
         data_list = [
             {
