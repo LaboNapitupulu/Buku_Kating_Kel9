@@ -365,10 +365,10 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1wWXm_8edhA-lncVM6TOxeT02CxtipTYC", #Kak Afifah
             "https://drive.google.com/uc?export=view&id=1ci4JpuQmu_XTpKObwJipvs8c0EqyRdtp", #Kak Allya
             "https://drive.google.com/uc?export=view&id=1ffvp-xkP44fcg5rEkSqrEPW8DQPIMGr2", #Kak Eksanty
-            "https://drive.google.com/uc?export=view&id=1XsFK67cjvUg4Ui5hxT66SYOMWkudDKSc", #Kak Anum
+            "https://drive.google.com/uc?export=view&id=1dNkl23XuI8tVgVjvyeTDlUXTThGRKsK6", #Kak Anum
             "https://drive.google.com/uc?export=view&id=1RUaqKpDXZoQ8pyxJXnZkSa7QsR4HTUpj", #Bang Ferdy
             "https://drive.google.com/uc?export=view&id=1H_WDjiYFDKCsiQuIcTCwjoBAGVdlje1j", #Bang Deri
-            "https://drive.google.com/uc?export=view&id=1nxUwX8N-x6nHIGduHzaxZdX0XHj7Pcnt", #Kak Okta
+            "https://drive.google.com/uc?export=view&id=18oCFPkTFlErClE6exnu-7d5sfn9OUcst", #Kak Okta
             "https://drive.google.com/uc?export=view&id=1hm_8shp4zf_QQgFJ4qx9ZwwHsQkTACvQ", #Bang Deyvan
             "https://drive.google.com/uc?export=view&id=1MAV2-WYqZZvYkXSU_vyEeEajINYJiI1v", #Bang Jo
             "https://drive.google.com/uc?export=view&id=1eqO0e3sD9aGe6N1z1-ZVGL8Ixep2yaWX", #Bang Kemas
