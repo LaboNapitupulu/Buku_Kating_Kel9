@@ -1342,6 +1342,39 @@ elif menu == "Departemen MEDKRAF":
                 "kesan": "Hobbii nyaa sangatt bermanfaatt",  
                 "pesan":"Semoga bisa dapat tutor rajin baca dari kakaknya !!!"#12
             },
+            {
+                "nama": "Meira Listyaningrum",
+                "nim": "122450011",
+                "umur": "20",
+                "asal":"Pesawaran",
+                "alamat": "Airan",
+                "hobbi": "Membaca",
+                "sosmed": "@meiralsty_",
+                "kesan": "Kakaknyaa rajinn ibadahhh",  
+                "pesan":"Semogaa kakakknyaa selalu diberkatii !!!"#13
+            },
+            {
+                "nama": "Rendi Alexander Hutagalung",
+                "nim": "122450057",
+                "umur": "20",
+                "asal":"Tangerang",
+                "alamat": "Kos Benawang",
+                "hobbi": "Nyanyi",
+                "sosmed": "@rexanderr",
+                "kesan": "Bang rendiii mudah senyum dan ramah ke semua orang",  
+                "pesan":"Lancar terus yaa bang ngodingnya !!!"#14
+            },
+            {
+                "nama": "Renta Siahaan",
+                "nim": "122450070",
+                "umur": "21",
+                "asal":"Sumatera Utara",
+                "alamat": "Sukarame",
+                "hobbi": "Membaca",
+                "sosmed": "@renta.shn",
+                "kesan": "Hobbii nyaa sangatt bermanfaatt",  
+                "pesan":"Semoga bisa dapat tutor rajin baca dari kakaknya !!!"#15
+            },
             
         ]
         display_images_with_data(gambar_urls, data_list)
