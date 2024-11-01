@@ -1288,10 +1288,9 @@ elif menu == "Departemen SSD":
 else:
     def medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1br7HzfBKlqggyvJB-7g2zTGvkHW1zPZa", # bang tao
-            "https://drive.google.com/uc?export=view&id=1Qo4u57T-fx6sade2dbDDFTwPQRMvq8mN", # kak arsyi
-            "https://drive.google.com/uc?export=view&id=1Cky1n54EZLZ8b6agz1RG7i6sSP77fd9k", # bang kai
-            "https://drive.google.com/uc?export=view&id=1gc1NMsAwHbqh8R5yZb3_oqDjl4cuADs1", # bang arsal
+            "https://drive.google.com/uc?export=view&id=1OB-rMNrSYMsYO1PZzoAhdLdRV-TDMF06", # bang tao
+            "https://drive.google.com/uc?export=view&id=1XwkfUv7bEeGA4--dqVOiTQPmis9h-3mr", # kak arsyi
+            "https://drive.google.com/uc?export=view&id=1gWLuKmpYW6Ru4tqPpZsHNHy8szALtHs8", # bang arsal
             "https://drive.google.com/uc?export=view&id=1rExlZ0a-GL5SSSpkY6jw0WlkpriN81bc", # kak elok
             "https://drive.google.com/uc?export=view&id=1Q216IZ2qClxIKwk4wEBUOrtMyv-OE8Tn", # kak juju
             "https://drive.google.com/uc?export=view&id=1iv0F3SK_JKX4OgyZA_ka3dvm_5WxmWr1", # kak nel
@@ -1326,17 +1325,6 @@ else:
                 "sosmed": "@arsyiah._",
                 "kesan": "Kak Arsyi urang awak yaa?",
                 "pesan": "Semoga makin sukses, Kak!"
-            },
-            {
-                "nama": "Muhammad Kaisar Firdaus",
-                "nim": "121450135",
-                "umur": "21",
-                "asal": "Pesawaran",
-                "alamat": "Pulau Damar Way Kandis",
-                "hobi": "Lagi Nyari",
-                "sosmed": "@dino_lapet",
-                "kesan": "Bang Kaisar sans abiss!",
-                "pesan": "Sehat-sehat yaa bang"
             },
             {
                 "nama": "Muhammad Arsal Ranjana Utama",
