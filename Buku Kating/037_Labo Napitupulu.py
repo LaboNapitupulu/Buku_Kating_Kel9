@@ -832,8 +832,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukabumi",
                 "hobi": "Menonton Film",
                 "sosmed": "@esteriars",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "Kakak ini murah senyum banget",  
+                "pesan":"Semangat kuliahnya kak"
             },
             {
                 "nama": "Natasya Ega Lina Marbun",
@@ -843,8 +843,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Jl. Manggis 2",
                 "hobi": "Mendengarkan Lagu, Menyanyi",
                 "sosmed": "@nateee__15",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "Kakak ini kalau ngomong cepet tapi tegas",  
+                "pesan":"Semangat humas abadi "
             },
             {
                 "nama": "Novelia Adinda",
@@ -854,8 +854,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobi": "Tidur",
                 "sosmed": "@nvliaadinda",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "Kakak ini dari luar kayak pendiem gitu padahal asik",  
+                "pesan":"Semangat kuliahnya kak"
             },
             {
                 "nama": "Ratu Keisha Jasmine Deanova",
@@ -865,8 +865,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Kandis",
                 "hobi": "Minum Es Teh",
                 "sosmed": "@jasminednva",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "Kakak ini super anggun",  
+                "pesan":"Semangat kuliahnya kak"
             },
             {
                 "nama": "Tobias David Manogari",
@@ -876,8 +876,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Kelengkeng 14 (Pemda)",
                 "hobi": "Baca Buku",
                 "sosmed": "@tobiassiagian",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "Abang ini kalau lagi formal sopan banget ",  
+                "pesan":"Semangat terus kuliahnya bang"
             },
             {
                 "nama": "Yohana Manik",
@@ -887,8 +887,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobi": "Belajar",
                 "sosmed": "@yo_anamnk",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "Kakak ini ga banyak ngomong tapi suka ketawa ",  
+                "pesan":"Semangat terus kuliahnya kak"
             },
             {
                 "nama": "Rizki Adrian Bennovry",
