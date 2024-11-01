@@ -1472,7 +1472,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "DIY pake printera",
                 "sosmed": "@khusnun_nisa335",
                 "kesan": "Hobbii nyaa unik sekalii",  
-                "pesan":"Lanacarrr dann dipermudahh ya kakk semester ini!!!"#15
+                "pesan":"Lancarrr dann dipermudahh ya kakk semester ini!!!"#15
             },
             
         ]
