@@ -752,24 +752,24 @@ elif menu == "Departemen Eksternal":
         gambar_urls = [
         "https://drive.google.com/uc?export=view&id=1qPVvpiC5FmNTgIDp1gpiY5CH1Qe24dVb", #Bg Yogy ok
         "https://drive.google.com/uc?export=view&id=1tAiYANqsUM1VL52jPryKT532nc0MSvjI", #Kak Ramadhita ok
-        "https://drive.google.com/uc?export=view&id=1Z9SftBE4eNyvLkbImKohCc7K9HFm2XfU", #Kak Nazwa ok 
-        "https://drive.google.com/uc?export=view&id=1z8Hqkx7dN9b9az1mKlsWKlMrOSvQ5CAy", #Bg Bastian ok
-        "https://drive.google.com/uc?export=view&id=1FZLnWIJAZqP-48Orf-5ZX58Ci2JtTI6U", #Kak Dea ok
-        "https://drive.google.com/uc?export=view&id=1PTz9fbeIyvUo015QiVfpcvVo0OjbVlYm", #Kak Esteria ok
-        "https://drive.google.com/uc?export=view&id=132m9wfOAyGZdDKfIvy5NOOggnMtqB48L", #Kak Natasya ok
-        "https://drive.google.com/uc?export=view&id=1sbYlzaoC8JCNN2kXBQB8lvB821wbTC6U", #Kak Novelia ok
-        "https://drive.google.com/uc?export=view&id=1aaxXV_zBA1jZTyfFGtqxKMaURXmPsyTF", #Kak Ratu ok
+        "https://drive.google.com/uc?export=view&id=1unxwiOA3L6Kz3nmaJy5XguIb9DH7iMDf", #Kak Nazwa ok 
+        "https://drive.google.com/uc?export=view&id=112VkeCu3AQLzHZkXurDtOizM5hcCIR_qz", #Bg Bastian ok
+        "https://drive.google.com/uc?export=view&id=1ZnAzTAnwrNvFL-SOtsJ4qD8iDnL2QrRU", #Kak Dea ok
+        "https://drive.google.com/uc?export=view&id=13tF2dBMAsLwjto2_jvukzq7ITfVO69rk", #Kak Esteria ok
+        "https://drive.google.com/uc?export=view&id=1VzWgtrbimfNc-njYOiRQaQQ8RT6Ryryc", #Kak Natasya ok
+        "https://drive.google.com/uc?export=view&id=1f5FyQUK9mAP7I3ZC716bZ-EOfGonoduv", #Kak Novelia ok
+        "https://drive.google.com/uc?export=view&id=1o2s04Vzuk-dHj-Xrin8FYrmuybetzB0t", #Kak Ratu ok
         "https://drive.google.com/uc?export=view&id=1jxXCO0MbP7XD0EyzdDse-QO9IBohR057", #Bg Tobias ok
-        "https://drive.google.com/uc?export=view&id=1Z9SftBE4eNyvLkbImKohCc7K9HFm2XfU", #Kak Yohana ok 
-        "https://drive.google.com/uc?export=view&id=1zWLp-Q2swAMkSXEA8OOXb7Eznu7p23pl", #Bg Rizki ok 
+        "https://drive.google.com/uc?export=view&id=1FdlnU9yaMpBVVX5JGJaxmEBejZFR8Pob", #Kak Yohana ok 
+        "https://drive.google.com/uc?export=view&id=17pGeC87NKutVf5iYRpNFgxwgt-a5iwVM", #Bg Rizki ok 
         "https://drive.google.com/uc?export=view&id=1pH4ZNa8m1Q0F8xfTbSjuU00O98PFCHXx", #Bg Arafi ok
-        "https://drive.google.com/uc?export=view&id=1n9kA7SpNliH9h9rUzDMyUBEeoBX3-T3i", #Kak Asa ok 
-        "https://drive.google.com/uc?export=view&id=1oPxAfK9m0PU50qszwDq_tbs3mAPoh5ye", #Kak Chalifia ok
-        "https://drive.google.com/uc?export=view&id=1NKpmZS9JWvfzG_tEC07EAcNbsLSExQQq", #Bang Irvan ok
-        "https://drive.google.com/uc?export=view&id=1iCK9aICSzGIkbnQHdAC65jnmlPgkrCVa", #Kak Izza ok 
-        "https://drive.google.com/uc?export=view&id=1mLRYsTiOn6w8cdZjHP_QaJ87r14aODcS", #Kak Khaalishah ok
-        "https://drive.google.com/uc?export=view&id=1FQ-fxvLPkQu376U8ZelrruA-X4HOCuy9", #Bang Raid ok
-        "https://drive.google.com/uc?export=view&id=17pGeC87NKutVf5iYRpNFgxwgt-a5iwVM", #Kak Tria ok
+        "https://drive.google.com/uc?export=view&id=1hwKQp7nnOJyLu6WlUQ8W_zdCUDLSsKjs", #Kak Asa ok 
+        "https://drive.google.com/uc?export=view&id=109BKfYa4iPdnxxc7DLQ77C6Ir_yQHROa", #Kak Chalifia ok
+        "https://drive.google.com/uc?export=view&id=1avUfLZ5A1Rsqvags3vjNjjvvnIdNWmlq", #Bang Irvan ok
+        "https://drive.google.com/uc?export=view&id=109BKfYa4iPdnxxc7DLQ77C6Ir_yQHROa", #Kak Izza ok 
+        "https://drive.google.com/uc?export=view&id=1OW9ufnR-YpeaB8ky36wX_BtbV9vSC-tq", #Kak Khaalishah ok
+        "https://drive.google.com/uc?export=view&id=1HCPQTGu8zIm0VEH-DwK7UlUi2aHepNjI", #Bang Raid ok
+        "https://drive.google.com/uc?export=view&id=1FN_EiiVjp_4oHUR5esr8asBW3cIV9PKH", #Kak Tria ok
         ]
         data_list = [
             {
