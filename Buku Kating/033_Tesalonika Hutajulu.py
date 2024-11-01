@@ -1011,8 +1011,8 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1s62MuQL6HSTLYCe-qJUQBx_e5Mhl5B99",#3
             "https://drive.google.com/uc?export=view&id=12WTXpxYpn8jwfixA9XbtgPgQQ-1daTy-",#4
             "https://drive.google.com/uc?export=view&id=1peIIeoPzT-fAXSxLILYz7oxVLrbEy210",#5
-            "https://drive.google.com/uc?export=view&id=1hwjhCSfiVsiLdjbgCKsqbk449V3Tc8AU",#6
-            "https://drive.google.com/uc?export=view&id=1_8_sRnfDGDhkKCnprzAzZyT72i1rN2G6",#7
+            "https://drive.google.com/uc?export=view&id=1_8_sRnfDGDhkKCnprzAzZyT72i1rN2G6",#6
+            "https://drive.google.com/uc?export=view&id=1hwjhCSfiVsiLdjbgCKsqbk449V3Tc8AU",#7
             "https://drive.google.com/uc?export=view&id=1k_RVfUnh1HjCvTAsGBqz9En8CxuEXoSA",#8
             "https://drive.google.com/uc?export=view&id=19YN9DUOrKqDpOpi-6XNlTU3Y1OMQCgjc",#9
             "https://drive.google.com/uc?export=view&id=13ZnKVJxOPmDOqDYo4Ezwy1vTo3l6du9B",#10
