@@ -1165,7 +1165,7 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=185LxfpL7bAAUZYB9_bz3oh9PBa0vOu-b",# Kak Tessa ok
             "https://drive.google.com/uc?export=view&id=1Xlhj8aldO9kFSCx44cnAwitVceiZvAKj",# Kak Alvia
             "https://drive.google.com/uc?export=view&id=18ea20rjYT9w3n1ln_Eslu39j0ovaORB5",# Kak Dhafin ok
-            "https://drive.google.com/uc?export=view&id=15s1ySekIydF2UvmVRgegj4fyK5qqwIZH",# Kak Elia ok
+            "https://drive.google.com/uc?export=view&id=15s1ySekIydF2UvmVRgegj4fyK5qqwIZH",# Kak Elia 
 
         ]
         data_list = [
