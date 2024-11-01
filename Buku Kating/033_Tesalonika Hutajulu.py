@@ -398,7 +398,7 @@ elif menu == "Departemen PSDA":
                 "umur": "20",
                 "asal":"Tangerang",
                 "alamat": "Owen kos, Sukarame",
-                "hobbi": "Mendengarkan Lagu",
+                "hobbi": "Memancing keributan",
                 "sosmed": "@elisabethh_",
                 "kesan": "Kakaknya ngejelasin materi bagus banget",  
                 "pesan":"semogaa kakaknyaa bisa cepatt lulus yaa !!!"#2
