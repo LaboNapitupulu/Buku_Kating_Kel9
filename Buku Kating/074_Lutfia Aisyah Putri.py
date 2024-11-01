@@ -1004,7 +1004,7 @@ elif menu == "Departemen Internal":
         "https://drive.google.com/uc?export=view&id=1TR5sLk7VvElN9kY3DcWoCjKwhXrfN3rr", #Kak Catherine ok
         "https://drive.google.com/uc?export=view&id=1A9M4CA7khTW6kNkGVc0goh34qX6qfxEs", #Bg Akbar ok
         "https://drive.google.com/uc?export=view&id=1bGzZ67-Q37j1QSHu5WD7y_ik1BtdYkri", #Kak Rani ok
-        "https://drive.google.com/uc?export=view&id=", #Bg Rendra ok
+        "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Rendra ok
         "https://drive.google.com/uc?export=view&id=1Cz9BVD-1miCyabKj7cohgN35JsxvEwLN", #Kak Salwa ok
         "https://drive.google.com/uc?export=view&id=1GHP-VYCTnqN5lytO00tU0yiPAbMoOWfp", #Bg Ari ok 
         "https://drive.google.com/uc?export=view&id=1A5GkUZyIQUeEJWNGd8zqlUIq6Aim_AAF", #Kak Azizah ok
