@@ -732,7 +732,7 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1xYGR4T7uTwNHnMyqrzwoWjPX9CyhznWZ", #Bg Yogy
+            "https://drive.google.com/uc?export=view&id=1CaG3CanFqhgz9XbECqTYnPy-mk9ABVRO", #Bg Yogy
             "https://drive.google.com/uc?export=view&id=1mKtcgzhcxAm8X8xqKFBetdqTxuJqIlbp", #Kak Ramadhita ok
             "https://drive.google.com/uc?export=view&id=1m48kBFfy25AA-t49VL9Lej2KVh-uwRHN", #Kak Nazwa ok 
             "https://drive.google.com/uc?export=view&id=1lynUeFcI4A2EzqwFFv9brH_1dsWBs0pe", #Bg Bastian ok
