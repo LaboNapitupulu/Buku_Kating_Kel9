@@ -733,25 +733,25 @@ elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1CaG3CanFqhgz9XbECqTYnPy-mk9ABVRO", #Bg Yogy
-            "https://drive.google.com/uc?export=view&id=1mKtcgzhcxAm8X8xqKFBetdqTxuJqIlbp", #Kak Ramadhita ok
+            "https://drive.google.com/uc?export=view&id=1Svfcib2B-eaL5IHR6rnYCy6fNHU04KVM", #Kak Ramadhita ok
             "https://drive.google.com/uc?export=view&id=1m48kBFfy25AA-t49VL9Lej2KVh-uwRHN", #Kak Nazwa ok 
-            "https://drive.google.com/uc?export=view&id=1lynUeFcI4A2EzqwFFv9brH_1dsWBs0pe", #Bg Bastian ok
-            "https://drive.google.com/uc?export=view&id=1liJDl7Kl71nN5vnrDBHsR0SeKSe_0P4u", #Kak Dea
-            "https://drive.google.com/uc?export=view&id=1lpVmuxwkJlLQS8ixQYo8MMOTjoW0i8A1", #Kak Esteria ok
-            "https://drive.google.com/uc?export=view&id=1ldDwVb7hoAiaCghF_ELRImuYX_n76P8-", #Kak Natasya
-            "https://drive.google.com/uc?export=view&id=1m30wP_uVkKM9K8KCTJchc-XrM8bn6u-w", #Kak Novelia ok
-            "https://drive.google.com/uc?export=view&id=1lr-_xzc_Od78wCNo8LtVxpytdgRYLtVP", #Kak Ratu ok
-            "https://drive.google.com/uc?export=view&id=1ljxy5XW9srF4iCcbKs6lyCgLIO8rbF9v", #Bg Tobias
-            "https://drive.google.com/uc?export=view&id=1lzZqLMPxM1gzbaTrezzhrSAYRE5U1vQi", #Kak Yohana
-            "https://drive.google.com/uc?export=view&id=1iktv6mu_Du7odMr6YfueCC3t97vOuTEC", #Bg Rizki ok 
-            "https://drive.google.com/uc?export=view&id=1pg6LLZVUghzPRdxhCuv2dai0BuS47F9F", #Bg Arafi ok
-            "https://drive.google.com/uc?export=view&id=1VZ0x73zinSLBLsa2tWhELJbbUkhtzx8a", #Kak Uyi 
-            "https://drive.google.com/uc?export=view&id=1b3SNrJmItCGVYI_Atdw7yttV-QQXOwiH", #Kak Ocha
-            "https://drive.google.com/uc?export=view&id=1WaVjg4dqNl6pKHgBzhuWe0gKo4uNMHTr", #Bang Irvan ok
-            "https://drive.google.com/uc?export=view&id=11BIOzKYW_0esTEIVPgSvXywsuGMhLpoo", #Kak Izza ok 
+            "https://drive.google.com/uc?export=view&id=1Z5NEheJD4i5qnBtqnrK7TiCRTFGZTSKM", #Bg Bastian ok
+            "https://drive.google.com/uc?export=view&id=1lynUeFcI4A2EzqwFFv9brH_1dsWBs0pe", #Kak Dea
+            "https://drive.google.com/uc?export=view&id=1liJDl7Kl71nN5vnrDBHsR0SeKSe_0P4u", #Kak Esteria ok
+            "https://drive.google.com/uc?export=view&id=1lpVmuxwkJlLQS8ixQYo8MMOTjoW0i8A1", #Kak Natasya
+            "https://drive.google.com/uc?export=view&id=1ldDwVb7hoAiaCghF_ELRImuYX_n76P8-", #Kak Novelia ok
+            "https://drive.google.com/uc?export=view&id=1m30wP_uVkKM9K8KCTJchc-XrM8bn6u-w", #Kak Ratu ok
+            "https://drive.google.com/uc?export=view&id=1lr-_xzc_Od78wCNo8LtVxpytdgRYLtVP", #Bg Tobias
+            "https://drive.google.com/uc?export=view&id=1ljxy5XW9srF4iCcbKs6lyCgLIO8rbF9v", #Kak Yohana
+            "https://drive.google.com/uc?export=view&id=1lzZqLMPxM1gzbaTrezzhrSAYRE5U1vQi", #Bg Rizki ok 
+            "https://drive.google.com/uc?export=view&id=1JXcoTIIvjyuvijRk3njmuiPMtDnEEFGp", #Bg Arafi ok
+            "https://drive.google.com/uc?export=view&id=1kk_xVyo6NZnpO5YhlJ-byFA_7iFzaKLF", #Kak Uyi 
+            "https://drive.google.com/uc?export=view&id=1uTtkC0Lwwo76p1ODo6zIi9yMScgGuEYQ", #Kak Ocha
+            "https://drive.google.com/uc?export=view&id=1VDNqwdm_X3TtnSl-WueTeb4W7JzVSJ1w", #Bang Irvan ok
+            "https://drive.google.com/uc?export=view&id=1SgLba1oQWC9j-SDx-O4pQxgklVNhklX_", #Kak Izza ok 
             "https://drive.google.com/uc?export=view&id=1lcNHUkmRn7hI5t_uDfC_WFqgfYKepIKl", #Kak Khaalishah ok
-            "https://drive.google.com/uc?export=view&id=10_W2DjYUYYJnJNEZltsYsLsHj_s6___5", #Bang Raid ok
-            "https://drive.google.com/uc?export=view&id=1mtgASftE-QPEqAoPG5242q6IPv7eO4Fk", #Kak Yuna
+            "https://drive.google.com/uc?export=view&id=1THxKIWP3Jbgr87SEbC8CycJja3tsu_08", #Bang Raid ok
+            "https://drive.google.com/uc?export=view&id=1CsXaevBQQKFb1Hg3qI1NUfRhRrJYKGIU", #Kak Yuna
         ]
         data_list = [
             {
@@ -786,6 +786,17 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@nazwanbilla",
                 "kesan": "Kakak ini juga cukup pendiem di wawancara",  
                 "pesan": "Semangat kuliahnya juga kak"
+            },
+            {
+                "nama": "Rizki Adrian Bennovry",
+                "nim": "121450073",
+                "umur": "21",
+                "asal": "Bekasi",
+                "alamat": "TVRI",
+                "hobi": "",
+                "sosmed": "@rzkdrnnn",
+                "kesan": "",
+                "pesan": ""
             },
             {
                 "nama": "Bastian Heskia Silaban",
@@ -875,18 +886,7 @@ elif menu == "Departemen Eksternal":
                 "kesan": "Kakak ini diantara pendiem dan aktif pas wawancara",  
                 "pesan":"Semangat kuliahnya kak"
             },
-            {
-                "nama": "Rizki Adrian Bennovry",
-                "nim": "121450073",
-                "umur": "21",
-                "asal": "Bekasi",
-                "alamat": "TVRI",
-                "hobi": "",
-                "sosmed": "@rzkdrnnn",
-                "kesan": "Abang ini cukup aktif di wawancara",  
-                "pesan": "Semangat kuliahnya juga bang"
-            },
-            {
+             {
                 "nama": "Arafi Ramadhan Maulana",
                 "nim": "122450002",
                 "umur": "20",
@@ -908,7 +908,7 @@ elif menu == "Departemen Eksternal":
                 "kesan": "Kakak ini sepertinya cukup aktif berkegiatan",  
                 "pesan": "Semangat kuliah dan hal lain yang dikerjakan kak"
             },
-            {
+             {
                 "nama": "Chalifia Wananda",
                 "nim": "122450076",
                 "umur": "20",
@@ -984,7 +984,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1RF95TCCGRAVaIYRECzNtc3f6U2S7dKDC", #BgDimas, belum
             "https://drive.google.com/uc?export=view&id=1ON1SkyDnYDY-2qMA322NIMGSF01JXTIP", #Kak Catherine, belum
             "https://drive.google.com/uc?export=view&id=1w1vI3aMr7a07NmIGct4aLwVJRaEweUyx", #Bg Akbar ok
-            "https://drive.google.com/uc?export=view&id=1zPyXf2eIs0-MStO1JbaXQCtulWMOR9uq", #Kak Rani _
+            "https://drive.google.com/uc?export=view&id=1Jk2uxKwGi5v4jLFb9yaM8fF92W4NbyZG", #Kak Rani _
             "https://drive.google.com/uc?export=view&id=1diCWAW9QKt9ZNxoQ_yzgLv-5Q1DrZnTN", #Bg Rendra ok
             "https://drive.google.com/uc?export=view&id=19LfsWz24NVQGZ7xzeT52NhIdB9vUZ_3I", #Kak Salwa ok
             "https://drive.google.com/uc?export=view&id=1uLLZBNSLfGYtUwSszJWsFDSTRWAIDgnX", #Bg Ari ok 
