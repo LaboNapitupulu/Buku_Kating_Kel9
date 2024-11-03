@@ -888,7 +888,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Belajar",
                 "sosmed": "@yo_anamnk",
                 "kesan": "Kakak ini ga banyak ngomong tapi suka ketawa ",  
-                "pesan":"Semangat terus kuliahnya kak"
+                "pesan":"Semangat belajar dan jadi panitia natal kak"
             },
             {
                 "nama": "Rizki Adrian Bennovry",
@@ -898,8 +898,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "TVRI",
                 "hobi": "",
                 "sosmed": "@rzkdrnnn",
-                "kesan": "Abang ini baik banget",  
-                "pesan": "Semoga cepat lulus bang"
+                "kesan": "Abang ini ganteng bener",  
+                "pesan": "Semoga bisa jadi lead vocal grup band metal"
             },
             {
                 "nama": "Arafi Ramadhan Maulana",
@@ -910,7 +910,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Memasak",
                 "sosmed": "@arafiramadhanmaulana",
                 "kesan": "Abang ini lumayan kalem",  
-                "pesan": "Semangat terus kuliahnya bang"
+                "pesan": "Semoga bisa jadi chef terus berbakti buat masyarakat (pengmas abis)"
             },
             {
                 "nama": "Asa Do'a Uyi",
@@ -920,8 +920,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Jl. Pembangunan Korpri",
                 "hobi": "Cari Ice Breaking",
                 "sosmed": "@u_yippy",
-                "kesan": "Kakak ini agak pendiem",  
-                "pesan": "Semangat kuliahnya kak"
+                "kesan": "Kakak ini kalo misal belum kenal kayaknya ga banyak ngomong, tapi kalo sama temennya asik ngobrolnya",  
+                "pesan": "Ayo kita banyak bercengkrama kak"
             },
             {
                 "nama": "Chalifia Wananda",
@@ -954,7 +954,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Mengabdi",
                 "sosmed": "@izzalutfiaa",
                 "kesan": "Kakak ini baik, ambis, suka ketawa, multitasking parah, jago ngomong, dan masih banyak hal baik lainnya",  
-                "pesan": "Sehat-sehat orang teluk"
+                "pesan": "Sehat selalu orang paling sibuk se-Teluk"
             },
             {
                 "nama": "Khaalishah Zuhrah Alyaa Vanefi",
