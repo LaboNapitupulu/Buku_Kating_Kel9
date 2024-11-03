@@ -108,7 +108,7 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama"	    : "Kharisma Gumilang",
+                "nama"	    : "Kharisma Gumilang", #1
                 "nim"		: "121450142",
                 "umur"	    : "21",
                 "asal"		:" Palembang",
@@ -120,7 +120,7 @@ if menu == "Kesekjenan":
 
             },
             {
-                "nama"	    : "Pandra Insani Putra Azwar",
+                "nama"	    : "Pandra Insani Putra Azwar", #2
                 "nim"		: "121450137",
                 "umur"	    : "21",
                 "asal"		:" Lampung Utara",
@@ -131,7 +131,7 @@ if menu == "Kesekjenan":
                 "pesan"	    : "See you di MSS Bu Luluk bangg"# 2
             },
             {
-                "nama"	    : "Meliza Wulandari",
+                "nama"	    : "Meliza Wulandari", #3
                 "nim"		: "121450065",
                 "umur"	    : "20",
                 "asal"		:" Pagar Alam",
@@ -142,7 +142,7 @@ if menu == "Kesekjenan":
                 "pesan"	    : "Kakak kerennn, semangat kak!"# 3
             },
              {
-                "nama"	    : "Putri Maulida Chairani",
+                "nama"	    : "Putri Maulida Chairani", #4
                 "nim"		: "121450050",
                 "umur"	    : "21",
                 "asal"		:" Payakumbuh",
@@ -153,7 +153,7 @@ if menu == "Kesekjenan":
                 "pesan"	    : "Semangat nyekre kak^^"# 4
             },
             {
-                "nama"	    : "Hartiti Fadilah",
+                "nama"	    : "Hartiti Fadilah", #5
                 "nim"		: "121450031",
                 "umur"	    : "21",
                 "asal"		:" Palembang",
@@ -195,7 +195,7 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "nama"	    : "Tri Murniya Ningsih",
+                "nama"	    : "Tri Murniya Ningsih", #1
                 "nim"		: "121450038",
                 "umur"	    : "21",
                 "asal"		: "Bogor",
@@ -207,7 +207,7 @@ elif menu == "Baleg":
 
             },
             {
-                "nama"	    : "Annisa Cahyani Surya",
+                "nama"	    : "Annisa Cahyani Surya", #2
                 "nim"		: "121450114",
                 "umur"	    : "21",
                 "asal"		: "Tangerang",
@@ -218,7 +218,7 @@ elif menu == "Baleg":
                 "pesan"	    : "Boleh kasih tutorial biar kece kak? Hehe"# 6
             },
             {
-                "nama"	    : "Wulan Sabina",
+                "nama"	    : "Wulan Sabina", #3
                 "nim"		: "121450150",
                 "umur"	    : "21",
                 "asal"		: "Medan",
@@ -229,7 +229,7 @@ elif menu == "Baleg":
                 "pesan"	    : "Keep your vibes kak!",
             },
             {
-                "nama"	    : "Anisa Dini Amalia",
+                "nama"	    : "Anisa Dini Amalia", #4
                 "nim"		: "121450081",
                 "umur"	    : "21",
                 "asal"		: "Medan",
@@ -240,7 +240,7 @@ elif menu == "Baleg":
                 "pesan"	    : "Semangat nge-stan Svt kak!"# 6
             },
             {
-                "nama"	    : "Claudhea Angeliani",
+                "nama"	    : "Claudhea Angeliani", #5
                 "nim"		: "121450124",
                 "umur"	    : "21",
                 "asal"		: "Salatiga",
@@ -251,7 +251,7 @@ elif menu == "Baleg":
                 "pesan"	    : "Semoga kubisa girly kayak kakak^^"# 2
             },
             {
-                "nama"	    : "Dhea Amelia Putri",
+                "nama"	    : "Dhea Amelia Putri", #6
                 "nim"		: "122450004",
                 "umur"	    : "19",
                 "asal"		: "Buleleng",
@@ -262,7 +262,7 @@ elif menu == "Baleg":
                 "pesan"	    : "Semoga hasil tanamannya memuaskan kakk" # 3
             },
             {
-                "nama"	    : "Muhammad Fahrul Aditya",
+                "nama"	    : "Muhammad Fahrul Aditya", #7
                 "nim"		: "121450156",
                 "umur"	    : "21",
                 "asal"		: "Surakarta",
@@ -273,7 +273,7 @@ elif menu == "Baleg":
                 "pesan"	    : "Ngopi bareng yuk bang, hehe"# 6
             },
             {
-                "nama"	    : "Feriyadi Yulius",
+                "nama"	    : "Feriyadi Yulius", #8
                 "nim"		: "122450087",
                 "umur"	    : "20",
                 "asal"		: "Sumatera Selatan",
@@ -284,7 +284,7 @@ elif menu == "Baleg":
                 "pesan"	    : "Semangat mengisi porto di LinkedIn bangg"# 5
             },
             {
-                "nama"	    : "Mirzan Yusuf Rabbani",
+                "nama"	    : "Mirzan Yusuf Rabbani", #9
                 "nim"		: "1224500118",
                 "umur"	    : "20",
                 "asal"		: "Jakarta",
@@ -295,7 +295,7 @@ elif menu == "Baleg":
                 "pesan"	    : "Boleh saran kombinasi outfit bang? Buat Itera yang selalu summer ini hehe"# 6
             },
             {
-                "nama"	    : "Jeremia Susanto",
+                "nama"	    : "Jeremia Susanto", #10
                 "nim"		: "122450022",
                 "umur"	    : "20",
                 "asal"		: "Balam",
@@ -819,7 +819,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal": "Bekasi",
                 "alamat": "TVRI",
-                "hobi": "",
+                "hobi": "Mengaji",
                 "sosmed": "@rzkdrnnn",
                 "kesan": "Bang Rizki vibesnya kocak",  
                 "pesan": "Semangat TA bang"
@@ -1014,7 +1014,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1UUGKZ1ZBS9bP5vb5GDOqN3JBiSmzs49N", #Bg Ari ok 
             "https://drive.google.com/uc?export=view&id=1FCkUItmSZBfYj1uIOvT2fUCCWgbKzaH5", #Kak Salwa ok
             "https://drive.google.com/uc?export=view&id=1LczucJ3si_ECvjxHP8fwTSj_YarDVQ_s", #Kak Azizah ok
-            "https://drive.google.com/uc?export=view&id=1434GObwXarIDbIhr7Y1XhKsB4hfP4VWq", #Kak Rani _
+           # "https://drive.google.com/uc?export=view&id=1434GObwXarIDbIhr7Y1XhKsB4hfP4VWq", #Kak Rani _
             "https://drive.google.com/uc?export=view&id=12n5G1HKvVQiUjxJULGLvBi5PZQ3aZKr0", #Bg Josua ok
             "https://drive.google.com/uc?export=view&id=1zPyXf2eIs0-MStO1JbaXQCtulWMOR9uq", #Kak Meira ok
             # "https://drive.google.com/uc?export=view&id=1WQ7nf2CaFh8stJ-eXMLdN59TYRgKaTgm", #Bg Rendi ok
@@ -1084,7 +1084,7 @@ elif menu == "Departemen Internal":
                 "asal": "Pesawaran",
                 "alamat": "Jl. Airan",
                 "hobi": "Renang Tapi Gabisa Renang",
-                "sosmed": "@",
+                "sosmed": "@farhanatz_",
                 "kesan": "Kak Salwa vibesnya positif",
                 "pesan": "Bagi dong kakk vibesnyaa!"
             },
@@ -1099,17 +1099,17 @@ elif menu == "Departemen Internal":
                 "kesan": "Kak Azizah kerennn",
                 "pesan": "Semangat kakkk"
             },
-            {
-                "nama": "Rani Puspita Sari",
-                "nim": "122450030",
-                "umur": "20",
-                "asal": "Metro",
-                "alamat": "",
-                "hobi": "",
-                "sosmed": "@",
-                "kesan": "Kak Rani pendiem",
-                "pesan": "Semangat smt 5-nya kak!"
-            },
+            #{
+             #   "nama": "Rani Puspita Sari",
+              #  "nim": "122450030",
+               # "umur": "20",
+                #"asal": "Metro",
+               # "alamat": "",
+                #"hobi": "",
+                #"sosmed": "@",
+                #"kesan": "Kak Rani pendiem",
+                #"pesan": "Semangat smt 5-nya kak!"
+            #},
             {
                 "nama": "Josua Panggabean",
                 "nim": "12145001",
