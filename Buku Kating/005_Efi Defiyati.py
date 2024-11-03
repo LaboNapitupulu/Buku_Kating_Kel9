@@ -198,7 +198,7 @@ elif menu == "Baleg":
                 "nim": "121450038",
                 "umur": "21",
                 "asal":"Bogor",
-                "alamat": "Raden Saleh",
+                "alamat": "jL. Raden Saleh, Airan",
                 "hobi": "Searching di perpexicity",
                 "sosmed": "@trimurniaa_",
                 "kesan": "Kakak lucu dan membawa energi positif",  
