@@ -194,11 +194,11 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "nama": "Tri Murniya Ningsih",
+                "nama": "Tri Murnia Ningsih",
                 "nim": "121450038",
                 "umur": "21",
                 "asal":"Bogor",
-                "alamat": "jL. Raden Saleh, Airan",
+                "alamat": "Jl. Raden Saleh, Airan",
                 "hobi": "Searching di perpexicity",
                 "sosmed": "@trimurniaa_",
                 "kesan": "Kakak lucu dan membawa energi positif",  
@@ -275,7 +275,7 @@ elif menu == "Baleg":
                 "nim": "122450087",
                 "umur": "20",
                 "asal":"Sumatera Selatan",
-                "alamat": "Depan Koban",
+                "alamat": "Depan Kobam",
                 "hobi": "Baca buku",
                 "sosmed": "@fer_yulius",
                 "kesan": "Abangnya aga sedikit kalem, tapi asik",  
@@ -327,7 +327,7 @@ elif menu == "Senator":
         data_list = [
             {
                 "nama": "Anissa Luthfi Alifia",
-                "nim": "121450098",
+                "nim": "121450093",
                 "umur": "22",
                 "asal":"Lampung Tengah",
                 "alamat": "Kost Putri Rahayu Indomaret",
@@ -387,7 +387,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
-                "nim": "122450023",
+                "nim": "122450123",
                 "umur": "20",
                 "asal":"Tangerang",
                 "alamat": "Owen kos, Sukarame",
@@ -419,7 +419,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semoga sehat selalu, dan semangat kuliahnya kak, semangat juga buat semua kegiatan yang kakak jalani, lancar terus ya kak semua urusannya, jangan lupa buat istirahat"
             },
             {
-                "nama": "Eksanty Febriana Sukma Islamiaty",
+                "nama": "Eksanty Febriana Sugma Islamiaty",
                 "nim": "122450001",
                 "umur": "20",
                 "asal":"Teluk Hantu",
@@ -1044,7 +1044,7 @@ elif menu == "Departemen Internal":
         },
         {
             "nama": "M. Akbar Resdika",
-            "nim": "12145006",
+            "nim": "121450066",
             "umur": "20",
             "asal": "Lampung Barat",
             "alamat": "Labuhan Dalam",
@@ -1109,8 +1109,8 @@ elif menu == "Departemen Internal":
             "pesan": "Semangat kakak buat kuliahnya, semangat buat jaga kebun dan berkebunnya"
         },
         {
-            "nama": "Josua Panggabean",
-            "nim": "12145001",
+            "nama": "Josua Alfa Viando Panggabean",
+            "nim": "121450061",
             "umur": "21",
             "asal": "Pematang Siantar",
             "alamat": "Gya Kos",
@@ -1252,7 +1252,7 @@ elif menu == "Departemen SSD":
             },
             {
                 "nama": "Tessa Kania Sagala",
-                "nim": "122459940",
+                "nim": "122450040",
                 "umur": "20",
                 "asal": "Sumatera Utara",
                 "alamat": "Pemda",
