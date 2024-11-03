@@ -1350,7 +1350,7 @@ else:
                 "alamat": "Nangka III",
                 "hobi": "Koleksi Parfum",
                 "sosmed": "@arsyiah._",
-                "kesan": "boleh lah rekomendasi parfum kak",
+                "kesan": "boleh lah rekomendasi parfum bang",
                 "pesan": "Semoga sehat selalu dan sukses "
             },
             {
