@@ -112,7 +112,7 @@ if menu == "Kesekjenan":
                 "nim": "121450142",
                 "umur": "21",
                 "asal":"Palembang",
-                "alamat": "Pulau Damar",
+                "alamat": "JL. Pulau Damar",
                 "hobi": "Denger Musik",
                 "sosmed": "@gumilangkharisma",
                 "kesan": "Bang Gumilang orangnya tegas dan asik, serta berwibawa",  
