@@ -384,7 +384,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kobam",
                 "hobi": "Travlling",
                 "sosmed": "@ericsonchandra99",
-                "kesan": "abangnya keren jiwa tegas ada",  
+                "kesan": "abangnya keren jiwa tegas ada berwibawa",  
                 "pesan":"semoga sukses bangg"
             },
             {
@@ -395,7 +395,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Owen kos, Sukarame",
                 "hobi": "Memancing Keributan",
                 "sosmed": "@elisabethh_",
-                "kesan": "asik suka ngomong seruu",  
+                "kesan": "asik dan klo ngomong seruu",  
                 "pesan":"cepat sukses kak"
             },
             {
@@ -406,8 +406,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobi": "Cubit Tangan Orang",
                 "sosmed": "@afifahhnsrn",
-                "kesan": "kakaknya asik klo dah ngorbol",  
-                "pesan":"terus semangat kak"
+                "kesan": "kakaknya asik klo dah ngorbol seruu",  
+                "pesan":"tetap semangat kak buat kedepanya"
             },
             {
                 "nama": "Allya Nurul Islami Pasha",
@@ -417,8 +417,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Gang Perwira Belwis",
                 "hobi": "Minum Kopi",
                 "sosmed": "@allyaislami_",
-                "kesan": "seruu asik klo adh ngobrol",  
-                "pesan":"tetap semangat kak dan semoga cepat sukses "
+                "kesan": "seruu asik klo adh ngobrol kakaknya",  
+                "pesan":"tetap semangat kak dan semoga cepat sukses buat kedepanya "
             },
             {
                 "nama": "Eksanty Febriana Sukma Islamiaty",
@@ -450,7 +450,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Senopati Raya",
                 "hobi": "Dengerin Musik",
                 "sosmed": "@ferdy_kevin",
-                "kesan": "seru abangnya",  
+                "kesan": "seru abangnya kadang random aja",  
                 "pesan":"semoga cepat sukses bang"
             },
             {
@@ -461,8 +461,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Jl. Pagar Alam Kedaton",
                 "hobi": "Review Cheatsheet",
                 "sosmed": "@dransyh_",
-                "kesan": "abangnya seruu",  
-                "pesan":"semoga cepat sukses"
+                "kesan": "abangnya seruu asikk klo udah akur",  
+                "pesan":"semoga cepat sukses semangat bang"
             },
             {
                 "nama": "Oktavia Nurwenda Puspita Sari",
@@ -483,7 +483,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kobam, Pulau Damar",
                 "hobi": "Belajar",
                 "sosmed": "@depanloo",
-                "kesan": "abangnya lucu asik banayak ketawa",  
+                "kesan": "abangnya asik banayak ketawa",  
                 "pesan":"semoga cepat sukses bang "
             },
             {
@@ -494,7 +494,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Jl. Lapas",
                 "hobi": "Ngasprak",
                 "sosmed": "@johanneskrisjnnn",
-                "kesan": "abangnya lucu seruu ",  
+                "kesan": "abangnya asik seru klo udah mulai ngobrol ",  
                 "pesan":"semoga cepat sukses bang"
             },
             {
