@@ -1316,7 +1316,7 @@ else:
                 "asal": "Makassar",
                 "alamat": "Sukarame",
                 "hobi": "Nonton",
-                "sosmed": "@",
+                "sosmed": "@wahyudnt_0202",
                 "kesan": "Bang Wahyu kece banget",
                 "pesan": "Semangat kuliahnya bangg"
             },
