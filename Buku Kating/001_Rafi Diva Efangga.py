@@ -895,7 +895,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal": "Bekasi",
                 "alamat": "TVRI",
-                "hobi": "",
+                "hobi": " Bikin Portofolio",
                 "sosmed": "@rzkdrnnn",
                 "kesan": "abangnya keren kece",  
                 "pesan": "Semangat bang kuliahnya dan semoga cepat lulus"
