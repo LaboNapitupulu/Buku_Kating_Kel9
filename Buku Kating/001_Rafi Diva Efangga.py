@@ -964,7 +964,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Menyanyi",
                 "sosmed": "@alyaavanefi",
                 "kesan": "Keren kakaknya asik"
-                "pesan": "Semangat kak kuliahnya dan semoga cepat lulus"
+                "pesan": "semoga cepat lullus kak"
             },
             {
                 "nama": "Raid Muhammad Naufal",
