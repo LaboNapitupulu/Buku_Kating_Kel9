@@ -236,7 +236,7 @@ elif menu == "Baleg":
                 "hobi"		: "Nonton drakor",
                 "sosmed"	: "@annisacahyanisurya",
                 "kesan"	    : "Kakak ini dari cara ngomongnya pinter",  
-                "pesan"	    : "Semoga lulus tepat waktu kak#
+                "pesan"	    : "Semoga lulus tepat waktu kak"
             },
             {
                 "nama": "Claudhea Angeliani",
