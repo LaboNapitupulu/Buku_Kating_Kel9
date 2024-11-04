@@ -396,7 +396,7 @@ elif menu == "Departemen PSDA":
                 "asal":"Tangerang",
                 "alamat": "Owen Kost, Sukarame",
                 "hobi": "memancing keributan",
-                "sosmed": "@elisabethh_",
+                "sosmed": "@celisabethh_",
                 "kesan": "sering ketemu nih sama kak abeth",  
                 "pesan":"humble terus yaa kakk"
             },
