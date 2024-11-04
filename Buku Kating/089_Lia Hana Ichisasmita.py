@@ -1470,7 +1470,7 @@ else:
                 "alamat": "Belwis",
                 "hobi": "DIY pake printer",
                 "sosmed": "@khusnun_nisa335",
-                "kesan": "Kakaknya baik dan lucu banget",
+                "kesan": "Kakaknya baik dan lucu banget tapi tegas",
                 "pesan": "Semoga sehat selalu dan semangat kuliahnya kak"
             }
         ]
