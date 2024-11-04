@@ -768,7 +768,8 @@ elif menu == "Departemen Eksternal":
         "https://drive.google.com/uc?export=view&id=1Tq5BAZkzoM_VfXtu6TEvZ1nblH0zrBZK", #Bang Irvan 
         "https://drive.google.com/uc?export=view&id=1T6QfBqkXm3Bv3J7RzJNxC5VuWhBkQIc1", #Kak Izza 
         "https://drive.google.com/uc?export=view&id=19RTYQHrVSfdJ5RWGIXUigYccXV2b7vn_", #Kak Khaalishah 
-        "https://drive.google.com/uc?export=view&id=1193xrrIUl-K3vpbJvB_4XjQbA8ZGzCKw", #Bang Yuna
+        "https://drive.google.com/uc?export=view&id=1193xrrIUl-K3vpbJvB_4XjQbA8ZGzCKw", #kak Yuna
+        "https://drive.google.com/uc?export=view&id=1EgvPQj2A9I_2Km9B0yC_uW405GOsUi_0", #Bang Raid
     
         ]
         data_list = [
@@ -980,6 +981,17 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@tria_y062",
                 "kesan": "Kak Yuna orangnya lucu dan asik banget",  
                 "pesan": "Semangat kuliahnya kak Yuna"
+            },
+            {
+                "nama": "Raid Muhammad Naufal",
+                "nim": "122450027",
+                "umur": "20",
+                "asal": "Lampung Tengah",
+                "alamat": "Sukarame",
+                "hobi": "Membuat Jurnal",
+                "sosmed": "@rayths_",
+                "kesan": "Bang Raid orangya sedikit pendiam",  
+                "pesan": "Semangat kuliahnya bg Raid"
             },
         
         ]
