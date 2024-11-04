@@ -671,7 +671,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Review Jurnal",
                 "sosmed": "@marletacornelia",
                 "kesan": "keren kece mantapp klo dah ngobrol",  
-                "pesan":"tetep semangat bang"
+                "pesan":"tetep semangat kak"
             },
             {
                 "nama": "Rut Junita Sari Siburian",
