@@ -753,14 +753,14 @@ elif menu == "Departemen Eksternal":
         "https://drive.google.com/uc?export=view&id=1qPVvpiC5FmNTgIDp1gpiY5CH1Qe24dVb", #Bg Yogy ok
         "https://drive.google.com/uc?export=view&id=1tAiYANqsUM1VL52jPryKT532nc0MSvjI", #Kak Ramadhita ok
         "https://drive.google.com/uc?export=view&id=1unxwiOA3L6Kz3nmaJy5XguIb9DH7iMDf", #Kak Nazwa ok 
-        "https://drive.google.com/uc?export=view&id=112VkeCu3AQLzHZkXurDtOizM5hcCIR_qz", #Bg Bastian ok
-        "https://drive.google.com/uc?export=view&id=1ZnAzTAnwrNvFL-SOtsJ4qD8iDnL2QrRU", #Kak Dea ok
-        "https://drive.google.com/uc?export=view&id=13tF2dBMAsLwjto2_jvukzq7ITfVO69rk", #Kak Esteria ok
-        "https://drive.google.com/uc?export=view&id=1VzWgtrbimfNc-njYOiRQaQQ8RT6Ryryc", #Kak Natasya ok
-        "https://drive.google.com/uc?export=view&id=1f5FyQUK9mAP7I3ZC716bZ-EOfGonoduv", #Kak Novelia ok
-        "https://drive.google.com/uc?export=view&id=1o2s04Vzuk-dHj-Xrin8FYrmuybetzB0t", #Kak Ratu ok
-        "https://drive.google.com/uc?export=view&id=1jxXCO0MbP7XD0EyzdDse-QO9IBohR057", #Bg Tobias ok
-        "https://drive.google.com/uc?export=view&id=1FdlnU9yaMpBVVX5JGJaxmEBejZFR8Pob", #Kak Yohana ok 
+        "https://drive.google.com/uc?export=view&id=1z8Hqkx7dN9b9az1mKlsWKlMrOSvQ5CAy", #Bg Bastian ok
+        "https://drive.google.com/uc?export=view&id=1B01iaCkkwDOLWvLYUfd93fKIXgsIW4-F", #Kak Dea ok
+        "https://drive.google.com/uc?export=view&id=112VkeCu3AQLzHZkXurDtOizM5hcCIR_qz", #Kak Esteria ok
+        "https://drive.google.com/uc?export=view&id=1ZnAzTAnwrNvFL-SOtsJ4qD8iDnL2QrRU", #Kak Natasya ok
+        "https://drive.google.com/uc?export=view&id=1sbYlzaoC8JCNN2kXBQB8lvB821wbTC6U", #Kak Novelia ok
+        "https://drive.google.com/uc?export=view&id=132m9wfOAyGZdDKfIvy5NOOggnMtqB48L", #Kak Ratu ok
+        "https://drive.google.com/uc?export=view&id=1WYRs_YGOfZYaHgZqV6mGaT2Tlxp4dG35", #Bg Tobias ok
+        "https://drive.google.com/uc?export=view&id=17nbAfUzPCEgwTuTgquQUxGUqGFCsE3A8", #Kak Yohana ok 
         "https://drive.google.com/uc?export=view&id=17pGeC87NKutVf5iYRpNFgxwgt-a5iwVM", #Bg Rizki ok 
         "https://drive.google.com/uc?export=view&id=1pH4ZNa8m1Q0F8xfTbSjuU00O98PFCHXx", #Bg Arafi ok
         "https://drive.google.com/uc?export=view&id=1hwKQp7nnOJyLu6WlUQ8W_zdCUDLSsKjs", #Kak Asa ok 
