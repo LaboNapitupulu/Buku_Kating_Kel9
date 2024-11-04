@@ -1334,17 +1334,6 @@ else:
                 "pesan": "Semangat terus jadi editor handal kak"
             },
             {
-                "nama": "Arsyiah Azahra",
-                "nim": "121450035",
-                "umur": "21",
-                "asal": "Balam",
-                "alamat": "Balam",
-                "hobi": "Ngonten",
-                "sosmed": "@arsyiah._",
-                "kesan": "Kakak ini orangnya ga banyak ngomong tapi lumayan tegas dari cara ngomongnya",
-                "pesan": "Seemoga selalu bisa jadi panutan ya kak"
-            },
-            {
                 "nama": "Muhammad Kaisar Firdaus",
                 "nim": "121450135",
                 "umur": "21",
@@ -1354,6 +1343,17 @@ else:
                 "sosmed": "@dino_lapet",
                 "kesan": "Abang ini kalo misal belum kenal kayak serem, tapi setelah banyak ngobrol seru pol",
                 "pesan": "Semoga ketemu hobinya ya bang (Saya yakin hobinya bercandain orang)"
+            },
+                        {
+                "nama": "Arsyiah Azahra",
+                "nim": "121450035",
+                "umur": "21",
+                "asal": "Balam",
+                "alamat": "Balam",
+                "hobi": "Ngonten",
+                "sosmed": "@arsyiah._",
+                "kesan": "Kakak ini orangnya ga banyak ngomong tapi lumayan tegas dari cara ngomongnya",
+                "pesan": "Seemoga selalu bisa jadi panutan ya kak"
             },
             {
                 "nama": "Muhammad Arsal Ranjana Utama",
