@@ -1160,7 +1160,7 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1PgdpKVgEiH3ER3UTBFAuZ9vqle5WEJ7z",# Bang Danang ok
             "https://drive.google.com/uc?export=view&id=1CytN_hx6Ey2g2rP5AmpCbGAY-POy6Fu9",# Bang Farrel ok
             "https://drive.google.com/uc?export=view&id=1zGAQZcw27dBH45Q7qIoL3kEc7nMknKx6",# Kak Tessa ok
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",# Kak Alvia
+            "https://drive.google.com/uc?export=view&id=1YczO_c0rDqAa_dqtGs0WbT-pO1CqjPPC",# Kak Alvia ok
             "https://drive.google.com/uc?export=view&id=1DUFlMAhodm34DOAz5CNVcda2bl4GIS2g",# Kak Dhafin ok
             "https://drive.google.com/uc?export=view&id=1nIzybshnCGvCCCxaOO-NtQJ1nawfBY4x",# Kak Elia ok
 
