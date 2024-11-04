@@ -771,7 +771,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Yogy Sae Tama",
                 "nim": "121450041",
-                "umur": "21",
+                "umur": "79",
                 "asal":"Tangerang",
                 "alamat": "Sukarame",
                 "hobbi": "Tidur",
