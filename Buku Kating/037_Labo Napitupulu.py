@@ -1295,7 +1295,7 @@ else:
     def medkraf():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1VBAar8G7oqJwhOLGZfm96xQNVypoq38M", # bang tao ok 
-            "https://drive.google.com/uc?export=view&id1syX6XrXzAeTWNeJ8ZwfhtecM6cRbe3zT=", # kak elok ok 
+            "https://drive.google.com/uc?export=view&id=1syX6XrXzAeTWNeJ8ZwfhtecM6cRbe3zT", # kak elok ok 
             "https://drive.google.com/uc?export=view&id=1Fov5SpqCK8jV3zEDbtBfZAxy2LTrsbBO", # bang kai ok 
             "https://drive.google.com/uc?export=view&id=1OzNnfoYrkiIN6AdbYP-rCU95zeGHqxbQ", # bang arsal ok 
             "https://drive.google.com/uc?export=view&id=1clzHh3lkenTxF7V3FX_sOwfjMzz5XK-x", # kak arsyi ok
