@@ -601,7 +601,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=14CaPxghupELW9mrWZCtoSZqUZWJ5mBu5", #Bang Happy 
             "https://drive.google.com/uc?export=view&id=1ljm6iBrL1vpfNJwU1n4Bmy7wsYy26rGq", #Bang Randa 
         ]
-	data_list = [
+        data_list = [
             {
                 "nama": "Rafi Fadhlillah",
                 "nim": "121450143",
@@ -1175,7 +1175,7 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1P0MYBvWRZgf6UdJc2GXSgemh7jUOMbjA", #Kak elia 11
 
         ]
-         data_list = [
+        data_list = [
             {
                 "nama": "Andrian Agustinus Lumban Gaol",
                 "nim": "121450090",
