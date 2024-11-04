@@ -534,7 +534,7 @@ elif menu == "Departemen PSDA":
                 "kesan": "abangnya baik banget bawa in minum saya kemarin pada saat ketinggalan",  
                 "pesan": "maaf yaa bang saya jadi ga enak, karena bawain minum saya:)"
             },
-                        {
+            {
                 "nama": "M. Farhan Athaulloh",
                 "nim": "121450117",
                 "umur": "21",
@@ -545,7 +545,7 @@ elif menu == "Departemen PSDA":
                 "kesan": "diem pun tetap lucu abangnya",  
                 "pesan": "ajarin saya bang meskipun diem tapi tetap lucu"
             },
-                        {
+            {
                 "nama": "Jaclin Alcavella",
                 "nim": "122450015",
                 "umur": "19",
@@ -601,7 +601,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=14CaPxghupELW9mrWZCtoSZqUZWJ5mBu5", #Bang Happy 
             "https://drive.google.com/uc?export=view&id=1ljm6iBrL1vpfNJwU1n4Bmy7wsYy26rGq", #Bang Randa 
         ]
-       data_list = [
+	data_list = [
             {
                 "nama": "Rafi Fadhlillah",
                 "nim": "121450143",
@@ -1491,4 +1491,5 @@ else:
         ]
         display_images_with_data(gambar_urls, data_list)
     medkraf()
+
 # Tambahkan menu lainnya sesuai kebutuhan
