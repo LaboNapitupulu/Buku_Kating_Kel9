@@ -1,68 +1,98 @@
-
 import streamlit as st
-import random
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 
-# Daftar kutipan 
-kutipan = [
-    {"quote": "The best way to predict the future is to create it.", "author": "Peter Drucker"},
-    {"quote": "Success is not the key to happiness. Happiness is the key to success.", "author": "Albert Schweitzer"},
-    {"quote": "Life is what happens when you're busy making other plans.", "author": "John Lennon"},
-    {"quote": "The only limit to our realization of tomorrow is our doubts of today.", "author": "Franklin D. Roosevelt"},
-    {"quote": "In the middle of every difficulty lies opportunity.", "author": "Albert Einstein"},
-    {"quote": "You miss 100% of the shots you don’t take.", "author": "Wayne Gretzky"},
-    {"quote": "The secret of getting ahead is getting started.", "author": "Mark Twain"},
-    {"quote": "Do not watch the clock; do what it does. Keep going.", "author": "Sam Levenson"},
-    {"quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill"},
-    {"quote": "It is never too late to be what you might have been.", "author": "George Eliot"},
-    {"quote": "You must be the change you wish to see in the world.", "author": "Mahatma Gandhi"},
-    {"quote": "Believe you can and you're halfway there.", "author": "Theodore Roosevelt"},
-    {"quote": "The only way to do great work is to love what you do.", "author": "Steve Jobs"},
-    {"quote": "Don’t let yesterday take up too much of today.", "author": "Will Rogers"},
-    {"quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.", "author": "Ralph Waldo Emerson"},
-    {"quote": "The future belongs to those who believe in the beauty of their dreams.", "author": "Eleanor Roosevelt"},
-    {"quote": "Strive not to be a success, but rather to be of value.", "author": "Albert Einstein"},
-    {"quote": "The only impossible journey is the one you never begin.", "author": "Tony Robbins"},
-    {"quote": "Success usually comes to those who are too busy to be looking for it.", "author": "Henry David Thoreau"},
-    {"quote": "Opportunities don’t happen, you create them.", "author": "Chris Grosser"},
-    {"quote": "Don’t be afraid to give up the good to go for the great.", "author": "John D. Rockefeller"},
-    {"quote": "I find that the harder I work, the more luck I seem to have.", "author": "Thomas Jefferson"},
-    {"quote": "Success is walking from failure to failure with no loss of enthusiasm.", "author": "Winston Churchill"},
-    {"quote": "Don’t wait for opportunity. Create it.", "author": "George Bernard Shaw"},
-    {"quote": "Try not to become a person of success, but rather try to become a person of value.", "author": "Albert Einstein"},
-    {"quote": "Dream big and dare to fail.", "author": "Norman Vaughan"},
-    {"quote": "He who has a why to live can bear almost any how.", "author": "Friedrich Nietzsche"},
-    {"quote": "Success is not how high you have climbed, but how you make a positive difference to the world.", "author": "Roy T. Bennett"},
-    {"quote": "You are never too old to set another goal or to dream a new dream.", "author": "C.S. Lewis"},
-    {"quote": "A winner is a dreamer who never gives up.", "author": "Nelson Mandela"},
-    {"quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.", "author": "Zig Ziglar"},
-    {"quote": "Happiness is not something ready-made. It comes from your own actions.", "author": "Dalai Lama"},
-    {"quote": "Challenges are what make life interesting. Overcoming them is what makes life meaningful.", "author": "Joshua J. Marine"},
-    {"quote": "Do what you can, with what you have, where you are.", "author": "Theodore Roosevelt"},
-    {"quote": "The only person you are destined to become is the person you decide to be.", "author": "Ralph Waldo Emerson"},
-    {"quote": "To succeed in life, you need two things: ignorance and confidence.", "author": "Mark Twain"},
-    {"quote": "It does not matter how slowly you go as long as you do not stop.", "author": "Confucius"},
-    {"quote": "Hardships often prepare ordinary people for an extraordinary destiny.", "author": "C.S. Lewis"},
-    {"quote": "People have to go through trials and tribulations to get where they at. Do your thing - continue to rock it - because obviously, God wants you here.", "author": "Kendrick Lamar"}
-]
+# Mengatur tampilan grafik dengan tema 'whitegrid' dari seaborn
+sns.set(style="whitegrid")
 
-# Judul 
-st.title("Penghasil Kutipan Acak")
+# Judul Aplikasi
+st.title("Analisis Jam Kerja Peserta Magang CEO HMSD 2024")
+st.write("Aplikasi ini menganalisis data jam kerja peserta magang untuk memberikan wawasan mengenai pola kerja mereka di berbagai divisi.")
 
-# Menyimpan state dari kutipan yang dihasilkan
-if 'kutipan_terpilih' not in st.session_state or isinstance(st.session_state.kutipan_terpilih, str):
-    st.session_state.kutipan_terpilih = random.choice(kutipan)
+# 1. Import Data
+st.subheader("1. Import Data")
+st.write("Data diambil langsung dari file CSV yang berisi informasi mengenai peserta magang, termasuk divisi dan jam kerja mingguan.")
+data_url = "https://raw.githubusercontent.com/LaboNapitupulu/File/main/Pendataan_Peserta_Magang_CEO_HMSD_2024.csv"
+df = pd.read_csv(data_url)
+st.write(df.head())  # Menampilkan beberapa baris pertama data untuk memberikan gambaran tentang isinya
 
-# Tombol 
-if st.button("Tampilkan Quotes Baru"):
-    st.session_state.kutipan_terpilih = random.choice(kutipan)
+# 2. Data Cleaning (Pembersihan Data)
+st.subheader("2. Pembersihan Data")
+st.write("""
+Pada kolom "Jam Kerja Magang/Minggu (dalam jam)", beberapa entri memiliki teks "Belum ada sejauh ini".
+Langkah ini mengganti teks tersebut dengan "0 jam" agar dapat diproses.
+Kami kemudian mengekstrak angka dari kolom tersebut dan mengonversinya menjadi format numerik untuk keperluan analisis lebih lanjut.
+Selain itu, kolom NIM dikonversi menjadi string untuk menghindari tampilan dengan koma.
+""")
+# Konversi NIM menjadi string untuk menghindari tampilan dengan koma
+df['NIM'] = df['NIM'].astype(str)
 
-# Tampilkan kutipan dan penulis dengan gaya CSS 
-st.markdown(
-    f"""
-    <div style="text-align: center; font-size: 30px; font-family: 'Courier New', Courier, monospace;">
-        <b>"{st.session_state.kutipan_terpilih['quote']}"</b><br><br>
-        <b style="text-align: center;">{st.session_state.kutipan_terpilih['author']}</b>
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+# Pembersihan data jam kerja
+df['9. Jam Kerja Magang/Minggu (dalam jam)'] = df['9. Jam Kerja Magang/Minggu (dalam jam)'].replace('Belum ada sejauh ini', '0 jam')
+df['Jam Kerja per Minggu'] = df['9. Jam Kerja Magang/Minggu (dalam jam)'].str.extract(r'(\d+[,\.]?\d*)')[0].str.replace(',', '.').astype(float)
+st.write(df[['Nama Lengkap', 'NIM', '2. Divisi Magang', 'Jam Kerja per Minggu']].head())
+
+# 3. Analisis Statistik Deskriptif
+st.subheader("3. Analisis Statistik Deskriptif")
+st.write("""
+Analisis statistik deskriptif memberikan gambaran mengenai distribusi jam kerja, termasuk rata-rata, standar deviasi, 
+nilai minimum dan maksimum, serta kuartil. Ini membantu kita memahami rentang jam kerja serta variasi antar peserta.
+""")
+st.write(df['Jam Kerja per Minggu'].describe())
+
+# 4. Visualisasi Data
+st.subheader("4. Visualisasi Data")
+
+# Histogram untuk kolom "Jam Kerja per Minggu"
+st.write("""
+*Histogram Jam Kerja per Minggu*: Histogram ini menunjukkan distribusi frekuensi dari jam kerja peserta magang. 
+Garis distribusi kepadatan membantu memperjelas pola distribusi secara umum.
+""")
+plt.figure(figsize=(10, 6))
+sns.histplot(df['Jam Kerja per Minggu'], bins=10, kde=True, color="#5600f5", edgecolor='black')
+plt.title('Distribusi Jam Kerja per Minggu')
+plt.xlabel('Jam Kerja per Minggu')
+plt.ylabel('Frekuensi')
+st.pyplot(plt)
+
+# Boxplot untuk kolom "Jam Kerja per Minggu"
+st.write("""
+*Boxplot Jam Kerja per Minggu*: Boxplot ini menunjukkan distribusi rentang jam kerja, termasuk nilai ekstrem (outlier).
+Kita dapat melihat rentang mayoritas jam kerja mingguan serta outlier yang mungkin ada di antara peserta.
+""")
+plt.figure(figsize=(8, 5))
+sns.boxplot(y=df['Jam Kerja per Minggu'], color="#5600f5")
+plt.title('Boxplot Jam Kerja per Minggu')
+plt.ylabel('Jam Kerja per Minggu')
+st.pyplot(plt)
+
+# Standarisasi nama divisi untuk menghindari duplikasi
+df['Divisi Magang Standard'] = df['2. Divisi Magang'].str.lower().str.strip()
+
+# Bar Plot rata-rata jam kerja per minggu berdasarkan divisi
+st.write("""
+*Rata-rata Jam Kerja per Minggu Berdasarkan Divisi*: Setelah standarisasi nama divisi, 
+rata-rata jam kerja dihitung untuk setiap divisi. Grafik ini memudahkan kita membandingkan beban kerja antara divisi-divisi yang berbeda.
+""")
+avg_hours_per_division = df.groupby('Divisi Magang Standard')['Jam Kerja per Minggu'].mean().reset_index()
+plt.figure(figsize=(10, 12))
+sns.barplot(data=avg_hours_per_division, x='Jam Kerja per Minggu', y='Divisi Magang Standard', palette="viridis")
+plt.title('Rata-rata Jam Kerja per Minggu Berdasarkan Divisi Magang (Unik dan Distandarisasi)')
+plt.xlabel('Rata-rata Jam Kerja per Minggu')
+plt.ylabel('Divisi Magang')
+st.pyplot(plt)
+
+# Density Plot untuk kolom "Jam Kerja per Minggu"
+st.write("""
+*Density Plot Jam Kerja per Minggu*: Density plot ini menunjukkan kepadatan data pada berbagai rentang nilai jam kerja.
+Plot ini memberikan gambaran umum distribusi data, termasuk area dengan kepadatan data tinggi dan rendah.
+""")
+valid_data = df['Jam Kerja per Minggu'].dropna()
+plt.figure(figsize=(10, 6))
+sns.kdeplot(valid_data, shade=True, color="blue")
+plt.title('Density Plot of Jam Kerja per Minggu')
+plt.xlabel('Jam Kerja per Minggu')
+plt.ylabel('Density')
+st.pyplot(plt)
