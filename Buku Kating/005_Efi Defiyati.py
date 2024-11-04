@@ -802,7 +802,7 @@ elif menu == "Departemen Eksternal":
             },
             {
                 "nama": "Nazwa Nabilla",
-                "nim": "121450022",
+                "nim": "121450122",
                 "umur": "21",
                 "asal":"Bandar Lampung",
                 "alamat": "Bandar Lampung",
@@ -1230,7 +1230,7 @@ elif menu == "Departemen SSD":
             },
             {
                 "nama": "Danang Hilal Kurniawan",
-                "nim": "121450085",
+                "nim": "122450085",
                 "umur": "21",
                 "asal": "Balam",
                 "alamat": "Airan",
