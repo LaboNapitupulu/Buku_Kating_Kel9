@@ -758,7 +758,7 @@ elif menu == "Departemen Eksternal":
         "https://drive.google.com/uc?export=view&id=1pDav1CG6Pk5NzDLZVJil5hefEJ9pDSNF", #Kak Esteria 
         "https://drive.google.com/uc?export=view&id=1jKqsDN7KJze2FV2mHFUZFlN3T-UW7Y6F", #Kak Natasya
         "https://drive.google.com/uc?export=view&id=17djrCsTk3i_UeYJ2OvN-E1DBJYoa61ij", #Kak Novelia 
-        "https://drive.google.com/uc?export=view&id=1naKNYkQeRCcnF7hCkGiJZUGZAfK1ttii", #Kak Ratu
+        "https://drive.google.com/uc?export=view&id=1naKNYkQeRCcnF7hCkGiJZUGZAfK1ttii", #Kak Mine
         "https://drive.google.com/uc?export=view&id=1II81WokirpzbCiw9Ase0CZe1Eo7TCd6p", #Bg Tobias 
         "https://drive.google.com/uc?export=view&id=1uORKFwK3v8afFtNB1OM1qlXwUA3SnCzP", #Kak Yohana 
         "https://drive.google.com/uc?export=view&id=1EgvPQj2A9I_2Km9B0yC_uW405GOsUi_0", #Bg Rizki 
