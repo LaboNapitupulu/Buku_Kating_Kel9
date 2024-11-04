@@ -391,7 +391,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
-                "nim": "122450023",
+                "nim": "122450123",
                 "umur": "20",
                 "asal":"Tangerang",
                 "alamat": "Owen Kost, Sukarame",
@@ -773,7 +773,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Yogy Sae Tama",
                 "nim": "121450041",
-                "umur": "21",
+                "umur": "79",
                 "asal":"Tangerang",
                 "alamat": "Sukarame",
                 "hobi": "Tidur",
