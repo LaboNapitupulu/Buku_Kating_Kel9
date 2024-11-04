@@ -1036,7 +1036,7 @@ elif menu == "Departemen Internal":
         },
         {
             "nama": "M. Akbar Resdika",
-            "nim": "12145006",
+            "nim": "121450066",
             "umur": "20",
             "asal": "Lampung Barat",
             "alamat": "Labuhan Dalam",
@@ -1102,7 +1102,7 @@ elif menu == "Departemen Internal":
         },
         {
             "nama": "Josua Panggabean",
-            "nim": "121450001",
+            "nim": "121450061",
             "umur": "21",
             "asal": "Pematang Siantar",
             "alamat": "Gya Kos",
