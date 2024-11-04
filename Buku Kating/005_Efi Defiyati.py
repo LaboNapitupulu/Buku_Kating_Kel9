@@ -230,9 +230,9 @@ elif menu == "Baleg":
                 "nama": "Anisa Dini Amalia",
                 "nim": "121450081",
                 "umur": "21",
-                "asal":"Medan",
-                "alamat": "Raden Saleh",
-                "hobi": "Nonton Drakor",
+                "asal":"Malang",
+                "alamat": "Jati Agung",
+                "hobi": "Baca Webtoon",
                 "sosmed": "@anisadini10",
                 "kesan": "Pertama kali ngeliat kaya engga asing, ternyata mirip Shakira di COC",  
                 "pesan":"Semangat kuliah kak, sukses selalu, semoga bisa sukses juga kaya shakira"# 1
