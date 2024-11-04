@@ -896,7 +896,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal": "Bekasi",
                 "alamat": "TVRI",
-                "hobi": "",
+                "hobi": "Bikin Portofolio",
                 "sosmed": "@rzkdrnnn",
                 "kesan": "Abang ini ganteng bener",  
                 "pesan": "Semoga bisa jadi lead vocal grup band metal"
@@ -1050,9 +1050,9 @@ elif menu == "Departemen Internal":
             "nim": "122450030",
             "umur": "20",
             "asal": "Metro",
-            "alamat": "",
-            "hobi": "",
-            "sosmed": "@",
+            "alamat": " Rajabasa",
+            "hobi": "Denger musik",
+            "sosmed": "@rannipu",
             "kesan": "Kakak ini gayanya tomboy tapi kadang ga tomboy",
             "pesan": "Gaya kakak keren banget, kayak anak FSRD ITB"
         },
@@ -1074,7 +1074,7 @@ elif menu == "Departemen Internal":
             "asal": "Pesawaran",
             "alamat": "Jl. Airan",
             "hobi": "Renang Tapi Gabisa Renang",
-            "sosmed": "@",
+            "sosmed": "@slwfhn_694",
             "kesan": "Kakak ini rada pendiem",
             "pesan": "Jangan renang tapi gabisa renang ya kak, saya yang takut"
         },
@@ -1102,7 +1102,7 @@ elif menu == "Departemen Internal":
         },
         {
             "nama": "Josua Panggabean",
-            "nim": "12145001",
+            "nim": "121450001",
             "umur": "21",
             "asal": "Pematang Siantar",
             "alamat": "Gya Kos",
