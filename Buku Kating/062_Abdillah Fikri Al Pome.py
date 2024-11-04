@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_option_menu import option_menu # type: ignore
+from streamlit_option_menu import option_menu 
 import requests
 from PIL import Image, ImageOps
 from io import BytesIO
@@ -779,7 +779,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Yogy Sae Tama",
                 "nim": "121450041",
-                "umur": "21",
+                "umur": "79",
                 "asal":"Tangerang",
                 "alamat": "Sukarame",
                 "hobi": "Tidur",
