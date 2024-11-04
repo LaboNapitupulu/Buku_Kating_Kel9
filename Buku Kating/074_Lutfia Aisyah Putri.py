@@ -1159,7 +1159,7 @@ elif menu == "Departemen SSD":
 
         ]
         data_list = [
-            {
+                {
                 "nama": "Andrian Agustinus Lumban Gaol",
                 "nim": "121450090",
                 "umur": "22",
@@ -1167,7 +1167,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Dekat Lapas",
                 "hobi": "Nyari hobi",
                 "sosmed": "@andrianlgaol",
-                "kesan": "Abangnya dan keren banget bisa P2MW ke Sulawesi"  
+                "kesan": "Abangnya dan keren banget bisa P2MW ke Sulawesi",  
                 "pesan": "Semoga lulus tepat waktu bang"
             },
             {
@@ -1280,7 +1280,7 @@ elif menu == "Departemen SSD":
                 "kesan": "Kakanya cantikk banget, kaya vibesnya tu ceria selalu gitu",
                 "pesan": "Semangat kuliahnya kak"
             },
-       ]
+        ]
         display_images_with_data(gambar_urls, data_list)
     ssd()
 
@@ -1368,7 +1368,7 @@ else:
                 "hobi": "Baca, Nulis, fangirling",
                 "sosmed": "@nanana.minjoo",
                 "kesan": "Awalnya ngira kak Juju orangnya pemarah, takoott, ternyata.. sudahlah tidak bisa diungkapkan kalo untuk kak juju lovee",
-                "pesan": "Kak Jujuuuu, aku sayang kak juju super duper baikkk banget,asikk, gokil abis, yang selalu semangatin uniform, selalu ada untuk uniform, suka bawain jajann untuk anak-anaknya yang bentukannya berbagai macam,terimakasii yaa kak juu udah jadi daplok kesayangan kamii, maaf ya kak Juu kami banyak tingkahnyaa buat salah..sehat selalu kak juu suksess dan jayaaa go go go","
+                "pesan": "Kak Jujuuuu, aku sayang kak juju super duper baikkk banget,asikk, gokil abis, yang selalu semangatin uniform, selalu ada untuk uniform, suka bawain jajann untuk anak-anaknya yang bentukannya berbagai macam,terimakasii yaa kak juu udah jadi daplok kesayangan kamii, maaf ya kak Juu kami banyak tingkahnyaa buat salah..sehat selalu kak juu suksess dan jayaaa go go go",
             },
             {
                 "nama": "Rahma Neliyana",
