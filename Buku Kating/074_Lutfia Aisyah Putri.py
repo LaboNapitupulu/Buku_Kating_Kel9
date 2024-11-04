@@ -754,7 +754,7 @@ elif menu == "Departemen Eksternal":
         "https://drive.google.com/uc?export=view&id=1tAiYANqsUM1VL52jPryKT532nc0MSvjI", #Kak Ramadhita 
         "https://drive.google.com/uc?export=view&id=1unxwiOA3L6Kz3nmaJy5XguIb9DH7iMDf", #Kak Nazwa
         "https://drive.google.com/uc?export=view&id=1fHESrqP5ekElSOyVxyK0Vyuy_PCoCkfm", #Bg Bastian 
-        "https://drive.google.com/uc?export=view&id=1ZnAzTAnwrNvFL-SOtsJ4qD8iDnL2QrRU", #Kak Dea 
+        "https://drive.google.com/uc?export=view&id=1SBizov7EukA8mNsNAh4lq52N-X1ejLj6", #Kak Dea 
         "https://drive.google.com/uc?export=view&id=1pDav1CG6Pk5NzDLZVJil5hefEJ9pDSNF", #Kak Esteria 
         "https://drive.google.com/uc?export=view&id=1jKqsDN7KJze2FV2mHFUZFlN3T-UW7Y6F", #Kak Natasya
         "https://drive.google.com/uc?export=view&id=17djrCsTk3i_UeYJ2OvN-E1DBJYoa61ij", #Kak Novelia 
@@ -828,7 +828,7 @@ elif menu == "Departemen Eksternal":
                 "pesan":"Semangat selalu kuiahnya kk dea"
             },
             {
-                "nama": "Estria Rohanauli Sidauruk",
+                "nama": "Esteria Rohanauli Sidauruk",
                 "nim": "122450025",
                 "umur": "20",
                 "asal":"Bandar Lampung",
