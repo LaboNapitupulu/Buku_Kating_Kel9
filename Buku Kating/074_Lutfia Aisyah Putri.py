@@ -393,7 +393,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
-                "nim": "122450023",
+                "nim": "122450123",
                 "umur": "20",
                 "asal":"Tangerang",
                 "alamat": "Owen kos, Sukarame",
