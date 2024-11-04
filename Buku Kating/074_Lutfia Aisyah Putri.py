@@ -768,7 +768,7 @@ elif menu == "Departemen Eksternal":
         "https://drive.google.com/uc?export=view&id=1Tq5BAZkzoM_VfXtu6TEvZ1nblH0zrBZK", #Bang Irvan 
         "https://drive.google.com/uc?export=view&id=1T6QfBqkXm3Bv3J7RzJNxC5VuWhBkQIc1", #Kak Izza 
         "https://drive.google.com/uc?export=view&id=19RTYQHrVSfdJ5RWGIXUigYccXV2b7vn_", #Kak Khaalishah 
-        "https://drive.google.com/uc?export=view&id=1uKsVIbDc8dizbcdN2khTZoQwAjv4NBPU", #Bang Raid 
+        "https://drive.google.com/uc?export=view&id=1uKsVIbDc8dizbcdN2khTZoQwAjv4NBPU", #Bang Raidd
         "https://drive.google.com/uc?export=view&id=1193xrrIUl-K3vpbJvB_4XjQbA8ZGzCKw", #Kak Tria 
         ]
         data_list = [
@@ -791,7 +791,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Raja Basa",
                 "hobi": "Traveling",
                 "sosmed": "@ramadhitatifa",
-                "kesan": "awalnya ngira kk dita orgnya serius banget",  
+                "kesan": "Awalnya ngira kk dita orgnya serius banget",  
                 "pesan":"Semangat terus kak, semoga lulus tepat waktu"
             },
             {
@@ -802,7 +802,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Bandar Lampung",
                 "hobi": "Belajar",
                 "sosmed": "@nazwanbilla",
-                "kesan": "kk nazwa orangnya lucu paraah, selalu ada jokes-jokes nya buat ketawa",  
+                "kesan": "Kak nazwa orangnya lucu paraah, selalu ada jokesnya yang buat ketawa",  
                 "pesan":"Semoga cepat lulus dan semangat terus buat kak, makasii yaa kak udah terima saya magang hublu"
             },
             {
@@ -813,7 +813,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobi": "Telat Ngampus",
                 "sosmed": "@bastiansilaban_",
-                "kesan": "bang bastian orangnya keren banget soal adu argumen",  
+                "kesan": "Bang bastian orangnya keren banget soal adu argumen",  
                 "pesan":"Semangat terus kuliahnya bg"
             },
             {
@@ -824,7 +824,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Kos Korinda",
                 "hobi": "Dengerin musik",
                 "sosmed": "@deaa.rsn",
-                "kesan": "kk dea ternyata urang awak",  
+                "kesan": "Kak dea ternyata urang awak",  
                 "pesan":"Semangat selalu kuiahnya kk dea"
             },
             {
@@ -835,7 +835,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukabumi",
                 "hobi": "Menonton Film",
                 "sosmed": "@esteriars",
-                "kesan": "kak ester orangnya baik bangett, informatif jugaa",  
+                "kesan": "Kak Ester orangnya baik bangett, informatif jugaa",  
                 "pesan":"Semangat dan suskes selalu kak ester"
             },
             {
@@ -846,8 +846,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Jl. Manggis 2",
                 "hobi": "Mendengarkan Lagu, Menyanyi",
                 "sosmed": "@nateee__15",
-                "kesan": "kk  nate keren banget apalagi waktu dengar kknya di bidang humas",  
-                "pesan":"Semangat dan sukses selalu kak nate"
+                "kesan": "Kak  Nate keren banget apalagi waktu dengar kknya di bidang humas",  
+                "pesan":"Semangat dan sukses selalu kak Nate"
             },
             {
                 "nama": "Novelia Adinda",
@@ -857,7 +857,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobi": "Tidur",
                 "sosmed": "@nvliaadinda",
-                "kesan": "kakanya sedikit pendiam",  
+                "kesan": "Kakanya sedikit pendiam",  
                 "pesan":"Semangat selalu kuliahnya kak"
             },
             {
@@ -868,7 +868,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Kandis",
                 "hobi": "Minum Es Teh",
                 "sosmed": "@jasminednva",
-                "kesan": "kak minee baik banget, informatif juga, suka sharing-sharing ke kita dan cerita",  
+                "kesan": "Kak minee baik banget, informatif juga, suka sharing-sharing ke kita dan cerita",  
                 "pesan":"Semangat selalu kak minee"
             },
             {
@@ -879,8 +879,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Kelengkeng 14 (Pemda)",
                 "hobi": "Baca Buku",
                 "sosmed": "@tobiassiagian",
-                "kesan": "bg Tob keren abis, saya kira dulu bg tob anak teknik",  
-                "pesan":"Semangat selalu kuliahnya bg tob, semoga semakin jaya"
+                "kesan": "Bang Tob keren abis, saya kira dulu bg tob anak teknik",  
+                "pesan":"Semangat selalu kuliahnya bg Tob, semoga semakin jaya"
             },
             {
                 "nama": "Yohana Manik",
@@ -890,8 +890,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Belwis",
                 "hobi": "Belajar",
                 "sosmed": "@yo_anamnk",
-                "kesan": "kak yohana asikk banget orangnya diajak cerita, awal kenal kk yo dari SDM xixii",  
-                "pesan":"Semoga sukses selalu kak yohana"
+                "kesan": "Kak Yohana asikk banget orangnya diajak cerita, awal kenal kk yo dari SDM xixii",  
+                "pesan":"Semoga sukses selalu kak Yohana"
             },
             {
                 "nama": "Rizki Adrian Bennovry",
@@ -901,7 +901,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "TVRI",
                 "hobi": "",
                 "sosmed": "@rzkdrnnn",
-                "kesan": "ternyata bg beno kadiv pengmas",  
+                "kesan": "Ternyata bg Beno kadiv pengmas",  
                 "pesan": "Semangat selalu kuliahnya, semoga lulus tepat waktu"
             },
             {
@@ -912,8 +912,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Depan Warjo (TVRI)",
                 "hobi": "Memasak",
                 "sosmed": "@arafiramadhanmaulana",
-                "kesan": "Kirain bg arafi orgnya pendiam, ternyata pas udah ngobrol asik dan kocak juga, dan juga bg arafi tetangga ayu ting ting",  
-                "pesan": "Semangat dan sukses kuliahnya bg arafi, "
+                "kesan": "Kirain bg Arafi orgnya pendiam, ternyata pas udah ngobrol asik dan kocak juga,tetangga ayu ting ting juga",  
+                "pesan": "Semangat dan sukses kuliahnya bg Arafi, "
             },
             {
                 "nama": "Asa Do'a Uyi",
@@ -923,8 +923,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Jl. Pembangunan Korpri",
                 "hobi": "Cari Ice Breaking",
                 "sosmed": "@u_yippy",
-                "kesan": " Kk uyi orangnya lucu, asik, Keren dan informatif",  
-                "pesan": "Semangat selalu kak uyi kuliahnya"
+                "kesan": " Kak Uyi orangnya lucu, asik, Keren dan informatif",  
+                "pesan": "Semangat selalu kak Uyi kuliahnya"
             },
             {
                 "nama": "Chalifia Wananda",
@@ -934,8 +934,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Senopati Raya",
                 "hobi": "Mereview Jurnal",
                 "sosmed": "@chlfawww",
-                "kesan": "ternyata kakanya urang awak juga",  
-                "pesan": "semangat selalu kak"
+                "kesan": "Ternyata kakanya urang awak juga, kak Chalifia baikk banget asik juga",  
+                "pesan": "Semangat selalu kak kuliahnyaa"
             },
             {
                 "nama": "Irvan Alfaritzi",
