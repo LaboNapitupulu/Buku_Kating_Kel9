@@ -769,7 +769,7 @@ elif menu == "Departemen Eksternal":
         "https://drive.google.com/uc?export=view&id=1T6QfBqkXm3Bv3J7RzJNxC5VuWhBkQIc1", #Kak Izza 
         "https://drive.google.com/uc?export=view&id=19RTYQHrVSfdJ5RWGIXUigYccXV2b7vn_", #Kak Khaalishah 
         "https://drive.google.com/uc?export=view&id=1193xrrIUl-K3vpbJvB_4XjQbA8ZGzCKw", #kak Yuna
-        "https://drive.google.com/uc?export=view&id=1EgvPQj2A9I_2Km9B0yC_uW405GOsUi_0", #Bang Raid
+        "https://drive.google.com/uc?export=view&id=1uKsVIbDc8dizbcdN2khTZoQwAjv4NBPU", #Bang Raid
     
         ]
         data_list = [
