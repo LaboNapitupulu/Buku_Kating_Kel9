@@ -819,7 +819,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal": "Bekasi",
                 "alamat": "TVRI",
-                "hobi": "Mengaji",
+                "hobi": "Bikin portofolio",
                 "sosmed": "@rzkdrnnn",
                 "kesan": "Bang Rizki vibesnya kocak",  
                 "pesan": "Semangat TA bang"
@@ -1084,7 +1084,7 @@ elif menu == "Departemen Internal":
                 "asal": "Pesawaran",
                 "alamat": "Jl. Airan",
                 "hobi": "Renang Tapi Gabisa Renang",
-                "sosmed": "@farhanatz_",
+                "sosmed": "@slwfhn_694",
                 "kesan": "Kak Salwa vibesnya positif",
                 "pesan": "Bagi dong kakk vibesnyaa!"
             },
