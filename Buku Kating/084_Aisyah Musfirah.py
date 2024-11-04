@@ -804,7 +804,7 @@ elif menu == "Departemen Eksternal":
             },
             {
                 "nama": "Nazwa Nabilla",
-                "nim": "121450022",
+                "nim": "121450122",
                 "umur": "21",
                 "asal":"Bandar Lampung",
                 "alamat": "Bandar Lampung",
