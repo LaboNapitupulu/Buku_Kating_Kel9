@@ -769,7 +769,7 @@ elif menu == "Departemen Eksternal":
         "https://drive.google.com/uc?export=view&id=1T6QfBqkXm3Bv3J7RzJNxC5VuWhBkQIc1", #Kak Izza 
         "https://drive.google.com/uc?export=view&id=19RTYQHrVSfdJ5RWGIXUigYccXV2b7vn_", #Kak Khaalishah 
         "https://drive.google.com/uc?export=view&id=1uKsVIbDc8dizbcdN2khTZoQwAjv4NBPU", #Bang Raidd
-        "https://drive.google.com/uc?export=view&id=1193xrrIUl-K3vpbJvB_4XjQbA8ZGzCKw", #Kak Tria 
+    
         ]
         data_list = [
             {
@@ -981,17 +981,7 @@ elif menu == "Departemen Eksternal":
                 "kesan": "Bg Raid sedikit pendiam",  
                 "pesan": "Semangat bang kuliahnya"
             },
-            {
-                "nama": "Tria Yunanni",
-                "nim": "122450062",
-                "umur": "20",
-                "asal": "Way Kanan Lampung",
-                "alamat": "Sukarame",
-                "hobi": "Baca Artikel",
-                "sosmed": "@tria_y062",
-                "kesan": "Kak Yuna orangnya lucu dan asik banget",  
-                "pesan": "Semangat kuliahnya kak Yuna"
-            },
+        
         ]
         display_images_with_data(gambar_urls, data_list)
     eksternal()
