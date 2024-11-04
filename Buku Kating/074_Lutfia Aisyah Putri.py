@@ -534,7 +534,7 @@ elif menu == "Departemen PSDA":
                 "kesan": "Bang Sahid baik dan asik juga ",  
                 "pesan":"Semangat kuliahnya bang"
             },
-                        {
+            {
                 "nama": "M. Farhan Athaulloh",
                 "nim": "121450117",
                 "umur": "21",
@@ -585,19 +585,19 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1nOeERLpfGRtBZf3CMBA_x9gN1GqHJ23S", #Bg Rafi ok
-            "https://drive.google.com/uc?export=view&id=1obxtWGZnduLKopfygCh9tLOplfRR5SDb", #Kak Anova ok
-            "https://drive.google.com/uc?export=view&id=13-ZWyfcgIJ9ylSIom4biRzVv6T5ajZx8", #Bg Ahmad Akbar ok
-            "https://drive.google.com/uc?export=view&id=1nTNQylLe4VLtRZtWpv4-J3WghblF1BFO", #Bg Fadhil ok
-            "https://drive.google.com/uc?export=view&id=1nnWZPzVG_X_ejtQsNHZDSSt-LsPX_S0M", #Kak Dina ok
-            "https://drive.google.com/uc?export=view&id=1o9TyqhoWBJmIrSMUKGjbx8Q61hCC-iGy", #Kak Dinda ok
-            "https://drive.google.com/uc?export=view&id=1oyLir7k_3NmHZcISv42mo5F0x4qlzkIm", #Kak Eta ok
-            "https://drive.google.com/uc?export=view&id=1oVMWzKxZ7EFSajcvdozfw5n53cHaD-QE", #Kak Rut ok 
-            "https://drive.google.com/uc?export=view&id=1oIdQ2mkUTMVzhVqjxmexZN4tWWEzL_G6", #Kak Puspa ok
-            "https://drive.google.com/uc?export=view&id=1n8LpPGIYM1tyb_G_DatOOd9hU2MOGwgs", #Bg Eggi _
-            "https://drive.google.com/uc?export=view&id=1oEa2ReH9xPXEWYh-ngPBDYYU8A9p6XXz", #Kak Febiya _
-            "https://drive.google.com/uc?export=view&id=1nQYyV0J_5f2NNZIHx_Vucis_gQ69DSgt", #Bang Happy ok
-            "https://drive.google.com/uc?export=view&id=1orQtMT744H7iNxkeRiXFhnnv0a6YQQQy", #Bang Randa ok
+            "https://drive.google.com/uc?export=view&id=1nOeERLpfGRtBZf3CMBA_x9gN1GqHJ23S", #Bg Rafi 
+            "https://drive.google.com/uc?export=view&id=1obxtWGZnduLKopfygCh9tLOplfRR5SDb", #Kak Anova 
+            "https://drive.google.com/uc?export=view&id=13-ZWyfcgIJ9ylSIom4biRzVv6T5ajZx8", #Bg Ahmad Akbar 
+            "https://drive.google.com/uc?export=view&id=1nTNQylLe4VLtRZtWpv4-J3WghblF1BFO", #Bg Fadhil
+            "https://drive.google.com/uc?export=view&id=1nnWZPzVG_X_ejtQsNHZDSSt-LsPX_S0M", #Kak Dina 
+            "https://drive.google.com/uc?export=view&id=1o9TyqhoWBJmIrSMUKGjbx8Q61hCC-iGy", #Kak Dinda 
+            "https://drive.google.com/uc?export=view&id=1oyLir7k_3NmHZcISv42mo5F0x4qlzkIm", #Kak Eta 
+            "https://drive.google.com/uc?export=view&id=1oVMWzKxZ7EFSajcvdozfw5n53cHaD-QE", #Kak Rut 
+            "https://drive.google.com/uc?export=view&id=1oIdQ2mkUTMVzhVqjxmexZN4tWWEzL_G6", #Kak Puspa 
+            "https://drive.google.com/uc?export=view&id=1n8LpPGIYM1tyb_G_DatOOd9hU2MOGwgs", #Bg Eggi
+            "https://drive.google.com/uc?export=view&id=1oEa2ReH9xPXEWYh-ngPBDYYU8A9p6XXz", #Kak Febiya
+            "https://drive.google.com/uc?export=view&id=1nQYyV0J_5f2NNZIHx_Vucis_gQ69DSgt", #Bang Happy 
+            "https://drive.google.com/uc?export=view&id=1orQtMT744H7iNxkeRiXFhnnv0a6YQQQy", #Bang Randa 
         ]
         data_list = [
             {
@@ -776,7 +776,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Yogy Sae Tama",
                 "nim": "121450041",
-                "umur": "21",
+                "umur": "71",
                 "asal":"Tangerang",
                 "alamat": "Sukarame",
                 "hobi": "Tidur",
@@ -900,7 +900,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal": "Bekasi",
                 "alamat": "TVRI",
-                "hobi": "",
+                "hobi": "Bikin portofolio",
                 "sosmed": "@rzkdrnnn",
                 "kesan": "Ternyata bg Beno kadiv pengmas",  
                 "pesan": "Semangat selalu kuliahnya, semoga lulus tepat waktu"
@@ -1067,7 +1067,7 @@ elif menu == "Departemen Internal":
             "asal": "Pesawaran",
             "alamat": "Jl. Airan",
             "hobi": "Renang Tapi Gabisa Renang",
-            "sosmed": "@",
+            "sosmed": "@slwfhn_694",
             "kesan": "Kakanya asik",
             "pesan": "Semangat kuliahnya kak"
         },
@@ -1145,16 +1145,16 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1lhK5_2GOiVO9VQ8YmWUp-tzT4PpjlQPi", #Bang Andrian ok
-            "https://drive.google.com/uc?export=view&id=19OJDEWY7tkq1A3yFe05rqZ8q82k7z5Na", #Kak Adisty ok
-            "https://drive.google.com/uc?export=view&id=1L04MBn0jRYm_JmTFgE2UlU2HfdCCCMVu",# Kak Nabila ok
-            "https://drive.google.com/uc?export=view&id=1Tj61nZIwbNbVRYsAN_qF6dxQiXL8P-gO",# Kak Nabilah ok
-            "https://drive.google.com/uc?export=view&id=1cKXK0MzOcyCw_17x8SJ6Vog910aLsVCk",# Bang Ahmad ok
-            "https://drive.google.com/uc?export=view&id=1TfVXFKU5PNYcEHLtqKzglpUuffi0OHJV",# Bang Danang ok
-            "https://drive.google.com/uc?export=view&id=1_rY7_kuxdrZ0qpDhwUzoctZzemkOjIjw",# Bang Farrel ok
-            "https://drive.google.com/uc?export=view&id=185LxfpL7bAAUZYB9_bz3oh9PBa0vOu-b",# Kak Tessa ok
+            "https://drive.google.com/uc?export=view&id=1lhK5_2GOiVO9VQ8YmWUp-tzT4PpjlQPi", #Bang Andrian 
+            "https://drive.google.com/uc?export=view&id=19OJDEWY7tkq1A3yFe05rqZ8q82k7z5Na", #Kak Adisty 
+            "https://drive.google.com/uc?export=view&id=1L04MBn0jRYm_JmTFgE2UlU2HfdCCCMVu",# Kak Nabila 
+            "https://drive.google.com/uc?export=view&id=1Tj61nZIwbNbVRYsAN_qF6dxQiXL8P-gO",# Kak Nabilah 
+            "https://drive.google.com/uc?export=view&id=1cKXK0MzOcyCw_17x8SJ6Vog910aLsVCk",# Bang Ahmad 
+            "https://drive.google.com/uc?export=view&id=1TfVXFKU5PNYcEHLtqKzglpUuffi0OHJV",# Bang Danang 
+            "https://drive.google.com/uc?export=view&id=1_rY7_kuxdrZ0qpDhwUzoctZzemkOjIjw",# Bang Farrel 
+            "https://drive.google.com/uc?export=view&id=185LxfpL7bAAUZYB9_bz3oh9PBa0vOu-b",# Kak Tessa 
             "https://drive.google.com/uc?export=view&id=1Xlhj8aldO9kFSCx44cnAwitVceiZvAKj",# Kak Alvia
-            "https://drive.google.com/uc?export=view&id=18ea20rjYT9w3n1ln_Eslu39j0ovaORB5",# Kak Dhafin ok
+            "https://drive.google.com/uc?export=view&id=18ea20rjYT9w3n1ln_Eslu39j0ovaORB5",# Kak Dhafin 
             "https://drive.google.com/uc?export=view&id=1uXRcGvzNZ0saDX67DiEbnXI_iFIKuxbJ",# Kak Elia 
 
         ]
@@ -1287,7 +1287,7 @@ elif menu == "Departemen SSD":
 else:
     def medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=16Zzi63VoIIiM7JOM0VMVZNK2mjmJV7pK", # bang tao ok 
+            "https://drive.google.com/uc?export=view&id=16Zzi63VoIIiM7JOM0VMVZNK2mjmJV7pK", # bang tao 
             "https://drive.google.com/uc?export=view&id=10IOZam_B8zrZTv-EH0SAb9UrqY2pJCSO", # kak arsyi ok
             "https://drive.google.com/uc?export=view&id=10JbY_dYbErs1rDf6LOpkSt705CcjocT8", # bang kai ok 
             "https://drive.google.com/uc?export=view&id=1a2sQgKTKc3q59rm_rzUqeAnj2Sd8MeyA", # bang arsal ok 
