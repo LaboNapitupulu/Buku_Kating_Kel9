@@ -816,7 +816,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Rizki Adrian Bennovry",
                 "nim": "121450073",
-                "umur": "21",
+                "umur": "79",
                 "asal": "Bekasi",
                 "alamat": "TVRI",
                 "hobi": "Bikin portofolio",
