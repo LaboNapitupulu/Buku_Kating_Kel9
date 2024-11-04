@@ -905,7 +905,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal":"Bekasi",
                 "alamat": "TVRI",
-                "hobbi": "Dengar musik",
+                "hobbi": "Bikin Portofolio",
                 "sosmed": "@rzkdrnnn",
                 "kesan": "Abangnyaa tinggii dann kerenn",  
                 "pesan":"Lancar teruss ya bang di pengmas !!!"#12
