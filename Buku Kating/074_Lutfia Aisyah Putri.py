@@ -755,7 +755,7 @@ elif menu == "Departemen Eksternal":
         "https://drive.google.com/uc?export=view&id=1unxwiOA3L6Kz3nmaJy5XguIb9DH7iMDf", #Kak Nazwa
         "https://drive.google.com/uc?export=view&id=1O1rQEuPoFwbNW8dyLScN_x7rLBVOGxl8", #Bg Bastian 
         "https://drive.google.com/uc?export=view&id=1ZnAzTAnwrNvFL-SOtsJ4qD8iDnL2QrRU", #Kak Dea 
-        "https://drive.google.com/uc?export=view&id=112VkeCu3AQLzHZkXurDtOizM5hcCIR_qz", #Kak Esteria 
+        "https://drive.google.com/uc?export=view&id=1O1rQEuPoFwbNW8dyLScN_x7rLBVOGxl8", #Kak Esteria 
         "https://drive.google.com/uc?export=view&id=1ZnAzTAnwrNvFL-SOtsJ4qD8iDnL2QrRU", #Kak Natasya
         "https://drive.google.com/uc?export=view&id=1sbYlzaoC8JCNN2kXBQB8lvB821wbTC6U", #Kak Novelia 
         "https://drive.google.com/uc?export=view&id=132m9wfOAyGZdDKfIvy5NOOggnMtqB48L", #Kak Ratu
