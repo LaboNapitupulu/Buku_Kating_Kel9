@@ -183,7 +183,7 @@ elif menu == "Baleg":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1kh-lyef9moCoZRR87FTar60F8fNE7T0B", #Kak Tri
             "https://drive.google.com/uc?export=view&id=1lQlSq-UhKE3v_HuJZ4PgAOIE8F--F3hz", #Kak Anisa
-            "https://drive.google.com/uc?export=view&id=143ozXy1GiNC6ip1TDKU2p08PFGMU5GI7",
+            "https://drive.google.com/uc?export=view&id=143ozXy1GiNC6ip1TDKU2p08PFGMU5GI7", 
             "https://drive.google.com/uc?export=view&id=1nSPvZ_r5o5SKRICbwWklHIjdPGG2g9yR", #Kak Anisa           
             "https://drive.google.com/uc?export=view&id=1rErl9RtAvNjF-oeoSVisoSD6EWLXn2iE", #Kak Claudhea
             "https://drive.google.com/uc?export=view&id=1m_zeYj-Qyvp6feU5VKcROoHHE_1SkW5N", #Bang Farul
@@ -206,13 +206,13 @@ elif menu == "Baleg":
                 "pesan": "Semoga selalu aktif kak"
             },
             {
-                "nama": "Anisa Dini Amalia",
-                "nim": "121450081",
-                "umur": "21",
-                "asal":"Malang",
-                "alamat": "Jati agung",
-                "hobi": "Baca webtoon",
-                "sosmed": "@anisadini10",
+                "nama"	    : "Annisa Cahyani Surya",
+                "nim"		: "121450114",
+                "umur"	    : "21",
+                "asal"		: "Tangerang",
+                "alamat"	: "Jatimulyo",
+                "hobi"		: "Baca dan nonton",
+                "sosmed"	: "@annisacahyanisurya",
                 "kesan": "Kakak ini definisi cewe kue",  
                 "pesan":"Semoga jadi penulis webtoon"
             },
@@ -228,13 +228,13 @@ elif menu == "Baleg":
                 "pesan":"Semoga kakak ini stay tomboy soalnya cocok"
             },
             {
-                "nama"	    : "Annisa Cahyani Surya",
-                "nim"		: "121450081",
-                "umur"	    : "21",
-                "asal"		: "Medan",
-                "alamat"	: "Raden Saleh",
-                "hobi"		: "Nonton drakor",
-                "sosmed"	: "@annisacahyanisurya",
+               "nama": "Anisa Dini Amalia",
+                "nim": "121450081",
+                "umur": "21",
+                "asal":"Malang",
+                "alamat": "Jati agung",
+                "hobi": "Baca webtoon",
+                "sosmed": "@anisadini10",
                 "kesan"	    : "Kakak ini dari cara ngomongnya pinter",  
                 "pesan"	    : "Semoga lulus tepat waktu kak"
             },
