@@ -201,7 +201,7 @@ elif menu == "Baleg":
                 "asal":"Bogor",
                 "alamat": "Raden Saleh",
                 "hobbi": "Searching di perplexcity",
-                "sosmed": "@@trimurniaa_",
+                "sosmed": "@trimurniaa_",
                 "kesan": "Public Speaking kakaknya bagus banget",  
                 "pesan":"Semangat semester akhirnya kak"
             },
@@ -895,7 +895,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal": "Bekasi",
                 "alamat": "TVRI",
-                "hobbi": "",
+                "hobbi": "Bikin portofolio",
                 "sosmed": "@rzkdrnnn",
                 "kesan": "Abangnya baik banget",  
                 "pesan": "Semangat terus semester akhirnya bang"
@@ -1049,9 +1049,9 @@ elif menu == "Departemen Internal":
             "nim": "122450030",
             "umur": "20",
             "asal": "Metro",
-            "alamat": "",
-            "hobbi": "",
-            "sosmed": "@",
+            "alamat": "Rajabasa",
+            "hobbi": "Denger musik",
+            "sosmed": "@ranniu",
             "kesan": "Kakaknya skena abis",
             "pesan": "Tips agar kece kak "
         },
@@ -1073,7 +1073,7 @@ elif menu == "Departemen Internal":
             "asal": "Pesawaran",
             "alamat": "Jl. Airan",
             "hobbi": "Renang Tapi Gabisa Renang",
-            "sosmed": "@",
+            "sosmed": "@slwfhn_694",
             "kesan": "Kakaknya cantik banget",
             "pesan": "Hobbi kakak pun sama kayak akuu"
         },
@@ -1317,7 +1317,7 @@ else:
                 "asal": "Makassar",
                 "alamat": "Sukarame",
                 "hobbi": "Nonton",
-                "sosmed": "@",
+                "sosmed": "@wahyudnt_0202",
                 "kesan": "Abangnya seruu banget",
                 "pesan": "Semangat skripsian bang"
             },
