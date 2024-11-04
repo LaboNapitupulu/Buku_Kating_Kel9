@@ -235,7 +235,7 @@ elif menu == "Baleg":
                 "hobi": "Gangguin orang ",
                 "sosmed": "@jeremia_s_",
                 "kesan": "Bang jerr asikk, baik dan ramah",  
-                "pesan":"semangat terus kuliahnya bangg, bahagia selalu orang baik # 4
+                "pesan":"semangat terus kuliahnya bangg, bahagia selalu orang baik" # 4
             },
             {
                 "nama": "Feriyadi Yulius ",
