@@ -913,7 +913,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Memasak",
                 "sosmed": "@arafiramadhanmaulana",
                 "kesan": "Kirain bg Arafi orgnya pendiam, ternyata pas udah ngobrol asik dan kocak juga,tetangga ayu ting ting juga",  
-                "pesan": "Semangat dan sukses kuliahnya bg Arafi, "
+                "pesan": "Semangat dan sukses kuliahnya bg Arafi "
             },
             {
                 "nama": "Asa Do'a Uyi",
@@ -970,7 +970,7 @@ elif menu == "Departemen Eksternal":
                 "kesan": "Kak Alya orangnya asik bangett",  
                 "pesan": "Semangat selalu kuliahnya kak"
             },
-            {
+          {
                 "nama": "Raid Muhammad Naufal",
                 "nim": "122450027",
                 "umur": "20",
@@ -978,8 +978,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobi": "Membuat Jurnal",
                 "sosmed": "@rayths_",
-                "kesan": "Bg Raid sedikit pendiam dan informatif penyampaiaannya",  
-                "pesan": "Semangat selalu bg kuliahnya"
+                "kesan": "Bg Raid sedikit pendiam",  
+                "pesan": "Semangat bang kuliahnya"
             },
             {
                 "nama": "Tria Yunanni",
@@ -989,8 +989,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobi": "Baca Artikel",
                 "sosmed": "@tria_y062",
-                "kesan": "Kak Yuna orangnya lucuu kocak bangett",  
-                "pesan": "Semangat selalu kk Yuna kuliahnya"
+                "kesan": "Kak Yuna orangnya lucu dan asik banget",  
+                "pesan": "Semangat kuliahnya kak Yuna"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
