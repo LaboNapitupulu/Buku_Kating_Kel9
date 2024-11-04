@@ -339,8 +339,8 @@ elif menu == "Senator":
                 "alamat": "Kost Putri Rahayu Indomaret",
                 "hobi": "Nyanyi",
                 "sosmed": "@anissaluthfi_",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "Nama kita sama kk hehe, Kak Lutfi keren banget bisa jadi senat, terlihat dari cara bicaranya yg tegas dan bijaksana",  
+                "pesan":"Semangat terus kak, semoga lulus tepat waktu kak, dan semoga kebijaksanaannya nular yaa kak ke lutfi uga"
             },
             {
                 "nama": "Rian Bintang Wijaya",
@@ -350,8 +350,8 @@ elif menu == "Senator":
                 "alamat": "Kota Baru",
                 "hobi": "Mendengarkan Lagu",
                 "sosmed": "@bintangtwinkle",
-                "kesan": "",  
-                "pesan":"semangat bang"
+                "kesan": "Orangnya terlihat tegas dan bijaksana",  
+                "pesan":"Semangat Selalu bang Bintang, semoga semakin jaya"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -388,8 +388,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kobam",
                 "hobi": "Travlling",
                 "sosmed": "@ericsonchandra99",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "Sempat takut banget sm bg Ericson, ternyata abgnya baik banget sangat memotivasi kami sebagai calon-calon anggota HMSD Adyatama",  
+                "pesan":"Terimakasih bg, semoga sukses dan jaya selalu bg lulus tepat waktu"
             },
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
