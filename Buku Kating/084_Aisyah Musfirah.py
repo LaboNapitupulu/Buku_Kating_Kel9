@@ -783,7 +783,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Yogy Sae Tama",
                 "nim": "121450041",
-                "umur": "21",
+                "umur": "79",
                 "asal":"Tangerang",
                 "alamat": "Sukarame",
                 "hobi": "Tidur",
@@ -816,7 +816,7 @@ elif menu == "Departemen Eksternal":
             {
                 "nama": "Rizki Adrian Bennovry",
                 "nim": "121450073",
-                "umur": "79",
+                "umur": "21",
                 "asal": "Bekasi",
                 "alamat": "TVRI",
                 "hobi": "Bikin portofolio",
